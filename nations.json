@@ -1,0 +1,762 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id\u003dcom.astromobile.stickers.soccer",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "uefanationsleague2223w1",
+      "name": "Spain Champion UNL (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "uefanationsleague2223w2",
+      "name": "Spain Champion UNL (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "uefanationsleague2223tp1",
+      "name": "Netherlands vs Italy",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "uefanationsleague2223s2",
+      "name": "Spain vs Italy",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "uefanationsleague2223s1",
+      "name": "Netherlands v Croatia",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022argentina2",
+      "name": "World Cup Argentina 1",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022argentina3",
+      "name": "World Cup Argentina 2",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022leomessi3",
+      "name": "Leo Messi",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022france2",
+      "name": "World Cup France 1",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022france3",
+      "name": "World Cup France 3",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022germany2",
+      "name": "World Cup Germany 1",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022germany3",
+      "name": "World Cup Germany 2",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022spain2",
+      "name": "World Cup Spain 1",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022spain3",
+      "name": "World Cup Spain 2",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022mexico2",
+      "name": "World Cup Mexico 1",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022mexico3",
+      "name": "World Cup mexico 2",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022france2",
+      "name": "World Cup France 1",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022france3",
+      "name": "World Cup France 2",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022germany2",
+      "name": "World Cup Germany 1",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022germany3",
+      "name": "World Cup Germany 2",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022england2",
+      "name": "World Cup England 1",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "worldcup2022england3",
+      "name": "World Cup England 2",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "worldcup2022mexico",
+      "name": "Mexico 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022morocco",
+      "name": "Morocco 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022netherlands",
+      "name": "Netherlands 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022poland",
+      "name": "Poland 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022portugal",
+      "name": "Portugal 2022",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "worldcup2022qatar",
+      "name": "Qatar 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022saudiarabia",
+      "name": "Saudi Arabia 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022senegal",
+      "name": "Senegal 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022serbia",
+      "name": "Serbia 2022",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "worldcup2022southkorea",
+      "name": "South Korea 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022spain",
+      "name": "Spain 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022switzerland",
+      "name": "Switzerland 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022tunisia",
+      "name": "Tunisia 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022uruguay",
+      "name": "Uruguay 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022usa",
+      "name": "Usa 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022wales",
+      "name": "Wales 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022leongoretzka",
+      "name": "Leon Goretzka",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "worldcup2022leroysane",
+      "name": "Leroy Sane",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "worldcup2022lukasklostermann",
+      "name": "Lukas Klostermann",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "worldcup2022manuelneuer",
+      "name": "Manuel Neuer",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "worldcup2022nicoschlotterbeck",
+      "name": "Nico Schlotterbeck",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "worldcup2022niklassule",
+      "name": "Niklas Sule",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "worldcup2022sergegnabry",
+      "name": "Serge Gnabry",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "worldcup2022davidraum",
+      "name": "David Raum",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "worldcup2022jamalmusiala",
+      "name": "Jamal Musiala",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "worldcup2022joshuakimmich",
+      "name": "Joshua Kimmich",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "worldcup2022karimadeyemi",
+      "name": "Karim Adeyemi",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "worldcup2022thomasmuller2",
+      "name": "Thomas Muller",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "worldcup2022callumwilson",
+      "name": "Callum Wilson",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "worldcup2022jackggrealish",
+      "name": "Jackg Grealish",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "worldcup2022johnstones",
+      "name": "John Stones",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "worldcup2022jordanhenderson",
+      "name": "Jordan Henderson",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "worldcup2022kalvinphillips",
+      "name": "Kalvin Phillips",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "worldcup2022kierantrippier",
+      "name": "Kieran Trippier",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "worldcup2022kylewalker",
+      "name": "Kyle Walker",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "worldcup2022philfoden",
+      "name": "Phil Foden",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "worldcup2022raheemsterling",
+      "name": "Raheem Sterling",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022trentalexanderarnold",
+      "name": "Trent Alexander Arnold",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "amistososargentina2022a",
+      "name": "Argentina Friendly 2022",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "worldcupteams2022",
+      "name": "World Cup Teams 2022",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "finalissima1",
+      "name": "Finalissima 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "finalissima2",
+      "name": "Finalissima 2",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "qatar2022a",
+      "name": "Qatar 2022",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "conmebolqatarf18",
+      "name": "Conmebol F18",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "uefaqatarkre",
+      "name": "Poland vs Sweden",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "uefaqatarkrf",
+      "name": "Portugal vs Macedonia",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "conmebolqatarf17b",
+      "name": "Conmebol F17 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "conmebolqatarf17a",
+      "name": "Conmebol F17 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "uefaqatarkrd",
+      "name": "Sweden vs Czech Republic",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "uefaqatarkrc",
+      "name": "Portugal vs Turkey",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "uefaqatarkrb",
+      "name": "Wales vs Austria",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "uefaqatarkra",
+      "name": "Italy vs Macedonia",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "worldcup1",
+      "name": "World Cup 2022",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "africacupnations2022w1",
+      "name": "Senegal Champion 2022",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "conmebolqatarf16",
+      "name": "Conmebol F16",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "conmebolqatarf15b",
+      "name": "Conmebol F15 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "conmebolqatarf15a",
+      "name": "Conmebol F15 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "uefaqatarf8c",
+      "name": "UEFA F8 (3)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "conmebolqatarf14",
+      "name": "Conmebol F14",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "uefaqatarf8b",
+      "name": "UEFA F8 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "england2021",
+      "name": "England 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "italy2021",
+      "name": "Italy 2021",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "brasil2021d",
+      "name": "Brasil 2021 (4)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "argentina2021d",
+      "name": "Argentina 2021 (4)",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "belgium2021",
+      "name": "Belgium 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "uefaqatarf8a",
+      "name": "UEFA F8 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "conmebolqatarf13b",
+      "name": "Conmebol F13",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "portugal2021",
+      "name": "Portugal 2021",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "france2021",
+      "name": "France 2021",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "germany2021",
+      "name": "Germany 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "turkey2021b",
+      "name": "Turkey 2021 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "conmebolqatarf12b",
+      "name": "Conmebol F12",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "conmebolqatarf5",
+      "name": "Conmebol F5",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "uefanationsleague2021f1",
+      "name": "France vs Spain",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "uefanationsleague20213p",
+      "name": "Italy vs Belgium",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "conmebolqatarf11",
+      "name": "Conmebol F11",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "uefanationsleague2021s2",
+      "name": "France vs Belgium",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "uefanationsleague2021s1",
+      "name": "Spain vs Italy",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "turkey2021",
+      "name": "Turkey 2021 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "mexico2021",
+      "name": "Mexico 2021",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "chile2021b",
+      "name": "Chile (2)",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "argentina2021c",
+      "name": "Argentina (3)",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "bolivia2021b",
+      "name": "Bolivia (2)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "brasil2021c",
+      "name": "Brasil (3)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "colombia2021b",
+      "name": "Colombia (2)",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "ecuador2021b",
+      "name": "Ecuador (2)",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "argentina2021b",
+      "name": "Argentina (2)",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "argentina2021",
+      "name": "Argentina",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "brasil2021b",
+      "name": "Brasil (2)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "brasil2021",
+      "name": "Brasil",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "bolivia2021",
+      "name": "Bolivia",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "chile2021",
+      "name": "Chile",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "colombia2021",
+      "name": "Colombia",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "ecuador2021",
+      "name": "Ecuador",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "paraguay2021b",
+      "name": "Paraguay (2)",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "paraguay2021",
+      "name": "Paraguay (1)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "peru2021b",
+      "name": "Peru (2)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "peru2021",
+      "name": "Peru (1)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "uruguay2021b",
+      "name": "Uruguay (2)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "uruguay2021",
+      "name": "Uruguay (1)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "venezuela2021b",
+      "name": "Venezuela (2)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "venezuela2021",
+      "name": "Venezuela (1)",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "spain",
+      "name": "Spain",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "argentina",
+      "name": "Argentina",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    }
+  ]
+}

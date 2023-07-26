@@ -1,0 +1,324 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id\u003dcom.astromobile.stickers.soccer",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "2023dfbpokalw1",
+      "name": "Leipzig DBF Pokal 22-23 Champions",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "2023bundesligaw2",
+      "name": "Bayern Champion 22-23 (2))",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "2023bundesligaw1",
+      "name": "Bayern Champion 22-23 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "2023bayernvsdortmund1",
+      "name": "Bayern vs Dortmund 2023",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022germany2",
+      "name": "World Cup Germany 1",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022germany3",
+      "name": "World Cup Germany 2",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022youssoufamoukoko",
+      "name": "Youssoufa Moukoko",
+      "animated_sticker_pack": false,
+      "stickers": "9"
+    },
+    {
+      "identifier": "worldcup2022julianbrandt",
+      "name": "Julian Brandt",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022davidraum",
+      "name": "David Raum",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "worldcup2022jamalmusiala",
+      "name": "Jamal Musiala",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "worldcup2022joshuakimmich",
+      "name": "Joshua Kimmich",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "worldcup2022karimadeyemi",
+      "name": "Karim Adeyemi",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "worldcup2022leongoretzka",
+      "name": "Leon Goretzka",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "worldcup2022leroysane",
+      "name": "Leroy Sane",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "worldcup2022lukasklostermann",
+      "name": "Lukas Klostermann",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "worldcup2022manuelneuer",
+      "name": "Manuel Neuer",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "worldcup2022nicoschlotterbeck",
+      "name": "Nico Schlotterbeck",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "worldcup2022niklassule",
+      "name": "Niklas Sule",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "worldcup2022sergegnabry",
+      "name": "Serge Gnabry",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "worldcup2022thomasmuller2",
+      "name": "Thomas Muller",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "bayernw2022",
+      "name": "Bayern Munich W 2022",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "wolfsburgw2022",
+      "name": "Wolfsburg W 2022",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "dortmundvsbayern2022",
+      "name": "Dortmund vs Bayern Munich 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "dortmundvsbayern2022a1",
+      "name": "Dortmund vs Bayern Munich 2022 (2)",
+      "animated_sticker_pack": true,
+      "stickers": "6"
+    },
+    {
+      "identifier": "supercup2022f2",
+      "name": "Bayern Champions SuperCup22",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "dfbpokal2122w1",
+      "name": "DFB Pokal-Sieger",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "bundesliga2122w3",
+      "name": "Bayern Champion 3",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "bundesliga2122w1",
+      "name": "Bayern Champion 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "bundesliga2122w2",
+      "name": "Bayern Champion 2",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "bayern2022",
+      "name": "Bayern Munich 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "dortmund2022",
+      "name": "Borussia D. 2022",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "arminiabielefeld2021",
+      "name": "Arminia Bielefeld 2021",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "augsburgo2021",
+      "name": "Augsburgo 2021",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "bayerleverkusen2021",
+      "name": "Bayer Leverkusen 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "bochum2021",
+      "name": "Bochum 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "borussiamoenchengladbach2021",
+      "name": "Borussia M. 2021",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "eintrachtfrankfurt2021",
+      "name": "Eintracht Frankfurt 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "freiburg2021",
+      "name": "Freiburg 2021",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "greutherfurth2021",
+      "name": "Greuther Furth 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "hertha2021",
+      "name": "Hertha 2021",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "hoffenheim2021",
+      "name": "Hoffenheim 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "koln2021",
+      "name": "Koln 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "mainz2021",
+      "name": "Mainz 2021",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "stuttgart2021",
+      "name": "Stuttgart 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "unionberlin2021",
+      "name": "Union Berlin 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "wolfsburg2021",
+      "name": "Wolfsburg 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "leipzig2021",
+      "name": "Leipzig 2021",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "bayern2021",
+      "name": "Bayern Munich 2021",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "dortmund2021",
+      "name": "Borussia D. 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "dortmund2020",
+      "name": "Borussia D. 2020",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "bayern2020",
+      "name": "Bayern Munich Champion 2020",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "schalke2019",
+      "name": "Schalke 04",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "dortmund2019",
+      "name": "Borussia D. 2019",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id\u003dcom.astromobile.stickers.soccer",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "ufcl2223w7",
+      "name": "Man City Champion 22-23 (8)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "ufcl2223w6",
+      "name": "Man City Champion 22-23 (7)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "ufcl2223w5",
+      "name": "Man City Champion 22-23 (6)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "ufcl2223w4",
+      "name": "Man City Champion 22-23 (5)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "ufcl2223w3",
+      "name": "Man City Champion 22-23 (4)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "ufcl2223w2",
+      "name": "Man City Champion 22-23 (3)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "ufcl2223w1",
+      "name": "Man City Champion 22-23 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "ufcl2223f1",
+      "name": "Man City Champion 22-23 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ucl2223prefinal1",
+      "name": "Lets Go City",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "ucl2223prefinal2",
+      "name": "Forza Inter",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "ufcl2223s7",
+      "name": "City vs Real Madrid",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223s5",
+      "name": "Inter vs Milan (1)",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "ufcl2223s6",
+      "name": "Inter vs Milan (2)",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "ufcl2223s3",
+      "name": "Inter vs Milan (1)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "ufcl2223s4",
+      "name": "Inter vs Milan (2)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "ufcl2223s1",
+      "name": "Real Madrid vs City (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223s2",
+      "name": "Real Madrid vs City (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223c8",
+      "name": "Inter vs Benfica",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223c7",
+      "name": "Bayern vs Manchester City",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223c6",
+      "name": "Chelsea vs Real Madrid",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223c5",
+      "name": "Napoli vs Milan",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223c4",
+      "name": "Milan vs Napoli",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223c3",
+      "name": "Real Madrid vs Chelsea",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223c2",
+      "name": "Manchester City vs Bayern Munich",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223c1",
+      "name": "Benfica vs Inter",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223o16",
+      "name": "Napoli vs Eintracht Frankfurt",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223o15",
+      "name": "Real Madrid vs Liverpool",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223o14",
+      "name": "Porto vs Inter",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223o13",
+      "name": "Manchester City vs Leipzig",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223o11",
+      "name": "Bayern vs PSG",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223o12",
+      "name": "Tottenham vs Milan",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223o9",
+      "name": "Benfica vs Club Brugge",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223o10",
+      "name": "Chelsea vs Dortmund",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223o8",
+      "name": "Leipzig vs City",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223o7",
+      "name": "Inter vs Porto",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223o5",
+      "name": "Liverpool vs Real Madrid",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223o6",
+      "name": "Frankfurt vs Napoli",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "ufcl2223o4",
+      "name": "Club Brugge vs Benfica",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "ufcl2223o3",
+      "name": "Dortmund vs Chelsea",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "ufcl2223o2",
+      "name": "Milan vs Tottenham",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223o1",
+      "name": "PSG vs Bayern",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223gp12",
+      "name": "UCL 22-23 Day 12",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223gp11",
+      "name": "UCL 22-23 Day 11",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223gp10",
+      "name": "UCL 22-23 Day 10",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223gp9",
+      "name": "UCL 22-23 Day 9",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223gp8",
+      "name": "UCL 22-23 Day 8",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223gp7",
+      "name": "UCL 22-23 Day 7",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223gp6",
+      "name": "UCL 22-23 Day 6",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223gp5",
+      "name": "UCL 22-23 Day 5",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223gp4",
+      "name": "UCL 22-23 Day 4",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "ufcl2223gp3",
+      "name": "UCL 22-23 Day 3",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223gp2",
+      "name": "UCL 22-23 Day 2",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223gp1",
+      "name": "UCL 22-23 Day 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    }
+  ]
+}

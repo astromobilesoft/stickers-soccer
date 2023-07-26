@@ -1,0 +1,324 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id\u003dcom.astromobile.stickers.soccer",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "worldcup2022w5",
+      "name": "Argentina Champion (5)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "worldcup2022w6",
+      "name": "Argentina Champion (6)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "worldcup2022s1c",
+      "name": "Argentina vs Croatia (3)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "worldcup2022q2c",
+      "name": "Argentina vs Netherlands (3)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "worldcup2022q2d",
+      "name": "Argentina vs Holanda (4)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "worldcup2022o2c",
+      "name": "Argentina vs Australia (3)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "worldcup2022GCpolandvsargentina3",
+      "name": "Poland vs Argentina (3)",
+      "animated_sticker_pack": true,
+      "stickers": "7"
+    },
+    {
+      "identifier": "qatar2022pet",
+      "name": "Qatar 2022",
+      "animated_sticker_pack": true,
+      "stickers": "25"
+    },
+    {
+      "identifier": "qatar2022flags",
+      "name": "Qatar 2022 Flags",
+      "animated_sticker_pack": true,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022GBenglandvsusa",
+      "name": "England vs USA",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "libertadores2022wa1",
+      "name": "Champion Libertadores 2022 (2)",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "libertadores2022c4a1",
+      "name": "Flamengo vs Corinthians (1)",
+      "animated_sticker_pack": true,
+      "stickers": "8"
+    },
+    {
+      "identifier": "andrewredmayne1",
+      "name": "Andrew Redmayne",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "premier2122m38a1",
+      "name": "City Champion 21-22 (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "premier2122m38a2",
+      "name": "City Champion 21-22 (3)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "soccerfans1",
+      "name": "Soccer Fans 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "facup2122wa1",
+      "name": "FA Cup Winner (1)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "facup2122wa2",
+      "name": "FA Cup Winner (2)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "coppaitalia2122f1a1",
+      "name": "Inter vs Juventus (2)",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "ufcl2122s4a1",
+      "name": "Real Madrid vs City (2)",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "ufcl2122s2a1",
+      "name": "Liverpool vs Villareal (2)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "ufcl2122s1a1",
+      "name": "City vs Real Madrid (2)",
+      "animated_sticker_pack": true,
+      "stickers": "22"
+    },
+    {
+      "identifier": "bundesliga2122w2",
+      "name": "Bayern Champion 2",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "lazio2022a1",
+      "name": "Lazio 2022 (1)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "lazio2022a2",
+      "name": "Lazio 2022 (2)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "roma2022a1",
+      "name": "Roma 2022 (1)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "roma2022a2",
+      "name": "Roma 2022 (2)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "barcelona2021a1",
+      "name": "Barcelona 2021 (3)",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "eflcup2122a1",
+      "name": "EFL 21-22 Champ (1)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "clubworldcup2021a2",
+      "name": "Chelsea Champion (2)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "clubworldcup2021a1",
+      "name": "Chelsea Champion (2)",
+      "animated_sticker_pack": true,
+      "stickers": "8"
+    },
+    {
+      "identifier": "animatedmen1",
+      "name": "Animated Men (1)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "animatedmen2",
+      "name": "Animated Men (2)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "animatedwoman1",
+      "name": "Animated Woman (1)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "animatedwoman2",
+      "name": "Animated Woman (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "atleticomadrida1",
+      "name": "Atletico Madrid (1)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "atleticomadrida2",
+      "name": "Atletico Madrid (2)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "papugomez",
+      "name": "Papu Gomez",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "gol1",
+      "name": "Gol",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "goal1",
+      "name": "Goal 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "goal2",
+      "name": "Goal 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "messibarca1",
+      "name": "Messi Barcelona",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "fifaa1",
+      "name": "Fifa Animated 1",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "fifaa2",
+      "name": "Fifa Animated 2",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "fifaa3",
+      "name": "Fifa Animated 3",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "borussiaa2021",
+      "name": "Borussia Dortmund",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "mbappe1",
+      "name": "Mbappe",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "bayerna1",
+      "name": "Bayern Animated",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "ufcl2021c2a",
+      "name": "Round of 4 (4)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "ufcl2021c1a",
+      "name": "Round of 4 (2)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "intera1",
+      "name": "Inter Animated",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "cristianoronaldo2",
+      "name": "Cristiano Ronaldo",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "memessoccer",
+      "name": "Animated Memes Soccer",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    }
+  ]
+}

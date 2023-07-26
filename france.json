@@ -1,0 +1,78 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id\u003dcom.astromobile.stickers.soccer",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "2023marseillevspsg",
+      "name": "Marseille vs PSG",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "worldcup2022france2",
+      "name": "World Cup France 1",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022france3",
+      "name": "World Cup France 3",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "lyonw2022",
+      "name": "Lyon W 2022",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "psgw2022",
+      "name": "PSG W 2022",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "psgsupercup22f1",
+      "name": "PSG SuperCup 22",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "ligueone2122w1",
+      "name": "PSG Champion",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "psg2022a",
+      "name": "PSG 2022 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "psg2022b",
+      "name": "PSG 2022 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "psg2021a",
+      "name": "PSG 2021 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "psg2021b",
+      "name": "PSG 2021 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "marsella2019",
+      "name": "Olympique Marsella",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    }
+  ]
+}

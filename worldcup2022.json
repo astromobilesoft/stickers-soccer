@@ -1,0 +1,1230 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id\u003dcom.astromobile.stickers.soccer",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "worldcup2022w10",
+      "name": "Argentina Champion (10)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022w11",
+      "name": "Argentina Champion (11)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022w12",
+      "name": "Argentina Champion (12)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022w7",
+      "name": "Argentina Champion (7)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "worldcup2022w8",
+      "name": "Argentina Champion (8)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "worldcup2022w9",
+      "name": "Argentina Champion (9)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "worldcup2022w5",
+      "name": "Argentina Champion (5)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "worldcup2022w6",
+      "name": "Argentina Champion (6)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "worldcup2022w4",
+      "name": "Argentina Champion (4)",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "worldcup2022w3",
+      "name": "Argentina Champion (3)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022w2",
+      "name": "Argentina Champion (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022w1",
+      "name": "Argentina Champion (1)",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "worldcup2022tp1",
+      "name": "Croatia vs Morocco",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022s2a",
+      "name": "France vs Morocco (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022s2b",
+      "name": "France vs Morocco (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022s1a",
+      "name": "Argentina vs Croatia (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022s1b",
+      "name": "Argentina vs Croatia (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022s1c",
+      "name": "Argentina vs Croatia (3)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "worldcup2022croatia1",
+      "name": "Croatia 1",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022croatia2",
+      "name": "Croatia 2",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022morrocco1",
+      "name": "Morrocco 1",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022morrocco2",
+      "name": "Morrocco 2",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022q4",
+      "name": "France vs England",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022q3",
+      "name": "Morocco vs Portugal",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022q2a",
+      "name": "Argentina vs Netherlands (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022q2b",
+      "name": "Argentina vs Netherlands (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022q2c",
+      "name": "Argentina vs Netherlands (3)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "worldcup2022q2d",
+      "name": "Argentina vs Netherlands (4)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "worldcup2022q2e",
+      "name": "Argentina vs Netherlands (5)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022q1b",
+      "name": "Brazil vs Croatia (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022q1a",
+      "name": "Brazil vs Croatia (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022o8a",
+      "name": "Portugal vs Switzerland 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022o8b",
+      "name": "Portugal vs Switzerland 2",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022o7",
+      "name": "Morocco vs Spain",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022o6a",
+      "name": "Brazil vs South Korea (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022o6b",
+      "name": "Brazil vs South Korea (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022o5",
+      "name": "Japan vs Croatia",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022o4a",
+      "name": "England vs Senegal (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022o4b",
+      "name": "England vs Senegal (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022o3",
+      "name": "France vs Poland",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022o2a",
+      "name": "Argentina vs Australia (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022o2b",
+      "name": "Argentina vs Australia (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022o1",
+      "name": "Netherlands vs USA",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022o2c",
+      "name": "Argentina vs Australia (3)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "worldcup2022GGcameroonvsbrazil",
+      "name": "Cameroon vs Brazil",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GGserbiavsswitzerland",
+      "name": "Serbia vs Switzerland",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GHsouthkoreavsportugal",
+      "name": "South Korea vs Portugal",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GHghanavsuruguay",
+      "name": "Ghana vs Uruguay",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GEjapanvsspain",
+      "name": "Japan vs Spain",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GEcostaricavsgermany",
+      "name": "Costa Rica vs Germany",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GFcroatiavsbelgium",
+      "name": "Croatia vs Belgium",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GFcanadavsmorocco",
+      "name": "Canada vs Morocco",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GCsaudiarabiavsmexico",
+      "name": "Saudi Arabia vs Mexico",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GCpolandvsargentina1",
+      "name": "Poland vs Argentina (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GCpolandvsargentina2",
+      "name": "Poland vs Argentina (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GCpolandvsargentina3",
+      "name": "Poland vs Argentina (3)",
+      "animated_sticker_pack": true,
+      "stickers": "7"
+    },
+    {
+      "identifier": "worldcup2022GDtunisiavsfrance",
+      "name": "Tunisia vs France",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GDaustraliavsdenmark",
+      "name": "Austraia vs Denmark",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GBiranvsusa",
+      "name": "Iran vs USA",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GBwalesvsengland",
+      "name": "Wales vs England",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GAnetherlandsvqatar",
+      "name": "Netherlands vs Qatar",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GAecuadorvssenegal",
+      "name": "Ecuador vs Senegal",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GHportugalvsuruguay",
+      "name": "Portugal vs Uruguay",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GGbrazilvsswitzerland",
+      "name": "Brasil vs Switzerland",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GHsouthkoreavsghana",
+      "name": "South Korea vs Ghana",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GGcameroonvsserbia",
+      "name": "Cameroon vs Serbia",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GEspainvsgermany",
+      "name": "Spain vs Germany",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GFcroatiavscanada",
+      "name": "Croatia vs Canada",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GFbelgiumvsmorocco",
+      "name": "Belgium vs Morocco",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GEjapanvscostarica",
+      "name": "Japan vs Costa Rica",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GCargentinavsmexico1",
+      "name": "Argentina vs Mexico (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GCargentinavsmexico2",
+      "name": "Argentina vs Mexico (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GDfrancevsdenmark",
+      "name": "France vs Denmark",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GCpolandvssaudiarabia",
+      "name": "Poland vs Saudi Arabia",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GDtunisiavsaustralia",
+      "name": "Tunisia vs Australia",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "qatar2022pet",
+      "name": "Qatar 2022",
+      "animated_sticker_pack": true,
+      "stickers": "25"
+    },
+    {
+      "identifier": "qatar2022flags",
+      "name": "Qatar 2022 Flags",
+      "animated_sticker_pack": true,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022angelcorrea",
+      "name": "Angel Correa",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022enzofernandez",
+      "name": "Enzo Fernandez",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "worldcup2022exequielpalacios",
+      "name": "Exequiel Palacios",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "worldcup2022francoarmani",
+      "name": "Franco Armani",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "worldcup2022geronimorulli",
+      "name": "Geronimo Rulli",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "worldcup2022guidorodriguez",
+      "name": "Guido Rodriguez",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "worldcup2022juanfoyth",
+      "name": "Juan Foyth",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "worldcup2022julianalvarez",
+      "name": "Julian Alvarez",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022thiagoalmada",
+      "name": "Thiago Almada",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "worldcup2022GBenglandvsusa",
+      "name": "England vs USA",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GAnetherlandsvsecuador",
+      "name": "Netherlands vs Ecuador",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GAqatarvssenegal",
+      "name": "Qatar vs Senegal",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GBwalesvsiran",
+      "name": "Wales vs Iran",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GGbrazilvsserbia1",
+      "name": "Brazil vs Serbia (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GGbrazilvsserbia2",
+      "name": "Brazil vs Serbia (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GHportugalvsghana",
+      "name": "Portugal vs Ghana",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GHuruguayvssouthkorea",
+      "name": "Uruguay vs South Korea",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GGswitzerlandvscameroon",
+      "name": "Switzerland vs Cameroon",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GFbelgiumvscanada",
+      "name": "Belgium vs Canada",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GEgermanyvsjapan",
+      "name": "Germany vs Japan",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GFmoroccovscroatia",
+      "name": "Morroco vs Croatia",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "worldcup2022GEspainvscostarica1",
+      "name": "Spain vs Costa Rica (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GEspainvscostarica2",
+      "name": "Spain vs Costa Rica (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GDfrancevsaustralia",
+      "name": "France vs Australia",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GCmexicovspoland",
+      "name": "Mexico vs Poland",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GDdenmarkvstunisia",
+      "name": "Denmark vs Tunisia",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GCargentinavssaudiarabia1",
+      "name": "Argentina vs Saudi Arabia (1)",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "worldcup2022GCargentinavssaudiarabia2",
+      "name": "Argentina vs Saudi Arabia (2)",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "worldcup2022GBusavswales",
+      "name": "USA vs Wales",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GAsenegalvsnetherlands1",
+      "name": "Senegal vs Netherlands (1)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "worldcup2022GAsenegalvsnetherlands2",
+      "name": "Senegal vs Netherlands (2)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "worldcup2022GBenglandvsiran",
+      "name": "England vs Iran",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022brazil2",
+      "name": "World Cup Brazil 1",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022brazil3",
+      "name": "World Cup Brazil 2",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022GAqatarvsecuador",
+      "name": "Qatar vs Ecuador",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022argentina2",
+      "name": "World Cup Argentina 1",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022argentina3",
+      "name": "World Cup Argentina 2",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022spain2",
+      "name": "World Cup Spain 1",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022spain3",
+      "name": "World Cup Spain 2",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022mexico2",
+      "name": "World Cup Mexico 1",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022mexico3",
+      "name": "World Cup mexico 2",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022france2",
+      "name": "World Cup France 1",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022france3",
+      "name": "World Cup France 2",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022germany2",
+      "name": "World Cup Germany 1",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022germany3",
+      "name": "World Cup Germany 2",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022england2",
+      "name": "World Cup England 1",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "worldcup2022england3",
+      "name": "World Cup England 2",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "worldcup2022leomessi2",
+      "name": "Leo Messi",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022alexismacallister",
+      "name": "Alexis Mac Allister",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "worldcup2022angeldimaria",
+      "name": "Angel Di Maria",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "worldcup2022cutiromero",
+      "name": "Cuti Romero",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "worldcup2022dibumartinez",
+      "name": "Dibu Martinez",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022germanpezzella",
+      "name": "German Pezzella",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022gonzalomontiel",
+      "name": "Gonzalo Montiel",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "worldcup2022lautaromartinez",
+      "name": "Lautaro Martinez",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "worldcup2022leandroparedes",
+      "name": "Leandro Paredes",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "worldcup2022leomessi3",
+      "name": "Leo Messi",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022lionelscaloni",
+      "name": "Lionel Scaloni",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "worldcup2022marcosacuna",
+      "name": "Marcos Acuña",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "worldcup2022nahuelmolina",
+      "name": "Nahuel Molina",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "worldcup2022nicolasotamendi",
+      "name": "Nicolas Otamendi",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "worldcup2022nicolastagliafico",
+      "name": "Nicolas Tagliafico",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "worldcup2022papugomez",
+      "name": "Papu Gomez",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "worldcup2022paulodybala",
+      "name": "Paulo Dybala",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "worldcup2022rodrigodepaul",
+      "name": "Rodrigo De Paul",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "worldcup2022youssoufamoukoko",
+      "name": "Youssoufa Moukoko",
+      "animated_sticker_pack": false,
+      "stickers": "9"
+    },
+    {
+      "identifier": "worldcup2022julianbrandt",
+      "name": "Julian Brandt",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022leongoretzka",
+      "name": "Leon Goretzka",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "worldcup2022leroysane",
+      "name": "Leroy Sane",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "worldcup2022lukasklostermann",
+      "name": "Lukas Klostermann",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "worldcup2022manuelneuer",
+      "name": "Manuel Neuer",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "worldcup2022nicoschlotterbeck",
+      "name": "Nico Schlotterbeck",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "worldcup2022niklassule",
+      "name": "Niklas Sule",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "worldcup2022sergegnabry",
+      "name": "Serge Gnabry",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "worldcup2022davidraum",
+      "name": "David Raum",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "worldcup2022jamalmusiala",
+      "name": "Jamal Musiala",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "worldcup2022joshuakimmich",
+      "name": "Joshua Kimmich",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "worldcup2022karimadeyemi",
+      "name": "Karim Adeyemi",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "worldcup2022thomasmuller2",
+      "name": "Thomas Muller",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "worldcup2022callumwilson",
+      "name": "Callum Wilson",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "worldcup2022jackggrealish",
+      "name": "Jackg Grealish",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "worldcup2022johnstones",
+      "name": "John Stones",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "worldcup2022jordanhenderson",
+      "name": "Jordan Henderson",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "worldcup2022kalvinphillips",
+      "name": "Kalvin Phillips",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "worldcup2022kierantrippier",
+      "name": "Kieran Trippier",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "worldcup2022kylewalker",
+      "name": "Kyle Walker",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "worldcup2022philfoden",
+      "name": "Phil Foden",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "worldcup2022raheemsterling",
+      "name": "Raheem Sterling",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022trentalexanderarnold",
+      "name": "Trent Alexander Arnold",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022thomasmuller",
+      "name": "Thomas Muller",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "worldcup2022gundogan",
+      "name": "Ilkay Gundogan",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "worldcup2022shirts1",
+      "name": "World Cup Shirts 1",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "worldcup2022shirts2",
+      "name": "World Cup Shirts 2",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "worldcup2022shirts3",
+      "name": "World Cup Shirts 3",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "worldcup2022leyends",
+      "name": "Leyends 2022",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "worldcup2022argentina",
+      "name": "Argentina 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022australia",
+      "name": "Australia 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022belgium",
+      "name": "Belgium 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022brasil",
+      "name": "Brasil 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022cameroon",
+      "name": "Cameroon 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022canada",
+      "name": "Canada 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022costarica",
+      "name": "Costa Rica 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022croatia",
+      "name": "Croatia 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022denmark",
+      "name": "Denmark 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022ecuador",
+      "name": "Ecuador 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022england",
+      "name": "England 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022france",
+      "name": "France 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022germany",
+      "name": "Germany 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022ghana",
+      "name": "Ghana 2022",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "worldcup2022iran",
+      "name": "Iran 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022japan",
+      "name": "Japan 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022mexico",
+      "name": "Mexico 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022morocco",
+      "name": "Morocco 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022netherlands",
+      "name": "Netherlands 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022poland",
+      "name": "Poland 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022portugal",
+      "name": "Portugal 2022",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "worldcup2022qatar",
+      "name": "Qatar 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022saudiarabia",
+      "name": "Saudi Arabia 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022senegal",
+      "name": "Senegal 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022serbia",
+      "name": "Serbia 2022",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "worldcup2022southkorea",
+      "name": "South Korea 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022spain",
+      "name": "Spain 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022switzerland",
+      "name": "Switzerland 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022tunisia",
+      "name": "Tunisia 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022uruguay",
+      "name": "Uruguay 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022usa",
+      "name": "Usa 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022wales",
+      "name": "Wales 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    }
+  ]
+}

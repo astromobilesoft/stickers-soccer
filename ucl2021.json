@@ -1,0 +1,126 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id\u003dcom.astromobile.stickers.soccer",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "ufcl2021w2",
+      "name": "Chelsea Champion (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2021w1",
+      "name": "Chelsea Champion 2021",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "ufcl2021pf1",
+      "name": "Pre Final UCL 2021",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "ufcl2021s4",
+      "name": "Semifinal (4)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "ufcl2021s3",
+      "name": "Semifinal (3)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "ufcl2021s2",
+      "name": "Semifinal (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "ufcl2021s1",
+      "name": "Semifinal (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "ufcl2021c4",
+      "name": "Round of 4 (6)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2021c3",
+      "name": "Round of 4 (5)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2021c2",
+      "name": "Round of 4 (3)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2021c1",
+      "name": "Round of 4 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2021o8",
+      "name": "Round of 8 (8)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "ufcl2021o7",
+      "name": "Round of 8 (7)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2021o6",
+      "name": "Round of 8 (6)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2021o5",
+      "name": "Round of 8 (5)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2021o4",
+      "name": "Round of 8 (4)",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "ufcl2021o3",
+      "name": "Round of 8 (3)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "ufcl2021o2",
+      "name": "Round of 8 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "ufcl2021o1",
+      "name": "Round of 8 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "ucl2020",
+      "name": "Champions League 2020",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    }
+  ]
+}

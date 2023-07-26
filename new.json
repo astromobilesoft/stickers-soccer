@@ -1,0 +1,6144 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id\u003dcom.astromobile.stickers.soccer",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "uefanationsleague2223w1",
+      "name": "Spain Champion UNL (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "uefanationsleague2223w2",
+      "name": "Spain Champion UNL (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "uefanationsleague2223tp1",
+      "name": "Netherlands vs Italy",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "uefanationsleague2223s2",
+      "name": "Spain vs Italy",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "uefanationsleague2223s1",
+      "name": "Netherlands v Croatia",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223w7",
+      "name": "Man City Champion 22-23 (8)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "ufcl2223w6",
+      "name": "Man City Champion 22-23 (7)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "ufcl2223w5",
+      "name": "Man City Champion 22-23 (6)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "ufcl2223w4",
+      "name": "Man City Champion 22-23 (5)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "ufcl2223w3",
+      "name": "Man City Champion 22-23 (4)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "ufcl2223w2",
+      "name": "Man City Champion 22-23 (3)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "ufcl2223w1",
+      "name": "Man City Champion 22-23 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "ufcl2223f1",
+      "name": "Man City Champion 22-23 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "conferenceleague2223w1",
+      "name": "West Ham Champion 22-23",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ucl2223prefinal1",
+      "name": "Lets Go City",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "ucl2223prefinal2",
+      "name": "Forza Inter",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "messimiami1",
+      "name": "Messi to Inter Miami",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "zlatanibrahimovic",
+      "name": "Zlatan Ibrahimovic (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "zlatanibrahimovic2",
+      "name": "Zlatan Ibrahimovic (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "zlatanibrahimovic3",
+      "name": "Zlatan Ibrahimovic (3)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "2023tacaportugalw1",
+      "name": "Porto Taca Portugal Champion 22-23",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "ufcl2223ww1",
+      "name": "Barcelona W UCL Champion 22-23",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "2023dfbpokalw1",
+      "name": "Leipzig DBF Pokal 22-23 Champions",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "2023facupw1",
+      "name": "Man City FA CUP 22-23 Champions (1)",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "2023facupw2",
+      "name": "Man City FA CUP 22-23 Champions (2)",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "uel2223f3",
+      "name": "Sevilla Campeón UEL (3)",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "uel2223f1",
+      "name": "Sevilla Campeón UEL (1)",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "uel2223f2",
+      "name": "Sevilla Campeón UEL (2)",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "2023premierw1",
+      "name": "City Champion 22-23 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "2023premierw2",
+      "name": "City Champion 22-23 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "2023bundesligaw2",
+      "name": "Bayern Champion 22-23 (2))",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "2023bundesligaw1",
+      "name": "Bayern Champion 22-23 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "2023coppaitaliaw3",
+      "name": "Inter Coppa Italia 22-23 (3)",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "2023coppaitaliaw4",
+      "name": "Inter Coppa Italia 22-23 (4)",
+      "animated_sticker_pack": false,
+      "stickers": "9"
+    },
+    {
+      "identifier": "2023coppaitaliaw1",
+      "name": "Inter Coppa Italia 22-23 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "2023coppaitaliaw2",
+      "name": "Inter Coppa Italia 22-23 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "worldcup2026logo1",
+      "name": "We Are 26",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "ufcl2223s7",
+      "name": "City vs Real Madrid",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223s5",
+      "name": "Inter vs Milan (1)",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "ufcl2223s6",
+      "name": "Inter vs Milan (2)",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "2023barcelonacampeonlaliga1",
+      "name": "Barcelona Campeon (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "2023barcelonacampeonlaliga2",
+      "name": "Barcelona Campeon (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "ufcl2223s3",
+      "name": "Inter vs Milan (1)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "ufcl2223s4",
+      "name": "Inter vs Milan (2)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "ufcl2223s1",
+      "name": "Real Madrid vs City (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223s2",
+      "name": "Real Madrid vs City (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "copadelrey2223w1",
+      "name": "Real Madrid Campeón",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "2023serieaw1",
+      "name": "Napoli 22-23 Champion (1)",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "2023serieaw2",
+      "name": "Napoli 22-23 Champion (2)",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "2023serieaw3",
+      "name": "Napoli 22-23 Champion (3)",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "2023serieaw4",
+      "name": "Napoli 22-23 Champion (4)",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "2023serieaw5",
+      "name": "Napoli 22-23 Champion (5)",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "2023serieaw6",
+      "name": "Napoli 22-23 Champion (6)",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "erlinghaaland1",
+      "name": "Erling Haaland (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "erlinghaaland2",
+      "name": "Erling Haaland (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "victorosimhen1",
+      "name": "Victor Osimhen",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "lucianospalletti1",
+      "name": "Luciano Spalletti",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "khvichakvaratskhelia1",
+      "name": "Khvicha Kvaratskhelia",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "hirvinglozano1",
+      "name": "Hirving Lozano",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "giovannisimeone1",
+      "name": "Giovanni Simeone",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "eljifelmas1",
+      "name": "Eljif Elmas",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "alexmeret1",
+      "name": "Alex Meret",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "2023cityvsarsenal",
+      "name": "Man City vs Arsenal",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "tatycastellanos1",
+      "name": "Taty Castellanos",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223c8",
+      "name": "Inter vs Benfica",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223c7",
+      "name": "Bayern vs Manchester City",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223c6",
+      "name": "Chelsea vs Real Madrid",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223c5",
+      "name": "Napoli vs Milan",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223c4",
+      "name": "Milan vs Napoli",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223c3",
+      "name": "Real Madrid vs Chelsea",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223c2",
+      "name": "Manchester City vs Bayern Munich",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223c1",
+      "name": "Benfica vs Inter",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "2023benficavsporto1",
+      "name": "Benfica vs Porto",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "2023barsavsreal2",
+      "name": "Barcelona vs Real Madrid (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "2023bayernvsdortmund1",
+      "name": "Bayern vs Dortmund 2023",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "2023barsavsreal1",
+      "name": "Barcelona vs Real Madrid (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "2023laziovsroma1",
+      "name": "Lazio vs Roma",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223o16",
+      "name": "Napoli vs Eintracht Frankfurt",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223o15",
+      "name": "Real Madrid vs Liverpool",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223o14",
+      "name": "Porto vs Inter",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223o13",
+      "name": "Manchester City vs Leipzig",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223o11",
+      "name": "Bayern vs PSG",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223o12",
+      "name": "Tottenham vs Milan",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223o9",
+      "name": "Benfica vs Club Brugge",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223o10",
+      "name": "Chelsea vs Dortmund",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "2023realvsbarsa1",
+      "name": "Real Madrid vs Barcelona (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "thebest2022lionelmessi",
+      "name": "The Best 2022 Messi",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "thebest2022emilianomartinez",
+      "name": "The Best 2022 Martinez",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "thebest2022lionelscaloni",
+      "name": "The Best 2022 Scaloni",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "thebest2022alexiaputellas",
+      "name": "The Best 2022 Putellas",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "2023marseillevspsg",
+      "name": "Marseille vs PSG",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "eflcup2023w1",
+      "name": "ELF Cup Champions (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "eflcup2023w2",
+      "name": "ELF Cup Champions (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "2023realmadridvsatletico",
+      "name": "Real Madrid vs Atlético",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "europaleague2223f16b",
+      "name": "United vs Barcelona",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223o8",
+      "name": "Leipzig vs City",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223o7",
+      "name": "Inter vs Porto",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223o5",
+      "name": "Liverpool vs Real Madrid",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223o6",
+      "name": "Frankfurt vs Napoli",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "europaleague2223f16a",
+      "name": "Barcelona vs United",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223o4",
+      "name": "Club Brugge vs Benfica",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "ufcl2223o3",
+      "name": "Dortmund vs Chelsea",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "ufcl2223o2",
+      "name": "Milan vs Tottenham",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223o1",
+      "name": "PSG vs Bayern",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "2023liverpoolvseverton1",
+      "name": "Liverpool vs Everton",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "fifaclubworldcup2023a",
+      "name": "Real Madrid WC 23 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "fifaclubworldcup2023b",
+      "name": "Real Madrid WC 23 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "thebest2022pm",
+      "name": "The Best 2022 (PM)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "2023intervsmilan1",
+      "name": "Inter vs Milan",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "enzofernandez2",
+      "name": "Enzo Fernandez 2",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "2023realvsatletico1",
+      "name": "Real vs Atlético 2023",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "2023riyadhseasoncup",
+      "name": "Riyadh Season Cup 2023",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "supercupitalia2022f1",
+      "name": "Supercopa Italia 2023 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "supercupitalia2022f2",
+      "name": "Supercopa Italia 2023 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "supercup23f1",
+      "name": "Supercopa España 2023",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "2023unitedvscity",
+      "name": "United vs City (2023)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "cristianoalnassr1",
+      "name": "Cristiano Al-Nassr",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "newyear2023",
+      "name": "Happy New Year 2023",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "worldcup2022w10",
+      "name": "Argentina Champion (10)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022w11",
+      "name": "Argentina Champion (11)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022w12",
+      "name": "Argentina Champion (12)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022w7",
+      "name": "Argentina Champion (7)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "worldcup2022w8",
+      "name": "Argentina Champion (8)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "worldcup2022w9",
+      "name": "Argentina Champion (9)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "worldcup2022w5",
+      "name": "Argentina Champion (5)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "worldcup2022w6",
+      "name": "Argentina Champion (6)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "worldcup2022w4",
+      "name": "Argentina Champion (4)",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "worldcup2022w3",
+      "name": "Argentina Champion (3)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022w2",
+      "name": "Argentina Champion (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022w1",
+      "name": "Argentina Champion (1)",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "worldcup2022tp1",
+      "name": "Croatia vs Morocco",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022s2a",
+      "name": "France vs Morocco (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022s2b",
+      "name": "France vs Morocco (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022s1a",
+      "name": "Argentina vs Croatia (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022s1b",
+      "name": "Argentina vs Croatia (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022s1c",
+      "name": "Argentina vs Croatia (3)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "worldcup2022croatia1",
+      "name": "Croatia 1",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022croatia2",
+      "name": "Croatia 2",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022morrocco1",
+      "name": "Morrocco 1",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022morrocco2",
+      "name": "Morrocco 2",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022q4",
+      "name": "France vs England",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022q3",
+      "name": "Morocco vs Portugal",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022q2a",
+      "name": "Argentina vs Netherlands (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022q2b",
+      "name": "Argentina vs Netherlands (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022q2c",
+      "name": "Argentina vs Netherlands (3)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "worldcup2022q2d",
+      "name": "Argentina vs Netherlands (4)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "worldcup2022q2e",
+      "name": "Argentina vs Netherlands (5)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022q1b",
+      "name": "Brazil vs Croatia (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022q1a",
+      "name": "Brazil vs Croatia (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022o8a",
+      "name": "Portugal vs Switzerland 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022o8b",
+      "name": "Portugal vs Switzerland 2",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022o8a",
+      "name": "Portugal vs Switzerland 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022o8b",
+      "name": "Portugal vs Switzerland 2",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022o7",
+      "name": "Morocco vs Spain",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022o6a",
+      "name": "Brazil vs South Korea (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022o6b",
+      "name": "Brazil vs South Korea (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022o5",
+      "name": "Japan vs Croatia",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022o4a",
+      "name": "England vs Senegal (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022o4b",
+      "name": "England vs Senegal (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022o3",
+      "name": "France vs Poland",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022o2a",
+      "name": "Argentina vs Australia (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022o2b",
+      "name": "Argentina vs Australia (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022o2c",
+      "name": "Argentina vs Australia (3)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "worldcup2022o1",
+      "name": "Netherlands vs USA",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GGcameroonvsbrazil",
+      "name": "Cameroon vs Brazil",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GGserbiavsswitzerland",
+      "name": "Serbia vs Switzerland",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GHsouthkoreavsportugal",
+      "name": "South Korea vs Portugal",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GHghanavsuruguay",
+      "name": "Ghana vs Uruguay",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GEjapanvsspain",
+      "name": "Japan vs Spain",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GEcostaricavsgermany",
+      "name": "Costa Rica vs Germany",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GFcroatiavsbelgium",
+      "name": "Croatia vs Belgium",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GFcanadavsmorocco",
+      "name": "Canada vs Morocco",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GCsaudiarabiavsmexico",
+      "name": "Saudi Arabia vs Mexico",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GCpolandvsargentina1",
+      "name": "Poland vs Argentina (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GCpolandvsargentina2",
+      "name": "Poland vs Argentina (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GCpolandvsargentina3",
+      "name": "Poland vs Argentina (3)",
+      "animated_sticker_pack": true,
+      "stickers": "7"
+    },
+    {
+      "identifier": "worldcup2022GDtunisiavsfrance",
+      "name": "Tunisia vs France",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GDaustraliavsdenmark",
+      "name": "Austraia vs Denmark",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GBiranvsusa",
+      "name": "Iran vs USA",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GBwalesvsengland",
+      "name": "Wales vs England",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GAnetherlandsvqatar",
+      "name": "Netherlands vs Qatar",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GAecuadorvssenegal",
+      "name": "Ecuador vs Senegal",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GHportugalvsuruguay",
+      "name": "Portugal vs Uruguay",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GGbrazilvsswitzerland",
+      "name": "Brazil vs Switzerland",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GHsouthkoreavsghana",
+      "name": "South Korea vs Ghana",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GGcameroonvsserbia",
+      "name": "Cameroon vs Serbia",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GEspainvsgermany",
+      "name": "Spain vs Germany",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GFcroatiavscanada",
+      "name": "Croatia vs Canada",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GFbelgiumvsmorocco",
+      "name": "Belgium vs Morocco",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GEjapanvscostarica",
+      "name": "Japan vs Costa Rica",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GCargentinavsmexico1",
+      "name": "Argentina vs Mexico (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GCargentinavsmexico2",
+      "name": "Argentina vs Mexico (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GDfrancevsdenmark",
+      "name": "France vs Denmark",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GCpolandvssaudiarabia",
+      "name": "Poland vs Saudi Arabia",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GDtunisiavsaustralia",
+      "name": "Tunisia vs Australia",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "qatar2022pet",
+      "name": "Qatar 2022 Pet",
+      "animated_sticker_pack": true,
+      "stickers": "25"
+    },
+    {
+      "identifier": "qatar2022flags",
+      "name": "Qatar 2022 Flags",
+      "animated_sticker_pack": true,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022angelcorrea",
+      "name": "Angel Correa",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022enzofernandez",
+      "name": "Enzo Fernandez",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "worldcup2022exequielpalacios",
+      "name": "Exequiel Palacios",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "worldcup2022francoarmani",
+      "name": "Franco Armani",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "worldcup2022geronimorulli",
+      "name": "Geronimo Rulli",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "worldcup2022guidorodriguez",
+      "name": "Guido Rodriguez",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "worldcup2022juanfoyth",
+      "name": "Juan Foyth",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "worldcup2022julianalvarez",
+      "name": "Julian Alvarez",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022thiagoalmada",
+      "name": "Thiago Almada",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "worldcup2022GAnetherlandsvsecuador",
+      "name": "Netherlands vs Ecuador",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GAqatarvssenegal",
+      "name": "Qatar vs Senegal",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GBwalesvsiran",
+      "name": "Wales vs Iran",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GGbrazilvsserbia1",
+      "name": "Brazil vs Serbia (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GGbrazilvsserbia2",
+      "name": "Brazil vs Serbia (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GHportugalvsghana",
+      "name": "Portugal vs Ghana",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GHuruguayvssouthkorea",
+      "name": "Uruguay vs South Korea",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GGswitzerlandvscameroon",
+      "name": "Switzerland vs Cameroon",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022brazil2",
+      "name": "World Cup Brazil 1",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022brazil3",
+      "name": "World Cup Brazil 2",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022alissonbecker",
+      "name": "Alisson Becker",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "worldcup2022antony1",
+      "name": "Antony (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022antony2",
+      "name": "Antony (2)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "worldcup2022casemiro",
+      "name": "Casemiro",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "worldcup2022danialves1",
+      "name": "Dani Alves (1)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "worldcup2022danialves2",
+      "name": "Dani Alves (2)",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "worldcup2022evertonribeiro",
+      "name": "Everton Ribeiro",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "worldcup2022fred",
+      "name": "Fred",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "worldcup2022gabrieljesus1",
+      "name": "Gabriel Jesus (1)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "worldcup2022gabrieljesus2",
+      "name": "Gabriel Jesus (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022gabrielmartinelli",
+      "name": "Gabriel Martinelli",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "worldcup2022neymarjr1",
+      "name": "Neymar Jr (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022neymarjr2",
+      "name": "Neymar Jr (2)",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022neymarjr3",
+      "name": "Neymar Jr (3)",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "worldcup2022pedro",
+      "name": "Pedro",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "worldcup2022richarlison1",
+      "name": "Richarlison (1)",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "worldcup2022richarlison2",
+      "name": "Richarlison (2)",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022thiagosilva",
+      "name": "Thiago Silva",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "worldcup2022viniciusjr1",
+      "name": "Vinicius Jr (1)",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "worldcup2022viniciusjr2",
+      "name": "Vinicius Jr (2)",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "worldcup2022weverton",
+      "name": "Weverton",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "worldcup2022GFbelgiumvscanada",
+      "name": "Belgium vs Canada",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GEgermanyvsjapan",
+      "name": "Germany vs Japan",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GFmoroccovscroatia",
+      "name": "Morroco vs Croatia",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "worldcup2022GEspainvscostarica1",
+      "name": "Spain vs Costa Rica (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GEspainvscostarica2",
+      "name": "Spain vs Costa Rica (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GDfrancevsaustralia",
+      "name": "France vs Australia",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GCmexicovspoland",
+      "name": "Mexico vs Poland",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GDdenmarkvstunisia",
+      "name": "Denmark vs Tunisia",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GCargentinavssaudiarabia1",
+      "name": "Argentina vs Saudi Arabia (1)",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "worldcup2022GCargentinavssaudiarabia2",
+      "name": "Argentina vs Saudi Arabia (2)",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "worldcup2022GBusavswales",
+      "name": "USA vs Wales",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022GAsenegalvsnetherlands1",
+      "name": "Senegal vs Netherlands (1)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "worldcup2022GAsenegalvsnetherlands2",
+      "name": "Senegal vs Netherlands (2)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "worldcup2022GBenglandvsiran",
+      "name": "England vs Iran",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022alexismacallister",
+      "name": "Alexis Mac Allister",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "worldcup2022angeldimaria",
+      "name": "Angel Di Maria",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "worldcup2022cutiromero",
+      "name": "Cuti Romero",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "worldcup2022dibumartinez",
+      "name": "Dibu Martinez",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022germanpezzella",
+      "name": "German Pezzella",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022gonzalomontiel",
+      "name": "Gonzalo Montiel",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "worldcup2022lautaromartinez",
+      "name": "Lautaro Martinez",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "worldcup2022leandroparedes",
+      "name": "Leandro Paredes",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "worldcup2022leomessi3",
+      "name": "Leo Messi",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022lionelscaloni",
+      "name": "Lionel Scaloni",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "worldcup2022marcosacuna",
+      "name": "Marcos Acuña",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "worldcup2022nahuelmolina",
+      "name": "Nahuel Molina",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "worldcup2022nicolasotamendi",
+      "name": "Nicolas Otamendi",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "worldcup2022nicolastagliafico",
+      "name": "Nicolas Tagliafico",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "worldcup2022papugomez",
+      "name": "Papu Gomez",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "worldcup2022paulodybala",
+      "name": "Paulo Dybala",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "worldcup2022rodrigodepaul",
+      "name": "Rodrigo De Paul",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "worldcup2022alexisvega",
+      "name": "Alexis Vega",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "worldcup2022hirvinglozano",
+      "name": "Hirving Lozano",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "worldcup2022andresguardado",
+      "name": "Andres Guardado",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022carlosrodriguez",
+      "name": "Carlos Rodriguez",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "worldcup2022guilleromoochoa",
+      "name": "Guillermo Ochoa",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "worldcup2022henrymartin",
+      "name": "Henry Martin",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "worldcup2022nestoraraujo",
+      "name": "Nestor Araujo",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022rauljimenez",
+      "name": "Raul Jimenez",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "worldcup2022robertoalvarado",
+      "name": "Roberto Alvarado",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "worldcup2022urielantuna",
+      "name": "Uriel Antuna",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "worldcup2022GAqatarvsecuador",
+      "name": "Qatar vs Ecuador",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022argentina2",
+      "name": "World Cup Argentina 1",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022argentina3",
+      "name": "World Cup Argentina 2",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022leomessi2",
+      "name": "Leo Messi",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcup2022spain2",
+      "name": "World Cup Spain 1",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022spain3",
+      "name": "World Cup Spain 2",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022mexico2",
+      "name": "World Cup Mexico 1",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022mexico3",
+      "name": "World Cup mexico 2",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022france2",
+      "name": "World Cup France 1",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022france3",
+      "name": "World Cup France 2",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022germany2",
+      "name": "World Cup Germany 1",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022germany3",
+      "name": "World Cup Germany 2",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "worldcup2022england2",
+      "name": "World Cup England 1",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "worldcup2022england3",
+      "name": "World Cup England 2",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "worldcup2022youssoufamoukoko",
+      "name": "Youssoufa Moukoko",
+      "animated_sticker_pack": false,
+      "stickers": "9"
+    },
+    {
+      "identifier": "worldcup2022julianbrandt",
+      "name": "Julian Brandt",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022leongoretzka",
+      "name": "Leon Goretzka",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "worldcup2022leroysane",
+      "name": "Leroy Sane",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "worldcup2022lukasklostermann",
+      "name": "Lukas Klostermann",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "worldcup2022manuelneuer",
+      "name": "Manuel Neuer",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "worldcup2022nicoschlotterbeck",
+      "name": "Nico Schlotterbeck",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "worldcup2022niklassule",
+      "name": "Niklas Sule",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "worldcup2022sergegnabry",
+      "name": "Serge Gnabry",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "worldcup2022davidraum",
+      "name": "David Raum",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "worldcup2022jamalmusiala",
+      "name": "Jamal Musiala",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "worldcup2022joshuakimmich",
+      "name": "Joshua Kimmich",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "worldcup2022karimadeyemi",
+      "name": "Karim Adeyemi",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "worldcup2022thomasmuller2",
+      "name": "Thomas Muller",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "worldcup2022callumwilson",
+      "name": "Callum Wilson",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "worldcup2022jackggrealish",
+      "name": "Jackg Grealish",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "worldcup2022johnstones",
+      "name": "John Stones",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "worldcup2022jordanhenderson",
+      "name": "Jordan Henderson",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "worldcup2022kalvinphillips",
+      "name": "Kalvin Phillips",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "worldcup2022kierantrippier",
+      "name": "Kieran Trippier",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "worldcup2022kylewalker",
+      "name": "Kyle Walker",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "worldcup2022philfoden",
+      "name": "Phil Foden",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "worldcup2022raheemsterling",
+      "name": "Raheem Sterling",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022trentalexanderarnold",
+      "name": "Trent Alexander Arnold",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022thomasmuller",
+      "name": "Thomas Muller",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "worldcup2022gundogan",
+      "name": "Ilkay Gundogan",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "worldcup2022england2",
+      "name": "World Cup England 1",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "worldcup2022england3",
+      "name": "World Cup England 2",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "worldcup2022mexico",
+      "name": "Mexico 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022morocco",
+      "name": "Morocco 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022netherlands",
+      "name": "Netherlands 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022poland",
+      "name": "Poland 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022portugal",
+      "name": "Portugal 2022",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "worldcup2022qatar",
+      "name": "Qatar 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022saudiarabia",
+      "name": "Saudi Arabia 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022senegal",
+      "name": "Senegal 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022serbia",
+      "name": "Serbia 2022",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "worldcup2022southkorea",
+      "name": "South Korea 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022spain",
+      "name": "Spain 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022switzerland",
+      "name": "Switzerland 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022tunisia",
+      "name": "Tunisia 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022uruguay",
+      "name": "Uruguay 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022usa",
+      "name": "Usa 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022wales",
+      "name": "Wales 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022callumwilson",
+      "name": "Callum Wilson",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "worldcup2022jackggrealish",
+      "name": "Jackg Grealish",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "worldcup2022johnstones",
+      "name": "John Stones",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "worldcup2022jordanhenderson",
+      "name": "Jordan Henderson",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "worldcup2022kalvinphillips",
+      "name": "Kalvin Phillips",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "worldcup2022kierantrippier",
+      "name": "Kieran Trippier",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "worldcup2022kylewalker",
+      "name": "Kyle Walker",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "worldcup2022philfoden",
+      "name": "Phil Foden",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "worldcup2022raheemsterling",
+      "name": "Raheem Sterling",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022trentalexanderarnold",
+      "name": "Trent Alexander Arnold",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022aaronramsdale",
+      "name": "Aaron Ramsdale",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "worldcup2022benwhite",
+      "name": "Ben White",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "worldcup2022bukayosaka",
+      "name": "Bukayo Saka",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022conorgallagher",
+      "name": "Conor Gallagher",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "worldcup2022ericdier",
+      "name": "Eric Dier",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "worldcup2022harrykane",
+      "name": "Harry Kane",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "worldcup2022jamesmaddison",
+      "name": "James Maddison",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "worldcup2022masonmount",
+      "name": "Mason Mount",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "worldcup2022nickpope",
+      "name": "Nick Pope",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "worldcup2022thomasmuller",
+      "name": "Thomas Muller",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "worldcup2022gundogan",
+      "name": "Ilkay Gundogan",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "2022betisvssevilla",
+      "name": "Betis vs Sevilla 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "2022romavslazio",
+      "name": "Roma vs Lazio 2022",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "worldcup2022shirts1",
+      "name": "World Cup Shirts 1",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "worldcup2022shirts2",
+      "name": "World Cup Shirts 2",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "worldcup2022shirts3",
+      "name": "World Cup Shirts 3",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "ufcl2223gp12",
+      "name": "UCL 22-23 Day 12",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223gp11",
+      "name": "UCL 22-23 Day 11",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "libertadores2022w1",
+      "name": "Champion Libertadores 2022 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "libertadores2022wa1",
+      "name": "Champion Libertadores 2022 (2)",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "libertadoresw2022w1",
+      "name": "Champion Libertadores W 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223gp10",
+      "name": "UCL 22-23 Day 10",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223gp9",
+      "name": "UCL 22-23 Day 9",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "juventusw2022",
+      "name": "Juventus W 2022",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "arsenalw2022",
+      "name": "Arsenal W 2022",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "barcelonaw2022",
+      "name": "Barcelona W 2022",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "realmadridw2022",
+      "name": "Real Madrid W 2022",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "bayernw2022",
+      "name": "Bayern Munich W 2022",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "wolfsburgw2022",
+      "name": "Wolfsburg W 2022",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "lyonw2022",
+      "name": "Lyon W 2022",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "psgw2022",
+      "name": "PSG W 2022",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "karimbenzema2",
+      "name": "Karim Benzema (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "karimbenzema1",
+      "name": "Karim Benzema (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "2022realvsbarsa1",
+      "name": "Real Madrid vs Barcelona 1",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "2022realvsbarsa2",
+      "name": "Real Madrid vs Barcelona 2",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "arsenal2022b",
+      "name": "Arsenal 2022",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "astonvilla2022",
+      "name": "Aston Villa 2022",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "bournemouth2022",
+      "name": "Bournemouth 2022",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "brentford2022a",
+      "name": "Brentford 2022 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "brentford2022b",
+      "name": "Brentford 2022 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "brighton2022",
+      "name": "Brighton 2022",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "chelsea2022",
+      "name": "Chelsea 2022",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "crystalpalace2022",
+      "name": "Crystal Palace 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "everton2022",
+      "name": "Everton 2022",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "fulham2022",
+      "name": "Fulham 2022",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "leeds2022",
+      "name": "Leeds 2022",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "leicester2022",
+      "name": "Leicester 2022",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "liverpool2022b",
+      "name": "Liverpool 2022",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "manchestercity2022",
+      "name": "Manchester City 2022",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "manchesterunited2022a",
+      "name": "Manchester United 2022 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "manchesterunited2022b",
+      "name": "Manchester United 2022 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "newcastle2022",
+      "name": "Newcastle 2022",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "nottinghamforest2022",
+      "name": "Nottingham Forest 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "southampton2022",
+      "name": "Southampton 2022",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "tottenham2022b",
+      "name": "Tottenham 2022",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "westham2022",
+      "name": "West Ham 2022",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "wolverhampton2022",
+      "name": "Wolverhampton 2022",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "ufcl2223gp8",
+      "name": "UCL 22-23 Day 8",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223gp7",
+      "name": "UCL 22-23 Day 7",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "dortmundvsbayern2022",
+      "name": "Dortmund vs Bayern Munich 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "dortmundvsbayern2022a1",
+      "name": "Dortmund vs Bayern Munich 2022 (2)",
+      "animated_sticker_pack": true,
+      "stickers": "6"
+    },
+    {
+      "identifier": "ufcl2223gp6",
+      "name": "UCL 22-23 Day 6",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223gp5",
+      "name": "UCL 22-23 Day 5",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "gonzalohiguain1",
+      "name": "Thank you Pipita",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "joaofelix1",
+      "name": "João Felix",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "cityvsunited2022a",
+      "name": "City vs United 2022 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "cityvsunited2022b",
+      "name": "City vs United 2022 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "sudamericana2022w1",
+      "name": "IdV Campeón Sudamericana 2022",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "almeria2022",
+      "name": "Almeria 2022",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "atleticomadrid2022",
+      "name": "Atletico Madrid 2022",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "barcelona2022b",
+      "name": "Barcelona 2022 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "bilbao2022",
+      "name": "Ath Bilbao 2022",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "cadiz2022",
+      "name": "Cadiz 2022",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "celta2022",
+      "name": "Celta Vigo 2022",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "elche2022",
+      "name": "Elche 2022",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "espanyol2022",
+      "name": "Espanyol 2022",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "getafe2022",
+      "name": "Getafe 2022",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "girona2022",
+      "name": "Girona 2022",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "mallorca2022",
+      "name": "Mallorca 2022",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "osasuna2022",
+      "name": "Osasuna 2022",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "rayovallecano2022",
+      "name": "Rayo Vallecano 2022",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "realbetis2022",
+      "name": "Real Betis 2022",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "realmadrid2022b",
+      "name": "Real Madrid 2022 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "realsociedad2022",
+      "name": "Real Sociedad 2022",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "realvalladolid2022",
+      "name": "Real Valladolid 2022",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "sevilla2022b",
+      "name": "Sevilla 2022 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "valencia2022",
+      "name": "Valencia 2022",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "villarreal2022",
+      "name": "Villarreal 2022",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "atalanta2022",
+      "name": "Atalanta 2022",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "bologna2022",
+      "name": "Bologna 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "cremonese2022",
+      "name": "Cremonese 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "empoli2022",
+      "name": "Empoli 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "fiorentina2022",
+      "name": "Fiorentina 2022",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "hellasverona2022",
+      "name": "Hellas Verona 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "inter2022b",
+      "name": "Inter 2022 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "juventus2022",
+      "name": "Juventus 2022",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "lazio2022",
+      "name": "Lazio 2022",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "lecce2022",
+      "name": "Lecce 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "milan2022b",
+      "name": "Milan 2022 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "monza2022a",
+      "name": "Monza 2022 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "monza2022b",
+      "name": "Monza 2022 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "napoli2022",
+      "name": "Napoli 2022",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "roma2022",
+      "name": "Roma 2022",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "salernitana2022",
+      "name": "Salernitana 2022",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "sampdoria2022",
+      "name": "Sampdoria 2022",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "sassuolo2022",
+      "name": "Sassuolo 2022",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "spezia2022",
+      "name": "Spezia 2022",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "torino2022",
+      "name": "Torino 2022",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "udinese2022",
+      "name": "Udinese 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "udinese2022",
+      "name": "Udinese 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "amistososargentina2022a",
+      "name": "Argentina Friendly 2022",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "alexiaputellas1",
+      "name": "Alexia Putellas",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "birmingham2022",
+      "name": "Birmingham 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "blackburn2022",
+      "name": "Blackburn 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "blackpool2022",
+      "name": "Blackpool 2022",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "bristolcity2022",
+      "name": "Bristol City 2022",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "burnley2022",
+      "name": "Burnley 2022",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "cardiffcity2022",
+      "name": "Cardiff City 2022",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "coventrycity2022",
+      "name": "Coventry City 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "huddersfieldtown2022",
+      "name": "Huddersfield Town 2022",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "hullcity2022a",
+      "name": "Hull City 2022 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "hullcity2022b",
+      "name": "Hull City 2022 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "luton2022",
+      "name": "Luton 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "middlesbrough2022",
+      "name": "Middlesbrough 2022",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "millwall2022",
+      "name": "Millwall 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "norwichcity2022",
+      "name": "Norwich City 2022",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "prestonnorthend2022",
+      "name": "Preston North End 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "queensparkrangers2022",
+      "name": "Queens Park Rangers 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "reading2022",
+      "name": "Reading 2022",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "rotherhamunited2022",
+      "name": "Rotherham United 2022",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "sheffieldunited2022",
+      "name": "Sheffield United 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "stokecity2022",
+      "name": "Stoke City 2022",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "sunderland2022",
+      "name": "Sunderland 2022",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "swansea2022",
+      "name": "Swansea 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "watford2022",
+      "name": "Watford 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "westbromwichalbion2022",
+      "name": "West Bromwich Albion 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "wigan2022",
+      "name": "Wigan 2022",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "worldcup2022leyends",
+      "name": "Leyends 2022",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "tottenham2022",
+      "name": "Tottenham 2022",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "cutiromero1",
+      "name": "Cuti Romero 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "enzofernandez1",
+      "name": "Enzo Fernandez 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "benfica2023",
+      "name": "Benfica 22-23",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "worldcup2022argentina",
+      "name": "Argentina 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022australia",
+      "name": "Australia 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022belgium",
+      "name": "Belgium 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022brasil",
+      "name": "Brasil 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022cameroon",
+      "name": "Cameroon 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022canada",
+      "name": "Canada 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022costarica",
+      "name": "Costa Rica 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022croatia",
+      "name": "Croatia 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022denmark",
+      "name": "Denmark 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022ecuador",
+      "name": "Ecuador 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022england",
+      "name": "England 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022france",
+      "name": "France 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022germany",
+      "name": "Germany 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022ghana",
+      "name": "Ghana 2022",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "worldcup2022iran",
+      "name": "Iran 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "worldcup2022japan",
+      "name": "Japan 2022",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "ufcl2223gp4",
+      "name": "UCL 22-23 Day 4",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "ufcl2223gp3",
+      "name": "UCL 22-23 Day 3",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "sergioramos1",
+      "name": "Sergio Ramos 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "julianalvarez3",
+      "name": "Julian Alvarez 3",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "libertadores2022s4",
+      "name": "Flamengo vs Velez",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2223gp2",
+      "name": "UCL 22-23 Day 2",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "libertadores2022s3",
+      "name": "Paranaense vs Palmeiras",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "ufcl2223gp1",
+      "name": "UCL 22-23 Day 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "worldcupteams2022",
+      "name": "World Cup Teams 2022",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "seriea2223f5",
+      "name": "AC Milan vs Inter",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "glazersout",
+      "name": "#GlazersOut",
+      "animated_sticker_pack": false,
+      "stickers": "9"
+    },
+    {
+      "identifier": "tuchelvsconte",
+      "name": "Tuchel vs Conte",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "arsenal2023",
+      "name": "Arsenal 2023",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "libertadores2022c7",
+      "name": "Estudiantes vs Paranaense",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "uefasupercup2022w1",
+      "name": "Super Cup Champ 22",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "libertadores2022c6",
+      "name": "Palmeiras vs Mineiro",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "libertadores2022c5",
+      "name": "Talleres vs Velez",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "libertadores2022c4",
+      "name": "Flamengo vs Corinthians (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "libertadores2022c4a1",
+      "name": "Flamengo vs Corinthians (1)",
+      "animated_sticker_pack": true,
+      "stickers": "8"
+    },
+    {
+      "identifier": "libertadores2022c3",
+      "name": "Velez vs Talleres",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "libertadores2022c2",
+      "name": "Atletico MG vs Palmeiras",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "libertadores2022c1",
+      "name": "Corinthians vs Flamengo",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "suareznacional",
+      "name": "Suarez Nacional",
+      "animated_sticker_pack": false,
+      "stickers": "8"
+    },
+    {
+      "identifier": "psgsupercup22f1",
+      "name": "PSG SuperCup 22",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "supercup2022f2",
+      "name": "Bayern Champios SuperCup22",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "facommunityshield22f2",
+      "name": "Liverpool Champions CS22",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "emiratescup22",
+      "name": "Emirates Cup Champions 22",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "lewandowskibarsa",
+      "name": "Lewandowski Barça",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "citysignings2022",
+      "name": "City  Signings 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "libertadores2022o4",
+      "name": "Libertadores F8 (4)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "libertadores2022o3",
+      "name": "Libertadores F8 (3)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "libertadores2022o2",
+      "name": "Libertadores F8 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "libertadores2022o1",
+      "name": "Libertadores F8 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "sadiomane2025",
+      "name": "Sadio Mané 2025",
+      "animated_sticker_pack": false,
+      "stickers": "8"
+    },
+    {
+      "identifier": "andrewredmayne1",
+      "name": "Andrew Redmayne",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "marcelo1",
+      "name": "Marcelo 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "finalissima1",
+      "name": "Finalissima 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "finalissima2",
+      "name": "Finalissima 2",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122final",
+      "name": "UCL Final 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "libertadores2022fg18",
+      "name": "Libertadores 2022 (18)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "julianalvarez2",
+      "name": "Julian Alvarez 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "conferenceleague2122w1",
+      "name": "Roma Champion 21-22",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "libertadores2022fg17",
+      "name": "Libertadores 2022 (17)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122store",
+      "name": "UCL 21-22 Store",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "libertadores2022fg16",
+      "name": "Libertadores 2022 (16)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "seriea2122w1",
+      "name": "Milan Champion 21-22 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "seriea2122w2",
+      "name": "Milan Champion 21-22 (3)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "seriea2122w3",
+      "name": "Milan Champion 21-22 (4)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "copaligaprofesional2022w1",
+      "name": "Boca Champion 2021 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "copaligaprofesional2022f1",
+      "name": "Boca Champion 2021 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "tacaportugal2122f1",
+      "name": "Porto Champion 21-22 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "seriea2122f38",
+      "name": "Milan Champion 21-22 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "premier2122m38",
+      "name": "City Champion 21-22 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "premier2122m38a1",
+      "name": "City Champion 21-22 (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "premier2122m38a2",
+      "name": "City Champion 21-22 (3)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dfbpokal2122w1",
+      "name": "DFB Pokal-Sieger",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "mbappe2025",
+      "name": "Mbappe 2025",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "libertadores2022fg15",
+      "name": "Libertadores 2022 (15)",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "libertadores2022fg14",
+      "name": "Libertadores 2022 (14)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "europaleague2122f1",
+      "name": "Frankfurt vs Rangers",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "libertadores2022fg13",
+      "name": "Libertadores 2022 (13)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "paulodybala1",
+      "name": "Paulo Dybala 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "soccerfans1",
+      "name": "Soccer Fans 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "facup2122wa1",
+      "name": "FA Cup Winner (1)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "facup2122wa2",
+      "name": "FA Cup Winner (2)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "facup2122w1",
+      "name": "FA Cup Winner (3)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "facup2122w2",
+      "name": "FA Cup Winner (4)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "coppaitalia2122f1",
+      "name": "Inter vs Juventus (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "coppaitalia2122f1a1",
+      "name": "Inter vs Juventus (2)",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "mohamedsalah3",
+      "name": "Mohamed Salah 2",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "luisdiaz2",
+      "name": "Luis Díaz",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "libertadores2022fg12",
+      "name": "Libertadores 2022 (12)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "europaleague2122s3",
+      "name": "Frankfurt vs West Ham",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "europaleague2122s4",
+      "name": "Rangers vs Leipzig",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "libertadores2022fg11",
+      "name": "Libertadores 2022 (11)",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "ufcl2122s4",
+      "name": "Real Madrid vs City (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122s4a1",
+      "name": "Real Madrid vs City (2)",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "ufcl2122s3",
+      "name": "Villareal vs Liverpool",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "libertadores2022fg10",
+      "name": "Libertadores 2022 (10)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "thomasmuller2",
+      "name": "Thomas Muller (2)",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "realmadrid2022c1",
+      "name": "Real Madrid Campeón",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "libertadores2022fg9",
+      "name": "Libertadores 2022 (9)",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "europaleague2122s2",
+      "name": "West Ham vs Frankfurt",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "europaleague2122s1",
+      "name": "Leipzig vs Rangers",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "libertadores2022fg8",
+      "name": "Libertadores 2022 (8)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122s2",
+      "name": "Liverpool vs Villareal (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122s2a1",
+      "name": "Liverpool vs Villareal (2)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "libertadores2022fg7",
+      "name": "Libertadores 2022 (7)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122s1",
+      "name": "City vs Real Madrid (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122s1a1",
+      "name": "City vs Real Madrid (2)",
+      "animated_sticker_pack": true,
+      "stickers": "22"
+    },
+    {
+      "identifier": "bundesliga2122w3",
+      "name": "Bayern Champion 3",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "copadelrey2122w1",
+      "name": "Betis Campeón",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ligueone2122w1",
+      "name": "PSG Champion",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "bundesliga2122w1",
+      "name": "Bayern Champion 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "bundesliga2122w2",
+      "name": "Bayern Champion 2",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "libertadores2022fg6",
+      "name": "Libertadores 2022 (6)",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "libertadores2022fg5",
+      "name": "Libertadores 2022 (5)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122c7",
+      "name": "Atletico Madrid vs City",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122c8",
+      "name": "Liverpool vs Benfica",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "libertadores2022fg4",
+      "name": "Libertadores 2022 (4)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122c5",
+      "name": "Real Madrid vs Chelsea",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122c6",
+      "name": "Bayern Munich vs Villareal",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "libertadores2022fg3",
+      "name": "Libertadores 2022 (3)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "libertadores2022fg2",
+      "name": "Libertadores 2022 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122c3",
+      "name": "Villareal vs Bayern Munich",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122c4",
+      "name": "Chelsea vs Real Madrid",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "libertadores2022fg1",
+      "name": "Libertadores 2022 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122c2",
+      "name": "City vs Atletico Madrid",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122c1",
+      "name": "Benfica vs Liverpool",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "qatar2022a",
+      "name": "Qatar 2022",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "realmadrid2022",
+      "name": "Real Madrid 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "bayern2022",
+      "name": "Bayern Munich 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "dortmund2022",
+      "name": "Borussia D. 2022",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "derbycounty2022",
+      "name": "Derby County 2022",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "universitario2022",
+      "name": "Universitario 2022",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "barcelona2022",
+      "name": "Barcelona 2022",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "conmebolqatarf18",
+      "name": "Conmebol F18",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "uefaqatarkre",
+      "name": "Poland vs Sweden",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "uefaqatarkrf",
+      "name": "Portugal vs Macedonia",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "conmebolqatarf17b",
+      "name": "Conmebol F17 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "conmebolqatarf17a",
+      "name": "Conmebol F17 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "uefaqatarkrd",
+      "name": "Sweden vs Czech Republic",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "uefaqatarkrc",
+      "name": "Portugal vs Turkey",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "uefaqatarkrb",
+      "name": "Wales vs Austria",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "uefaqatarkra",
+      "name": "Italy vs Macedonia",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "worldcup1",
+      "name": "World Cup 2022",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "lazio2022a1",
+      "name": "Lazio 2022 (1)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "lazio2022a2",
+      "name": "Lazio 2022 (2)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "roma2022a1",
+      "name": "Roma 2022 (1)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "roma2022a2",
+      "name": "Roma 2022 (2)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "barcelona2021a1",
+      "name": "Barcelona 2021 (3)",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "ufcl2122o16",
+      "name": "Villareal vs Juventus (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122o15",
+      "name": "Lille vs Chelsea (2)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "ufcl2122o14",
+      "name": "United vs Atletico (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122o13",
+      "name": "Ajax vs Benfica (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ajax2022",
+      "name": "Ajax 2022",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "america2022",
+      "name": "America Mex 2022",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "arsenal2022",
+      "name": "Arsenal 2022",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "atlas2022",
+      "name": "Atlas 2022",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "atleticomineiro2022",
+      "name": "Atl. Mineiro 2022",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "benfica2022",
+      "name": "Benfica 2022",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "city2022",
+      "name": "Manchester City 2022",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "corinthians2022",
+      "name": "Corinthians 2022",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "gremio2022",
+      "name": "Gremio 2022",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "inter2022",
+      "name": "Inter 2022",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "liverpool2022",
+      "name": "Liverpool 2022",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "milan2022",
+      "name": "Milan 2022",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "palmeiras2022",
+      "name": "Palmeiras 2022",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "porto2022",
+      "name": "Porto 2022",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "psg2022a",
+      "name": "PSG 2022 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "psg2022b",
+      "name": "PSG 2022 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "sevilla2022",
+      "name": "Sevilla 2022",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "united2022a",
+      "name": "Manchester United 2022 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "united2022b",
+      "name": "Manchester United 2022 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "ufcl2122o12",
+      "name": "Real vs PSG (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122o11",
+      "name": "City vs Sporting (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122o10",
+      "name": "Liverpool vs Inter (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122o9",
+      "name": "Bayern vs Salzburg (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "realmadrid120",
+      "name": "Real Madrid 120",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "eflcup2122a1",
+      "name": "EFL 21-22 Champ (1)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "eflcup2122w1",
+      "name": "EFL 21-22 Champ (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "bielsa2",
+      "name": "Thanks Bielsa",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122o7",
+      "name": "Benfica vs Ajax (1)",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "ufcl2122o8",
+      "name": "At. Madrid vs United(1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122o5",
+      "name": "Chelsea vs Lille (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122o6",
+      "name": "Villarreal vs Juventus (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122o3",
+      "name": "Salzburg vs Bayern (1)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "ufcl2122o4",
+      "name": "Inter vs Liverpool (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122o2",
+      "name": "Sporting vs City (1)",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "ufcl2122o1",
+      "name": "PSG vs Real Madrid (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "clubworldcup2021w1",
+      "name": "Chelsea Champion (3)",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "clubworldcup2021a2",
+      "name": "Chelsea Champion (2)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "clubworldcup2021f1",
+      "name": "Chelsea Champion (1)",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "clubworldcup2021a1",
+      "name": "Chelsea Champion (2)",
+      "animated_sticker_pack": true,
+      "stickers": "8"
+    },
+    {
+      "identifier": "africacupnations2022w1",
+      "name": "Senegal Champion 2022",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "conmebolqatarf16",
+      "name": "Conmebol F16",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "conmebolqatarf15b",
+      "name": "Conmebol F15 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "conmebolqatarf15a",
+      "name": "Conmebol F15",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "animatedmen1",
+      "name": "Animated Men (1)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "animatedmen2",
+      "name": "Animated Men (2)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "animatedwoman1",
+      "name": "Animated Woman (1)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "animatedwoman2",
+      "name": "Animated Woman (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "atleticomadrida1",
+      "name": "Atletico Madrid (1)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "atleticomadrida2",
+      "name": "Atletico Madrid (2)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "robertlewandowski2",
+      "name": "Robert Lewandowski",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "mohamedsalah2",
+      "name": "Mohamed Salah",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "lionelmessi2",
+      "name": "Lionel Messi",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "thebest2022gm",
+      "name": "The Best 2021 (GM)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "thebest2022gw",
+      "name": "The Best 2021 (GW)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "newyear2022",
+      "name": "New Year 2022",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "kunaguero1",
+      "name": "Kun Aguero (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "kunaguero2",
+      "name": "Kun Aguero (2)",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "ufcl2122gp12",
+      "name": "UCL 21-22 Day 12",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "ufcl2122gp11",
+      "name": "UCL 21-22 Day 11",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "messiballondor2021",
+      "name": "Messi Ballon D Or 2021",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "libertadores2021w1",
+      "name": "Libertadores 2021 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "libertadores2021",
+      "name": "Libertadores 2021 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "ufcl2122gp10",
+      "name": "UCL 21-22 Day 10",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122gp9",
+      "name": "UCL 21-22 Day 9",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "thebest2021pm",
+      "name": "The Best 2020 (PM)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "thebest2021gm",
+      "name": "The Best 2020 (GM)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "thebest2021cm",
+      "name": "The Best 2020 (CM)",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "thebest2021pw",
+      "name": "The Best 2020 (PW)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "thebest2021gw",
+      "name": "The Best 2020 (GW)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "thebest2021cw",
+      "name": "The Best 2020 (CW)",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "arminiabielefeld2021",
+      "name": "Arminia Bielefeld 2021",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "augsburgo2021",
+      "name": "Augsburgo 2021",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "bayerleverkusen2021",
+      "name": "Bayer Leverkusen 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "bochum2021",
+      "name": "Bochum 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "borussiamoenchengladbach2021",
+      "name": "Borussia M. 2021",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "eintrachtfrankfurt2021",
+      "name": "Eintracht Frankfurt 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "freiburg2021",
+      "name": "Freiburg 2021",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "greutherfurth2021",
+      "name": "Greuther Furth 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "hertha2021",
+      "name": "Hertha 2021",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "hoffenheim2021",
+      "name": "Hoffenheim 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "koln2021",
+      "name": "Koln 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "mainz2021",
+      "name": "Mainz 2021",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "stuttgart2021",
+      "name": "Stuttgart 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "unionberlin2021",
+      "name": "Union Berlin 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "wolfsburg2021",
+      "name": "Wolfsburg 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "uefaqatarf8c",
+      "name": "UEFA F8 (3)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "conmebolqatarf14",
+      "name": "Conmebol F14",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "uefaqatarf8b",
+      "name": "UEFA F8 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "england2021",
+      "name": "England 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "italy2021",
+      "name": "Italy 2021",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "brasil2021d",
+      "name": "Brasil 2021 (4)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "uefaqatarf8a",
+      "name": "UEFA F8 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "conmebolqatarf13b",
+      "name": "Conmebol F13",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "argentina2021d",
+      "name": "Argentina 2021 (4)",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "belgium2021",
+      "name": "Belgium 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "portugal2021",
+      "name": "Portugal 2021",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "france2021",
+      "name": "France 2021",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "germany2021",
+      "name": "Germany 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "turkey2021b",
+      "name": "Turkey 2021 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "thomasmuller1",
+      "name": "Thomas Muller",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "julianalvarez1",
+      "name": "Julian Alvarez",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "atalanta2021",
+      "name": "Atalanta 2021",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "bologna2021",
+      "name": "Bologna 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "cagliari2021",
+      "name": "Cagliari 2021",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "empoli2021",
+      "name": "Empoli 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "fiorentina2021",
+      "name": "fiorentina 2021",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "genoa2021",
+      "name": "Genoa 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "hellasverona2021",
+      "name": "Hellas Verona 2021",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "juventus2021",
+      "name": "Juventus 2021",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "napoli2021",
+      "name": "Napoli 2021",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "salernitana2021",
+      "name": "Salernitana 2021",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "sampdoria2021",
+      "name": "Sampdoria 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "sassuolo2021",
+      "name": "Sassuolo 2021",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "spezia2021",
+      "name": "Spezia 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "udinese2021",
+      "name": "Udinese 2021",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "venezia2021",
+      "name": "Venezia 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ciroimmobile160",
+      "name": "Ciro Immobile 160",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "womens1",
+      "name": "Womens Soccer 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "romelulukaku1",
+      "name": "Romelu Lukaku 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "thomastuchel1",
+      "name": "Thomas Tuchel 1",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "ufcl2122gp8",
+      "name": "UCL 21-22 Day 8",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122gp7",
+      "name": "UCL 21-22 Day 7",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "koemanout",
+      "name": "Koeman Out",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "oleout",
+      "name": "Ole Out",
+      "animated_sticker_pack": false,
+      "stickers": "11"
+    },
+    {
+      "identifier": "ufcl2122gp6",
+      "name": "UCL 21-22 Day 6",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122gp5",
+      "name": "UCL 21-22 Day 5",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "conmebolqatarf12b",
+      "name": "Conmebol F12",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "robertlewandowski1",
+      "name": "Robert Lewandowski",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "lautaromartinez1",
+      "name": "Lautaro Martinez",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "luissuarez1",
+      "name": "Luis Suarez",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "neymarjr1",
+      "name": "Neymar Jr",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "mbappe2",
+      "name": "Kylian Mbappe",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "mohamedsalah1",
+      "name": "Mohamed Salah",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "harrykane1",
+      "name": "Harry Kane",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "karimbenzema1",
+      "name": "Karim Benzema",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "kevindebruyne1",
+      "name": "Kevin de Bruyne",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "jorginho1",
+      "name": "Jorginho",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "conmebolqatarf15",
+      "name": "Conmebol F5",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "uefanationsleague2021f1",
+      "name": "France vs Spain",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "uefanationsleague20213p",
+      "name": "Italy vs Belgium",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "lazio2021",
+      "name": "Lazio 2021",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "roma2021",
+      "name": "Roma 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ballondor2021p1",
+      "name": "Ballon D or 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "conmebolqatarf11",
+      "name": "Conmebol F11",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "uefanationsleague2021s2",
+      "name": "France vs Belgium",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "uefanationsleague2021s1",
+      "name": "Spain vs Italy",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "papugomez",
+      "name": "Papu Gomez",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "chivas2021",
+      "name": "Chivas 2021",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "america2021",
+      "name": "America Mex 2021",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "ufcl2122gp4",
+      "name": "UCL 21-22 Day 4",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122gp3",
+      "name": "UCL 21-22 Day 3",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "nacional2021",
+      "name": "Nacional 2021",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "penarol2021",
+      "name": "Penarol 2021",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "fenix2021",
+      "name": "Fenix 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "montevideocitytorque2021",
+      "name": "City Torque 2021",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "alianzalima2021",
+      "name": "Alianza 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "cienciano2021",
+      "name": "Cienciano 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "sportingcristal2021",
+      "name": "Sporting Cristal 2021",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "libertad2021",
+      "name": "Libertad 2021",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "olimpia2021",
+      "name": "Olimpia 2021",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "caracas2021",
+      "name": "Caracas 2021",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "deportivolaguaira2021",
+      "name": "Dep. La Guaira 2021",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "deportivolara2021",
+      "name": "Deportivo Lara 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "deportivotachira2021",
+      "name": "Deportivo Tachira 2021",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "salah100goals",
+      "name": "Salah 100 Goals",
+      "animated_sticker_pack": false,
+      "stickers": "11"
+    },
+    {
+      "identifier": "gol1",
+      "name": "Gol",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "goal1",
+      "name": "Goal 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "goal2",
+      "name": "Goal 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "sanlorenzo2021",
+      "name": "San Lorenzo 2021",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "racingclub2021",
+      "name": "Racing Club 2021",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "rosariocentral2021",
+      "name": "Rosario Central 2021",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "newells2021",
+      "name": "Newells Old Boys 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "universidadchile2021",
+      "name": "Universidad de Chile 2021",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "colocolo2021",
+      "name": "Colo Colo 2021",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "universidadcatolica2021",
+      "name": "Universidad Catolica 2021",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "independientedelvalle2021",
+      "name": "Indep. del Valle 2021",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "lduquito2021",
+      "name": "LDU Quito 2021",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "emelec2021",
+      "name": "Emelec 2021",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "bolivar2021",
+      "name": "Bolivar 2021",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "thestrongest2021",
+      "name": "The Strongest 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "corinthians2021",
+      "name": "Corinthians 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "flamengo2021",
+      "name": "Flamengo 2021",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "fluminense2021",
+      "name": "Fluminense 2021",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "gremio2021",
+      "name": "Gremio 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "palmeiras2021",
+      "name": "Palmeiras 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "paranaense2021",
+      "name": "Ath Paranaense 2021",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "saopaulo2021",
+      "name": "Sao Paulo 2021",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "atleticonacional2021",
+      "name": "Atl Nacional 2021",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "deportivocali2021",
+      "name": "Deportivo Cali 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "independientemedellin2021",
+      "name": "Independiente Medellin 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "millonarios2021",
+      "name": "Millonarios 2021",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "independientesantafe2021",
+      "name": "Independiente Sta Fe 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122gp2",
+      "name": "UCL 21-22 Day 2",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2122gp1",
+      "name": "UCL 21-22 Day 1",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "barcelonaecu2021",
+      "name": "Barcelona Ecuador 2021",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "atleticomineiro2021a",
+      "name": "Atl. Mineiro 2021 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "atleticomineiro2021b",
+      "name": "Atl. Mineiro 2021 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "alaves2021",
+      "name": "Alaves 2021",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "atletico2021",
+      "name": "Atletico Madrid 2021",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "barcelona2021b",
+      "name": "Barcelona 2021 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "betis2021",
+      "name": "Real Betis 2021",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "bilbao2021",
+      "name": "Ath. Bilbao 2021",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "cadiz2021",
+      "name": "Cadiz 2021",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "celta2021",
+      "name": "Celta de Vigo 2021",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "elche2021",
+      "name": "Elche 2021",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "espanyol2021",
+      "name": "Espanyol 2021",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "getafe2021",
+      "name": "Getafe 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "granada2021",
+      "name": "Granada 2021",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "levante2021",
+      "name": "Levante 2021",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "mallorca2021",
+      "name": "Mallorca 2021",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "osasuna2021",
+      "name": "Osasuna 2021",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "rayovallecano2021",
+      "name": "Rayo Vallecano 2021",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "realmadrid2021b",
+      "name": "Real Madrid 2021 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "realsociedad2021",
+      "name": "Real Sociedad 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "sevilla2021",
+      "name": "Sevilla 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "valencia2021",
+      "name": "Valencia 2021",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "villarreal2021",
+      "name": "Villarreal 2021",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "shirts2021a",
+      "name": "Shirts 2021 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "arsenal2021",
+      "name": "Arsenal 2021",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "astonvilla2021",
+      "name": "Aston Villa 2021",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "brentford2021",
+      "name": "Brentford 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "brighton2021",
+      "name": "Brighton 2021",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "burnley2021",
+      "name": "Burnley 2021",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "chelsea2021",
+      "name": "Chelsea 2021",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "crystalpalace2021",
+      "name": "Crystal Palace 2021",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "everton2021",
+      "name": "Everton 2021",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "fulham2021",
+      "name": "Fulham 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "leeds2021",
+      "name": "Leeds 2021",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "leicester2021",
+      "name": "Leicester 2021",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "liverpool2021",
+      "name": "Liverpool 2021",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "newcastle2021",
+      "name": "Newcastle 2021",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "norwich2021",
+      "name": "Norwich 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "sheffield2021",
+      "name": "Sheffield 2021",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "southampton2021",
+      "name": "Southampton 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "tottenham2021",
+      "name": "Tottenham 2021",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "watford2021",
+      "name": "Watford 2021",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "westham2021",
+      "name": "West Ham 2021",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "wolverhampton2021",
+      "name": "Wolverhampton 2021",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "torino2021",
+      "name": "Torino 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "milan2021",
+      "name": "Milan 2021",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "cristianoronaldo3",
+      "name": "Cristiano Ronaldo 3",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "cristianounited2",
+      "name": "Cristiano United 2",
+      "animated_sticker_pack": false,
+      "stickers": "6"
+    },
+    {
+      "identifier": "inter2021",
+      "name": "Inter 2021",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "cristianounited",
+      "name": "Cristiano United",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "turkey2021",
+      "name": "Turkey 2021",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "city2021",
+      "name": "Manchester City 2021",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "bayern2021",
+      "name": "Bayern Munich 2021",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "barcelona2021",
+      "name": "Barcelona 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "realmadrid2021",
+      "name": "Real Madrid 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "united2021",
+      "name": "Manchester United 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "dortmund2021",
+      "name": "Borussia D. 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ajax2021",
+      "name": "Ajax 2021",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "psg2021a",
+      "name": "PSG 2021 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "psg2021b",
+      "name": "PSG 2021 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "mexico2021",
+      "name": "Mexico 2021",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "independiente2021",
+      "name": "Independiente",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "uefasupercup2021w1",
+      "name": "Super Cup Champ 21",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "messipsg2",
+      "name": "Messi PSG (2)",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "messipsg",
+      "name": "Messi PSG (1)",
+      "animated_sticker_pack": false,
+      "stickers": "9"
+    },
+    {
+      "identifier": "messiout",
+      "name": "Stickers Messi Out",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "messibarca1",
+      "name": "Messi Barcelona",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "euro2020f2",
+      "name": "Italy Champion (2)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "euro2020f1",
+      "name": "Italy Champion (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "copaamerica2021f2",
+      "name": "Argentina Campeon (2)",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "copaamerica2021f1",
+      "name": "Argentina Campeon",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "copaamerica2021tp",
+      "name": "Colombia vs Peru",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "euro2020s2",
+      "name": "England vs Denmark",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "euro2020s1",
+      "name": "Italy vs Spain",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "copaamerica2021s2",
+      "name": "Argentina vs Colombia",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "copaamerica2021s1",
+      "name": "Brasil vs Peru",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "euro2020c4",
+      "name": "England vs Ukraine",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "euro2020c3",
+      "name": "Czech Republic vs Denmark",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "copaamerica2021c4",
+      "name": "Argentina vs Ecuador",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "copaamerica2021c3",
+      "name": "Uruguay vs Colombia",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "euro2020c2",
+      "name": "Italy vs Belgium",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "euro2020c1",
+      "name": "Spain vs Switzerland",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "copaamerica2021c2",
+      "name": "Brasil vs Chile",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "copaamerica2021c1",
+      "name": "Peru vs Paraguay",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "euro2020o8",
+      "name": "Sweden vs Ukraine",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "euro2020o7",
+      "name": "England vs Germany",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "euro2020o6",
+      "name": "France vs Switzerland",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "euro2020o5",
+      "name": "Croatia vs Spain",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "copaamerica2021d10a",
+      "name": "Argentina vs Bolivia",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "copaamerica2021d10b",
+      "name": "Uruguay vs Paraguay",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "euro2020o4",
+      "name": "Belgium vs Portugal",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "euro2020o3",
+      "name": "Nethererlands vs Czech Republic",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "copaamerica2021d9b",
+      "name": "Brasil vs Ecuador",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "copaamerica2021d9a",
+      "name": "Peru vs Venezuela",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "euro2020o2",
+      "name": "Italy vs Austria",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "euro2020o1",
+      "name": "Wales vs Denmark",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "copaamerica2021d8b",
+      "name": "Paraguay vs Chile",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "copaamerica2021d8a",
+      "name": "Uruguay vs Bolivia",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "euro2020d13",
+      "name": "Euro 2020 Day 13",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "copaamerica2021d7b",
+      "name": "Brasil vs Colombia",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "copaamerica2021d7a",
+      "name": "Ecuador vs Peru",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "euro2020d12",
+      "name": "Euro 2020 Day 12",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "euro2020d11",
+      "name": "Euro 2020 Day 11",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "copaamerica2021d6b",
+      "name": "Argentina vs Paraguay",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "copaamerica2021d6a",
+      "name": "Uruguay vs Chile",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "euro2020d10",
+      "name": "Euro 2020 Day 10",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "copaamerica2021d5b",
+      "name": "Colombia vs Peru",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "copaamerica2021d5a",
+      "name": "Venezuela vs Ecuador",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "euro2020d9",
+      "name": "Euro 2020 Day 9",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "euro2020d8",
+      "name": "Euro 2020 Day 8",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "copaamerica2021d4b",
+      "name": "Argentina vs Uruguay",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "copaamerica2021d4a",
+      "name": "Chile vs Bolivia",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "euro2020d7",
+      "name": "Euro 2020 Day 7",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "copaamerica2021d3b",
+      "name": "Brasil vs Peru",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "copaamerica2021d3a",
+      "name": "Colombia vs Venezuela",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "euro2020d6",
+      "name": "Euro 2020 Day 6",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "euro2020d5",
+      "name": "Euro 2020 Day 5",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "euro2020d4",
+      "name": "Euro 2020 Day 4",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "copaamerica2021d2a",
+      "name": "Argentina vs Chile",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "copaamerica2021d2b",
+      "name": "Paraguay vs Bolivia",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "euro2020d3",
+      "name": "Euro 2020 Day 3",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "euro2020d1d2",
+      "name": "Euro 2020 D1 \u0026 D2",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "copaamerica2021d1b",
+      "name": "Colombia vs Ecuador",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "copaamerica2021d1a",
+      "name": "Brasil vs Venezuela",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "argentina2021b",
+      "name": "Argentina (2)",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "argentina2021",
+      "name": "Argentina",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "brasil2021b",
+      "name": "Brasil (2)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "brasil2021",
+      "name": "Brasil",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "bolivia2021",
+      "name": "Bolivia",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "chile2021",
+      "name": "Chile",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "colombia2021",
+      "name": "Colombia",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "ecuador2021",
+      "name": "Ecuador",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "paraguay2021",
+      "name": "Paraguay",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "peru2021",
+      "name": "Peru",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "uruguay2021",
+      "name": "Uruguay",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "venezuela2021",
+      "name": "Venezuela",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "fifaa1",
+      "name": "Fifa Animated 1",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "fifaa2",
+      "name": "Fifa Animated 2",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "fifaa3",
+      "name": "Fifa Animated 3",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "ufcl2021w2",
+      "name": "Chelsea Champion (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2021w1",
+      "name": "Chelsea Champion 2021",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "ufcl2021pf1",
+      "name": "Pre Final UCL 2021",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "city2020",
+      "name": "Manchester City 2020",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "chelsea2020",
+      "name": "Chelsea",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "borussiaa2021",
+      "name": "Borussia Dortmund",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "uel2021",
+      "name": "UEL Champion 2021",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "atleticoc2021",
+      "name": "Atletico Campeon",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2021s4",
+      "name": "Semifinal (4)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "ufcl2021s3",
+      "name": "Semifinal (3)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "ufcl2021s2",
+      "name": "Semifinal (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "ufcl2021s1",
+      "name": "Semifinal (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "mbappe1",
+      "name": "Mbappe",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "bayerna1",
+      "name": "Bayern Animated",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "ufcl2021c4",
+      "name": "Round of 4 (6)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2021c3",
+      "name": "Round of 4 (5)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2021c2a",
+      "name": "Round of 4 (4)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "ufcl2021c2",
+      "name": "Round of 4 (3)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2021c1a",
+      "name": "Round of 4 (2)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "ufcl2021c1",
+      "name": "Round of 4 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "intera1",
+      "name": "Inter Animated",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "cristianoronaldo2",
+      "name": "Cristiano Ronaldo",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "memessoccer",
+      "name": "Animated Memes Soccer",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
+      "identifier": "cska2021",
+      "name": "CSKA",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2021o8",
+      "name": "Round of 8 (8)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "ufcl2021o7",
+      "name": "Round of 8 (7)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "besiktas2021",
+      "name": "Besiktas",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "fenerbahce2021",
+      "name": "Fenerbahce",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2021o6",
+      "name": "Round of 8 (6)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2021o5",
+      "name": "Round of 8 (5)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "galatasaray2021",
+      "name": "Galatasaray",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "ufcl2021o4",
+      "name": "Round of 8 (4)",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "ufcl2021o3",
+      "name": "Round of 8 (3)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "ufcl2021o2",
+      "name": "Round of 8 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "ufcl2021o1",
+      "name": "Round of 8 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "icons",
+      "name": "Icons",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "fifaclubwc2020",
+      "name": "Fifa Club WC 2020",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "spain",
+      "name": "Spain",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "libertadores2020",
+      "name": "Libertadores 2020",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "palmeiras2020",
+      "name": "Palmeiras",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "argentina",
+      "name": "Argentina",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "cristianoronaldo",
+      "name": "Cristiano Ronaldo",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "juventus2020",
+      "name": "Juventus",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "lazio2020",
+      "name": "Lazio",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "dortmund2020",
+      "name": "Borussia 2020",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "bayern2020",
+      "name": "Bayern Munich Champion 2020",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "maradona4",
+      "name": "Pack Maradona (2)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "tottenham2020",
+      "name": "Tottenham 2020",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "everton2020",
+      "name": "Everton 2020",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "barcelona2020",
+      "name": "Barcelona 2020",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "porto2020",
+      "name": "Porto",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    }
+  ]
+}

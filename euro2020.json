@@ -1,0 +1,174 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id\u003dcom.astromobile.stickers.soccer",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "euro2020f2",
+      "name": "Italy Champion (2)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "euro2020f1",
+      "name": "Italy Champion (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "euro2020s2",
+      "name": "England vs Denmark",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "euro2020s1",
+      "name": "Italy vs Spain",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "euro2020c4",
+      "name": "England vs Ukraine",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "euro2020c3",
+      "name": "Czech Republic vs Denmark",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "euro2020c2",
+      "name": "Italy vs Belgium",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "euro2020c1",
+      "name": "Spain vs Switzerland",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "euro2020o8",
+      "name": "Sweden vs Ukraine",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "euro2020o7",
+      "name": "England vs Germany",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "euro2020o6",
+      "name": "France vs Switzerland",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "euro2020o5",
+      "name": "Croatia vs Spain",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "euro2020o4",
+      "name": "Belgium vs Portugal",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "euro2020o3",
+      "name": "Nethererlands vs Czech Republic",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "euro2020o2",
+      "name": "Italy vs Austria",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "euro2020o1",
+      "name": "Wales vs Denmark",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "euro2020d13",
+      "name": "Euro 2020 Day 13",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "euro2020d12",
+      "name": "Euro 2020 Day 12",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "euro2020d11",
+      "name": "Euro 2020 Day 11",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "euro2020d10",
+      "name": "Euro 2020 Day 10",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "euro2020d9",
+      "name": "Euro 2020 Day 9",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "euro2020d8",
+      "name": "Euro 2020 Day 8",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "euro2020d7",
+      "name": "Euro 2020 Day 7",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "euro2020d6",
+      "name": "Euro 2020 Day 6",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "euro2020d5",
+      "name": "Euro 2020 Day 5",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "euro2020d4",
+      "name": "Euro 2020 Day 4",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "euro2020d3",
+      "name": "Euro 2020 Day 3",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "euro2020d1d2",
+      "name": "Euro 2020 D1 \u0026 D2",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    }
+  ]
+}

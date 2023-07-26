@@ -1,0 +1,60 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id\u003dcom.astromobile.stickers.soccer",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "tuchelvsconte",
+      "name": "Tuchel vs Conte",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "pepguardiola1",
+      "name": "Pep Guardiola",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "jurgenklopp1",
+      "name": "Jurgen Klopp",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "simoneinzaghi1",
+      "name": "Simone Inzaghi",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "stefanopioli1",
+      "name": "Stefano Pioli",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "cholosimeone1",
+      "name": "Cholo Simeone",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "juliannagelsmann1",
+      "name": "Julian Nagelsmann",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "marcorose1",
+      "name": "Marco Rose",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "bielsa2",
+      "name": "Thanks Bielsa",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    }
+  ]
+}
