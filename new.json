@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier":"uefasupercup2023w1",
+      "name":"City vs Sevilla (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier":"uefasupercup2023w2",
+      "name":"City vs Sevilla (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
          "identifier":"harrykane2",
          "name":"Harry Kane (2)",
          "animated_sticker_pack":false,
