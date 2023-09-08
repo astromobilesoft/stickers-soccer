@@ -3,10 +3,16 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-         "identifier":"harrykane2",
-         "name":"Harry Kane (2)",
-         "animated_sticker_pack":false,
-         "stickers":"17"
+      "identifier":"sergioramos2",
+      "name":"Sergio Ramos (2)",
+      "animated_sticker_pack":false,
+      "stickers":"20"
+    },
+    {
+      "identifier":"harrykane2",
+      "name":"Harry Kane (2)",
+      "animated_sticker_pack":false,
+      "stickers":"17"
     },
     {
       "identifier": "zlatanibrahimovic",
