@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "eliminatorias2026f1a",
+      "name": "Argentina vs Ecuador",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
       "identifier": "libertadores2022w1",
       "name": "Champion Libertadores 2022 (1)",
       "animated_sticker_pack": false,
