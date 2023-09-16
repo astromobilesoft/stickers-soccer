@@ -2,7 +2,19 @@
   "android_play_store_link": "https://play.google.com/store/apps/details?id=com.astromobile..stickers.soccer",
   "ios_app_store_link": "",
   "sticker_packs": [
-     {
+    {
+      "identifier": "2023intervsmilan2",
+      "name": "Inter vs Milan (2)",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "2023intervsmilan3",
+      "name": "Inter vs Milan (3)",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
       "identifier": "riverplate2023",
       "name": "River Plate 2023",
       "animated_sticker_pack": false,
