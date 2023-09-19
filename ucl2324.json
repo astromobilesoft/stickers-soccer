@@ -2,5 +2,11 @@
   "android_play_store_link": "https://play.google.com/store/apps/details?id=com.astromobile.stickers.soccer",
   "ios_app_store_link": "",
   "sticker_packs": [
+    {
+      "identifier": "ufcl2324gp1a",
+      "name": "UCL 23-24 Day 1 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    }
   ]
 }
