@@ -3,6 +3,132 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "atalanta2023",
+      "name": "Atalanta 2023",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "bologna2023",
+      "name": "Bologna 2023",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "cagliari2023",
+      "name": "Cagliari 2023",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "empoli2023",
+      "name": "Empoli 2023",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "fiorentina2023",
+      "name": "Fiorentina 2023",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "frosinone2023",
+      "name": "Frosinone 2023",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "genoa2023",
+      "name": "Genoa 2023",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "hellasverona2023",
+      "name": "Hellas Verona 2023",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "inter2023",
+      "name": "Inter 2023",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "juventus2023",
+      "name": "Juventus 2023",
+      "animated_sticker_pack": false,
+      "stickers": "25"
+    },
+    {
+      "identifier": "lazio2023",
+      "name": "Lazio 2023",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "lecce2023",
+      "name": "Lecce 2023",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "milan2023",
+      "name": "Milan 2023",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "milan2023",
+      "name": "Milan 2023",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "monza2023",
+      "name": "Monza 2023",
+      "animated_sticker_pack": false,
+      "stickers": "28"
+    },
+    {
+      "identifier": "napoli2023",
+      "name": "Napoli 2023",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "roma2023",
+      "name": "Roma 2023",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "salernitana2023",
+      "name": "Salernitana 2023",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "sassuolo2023",
+      "name": "Sassuolo 2023",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "torino2023",
+      "name": "Torino 2023",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "udinese2023",
+      "name": "Udinese 2023",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
       "identifier": "ufcl2324gp2a",
       "name": "UCL 23-24 Day 2 (1)",
       "animated_sticker_pack": false,
