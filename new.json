@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "2023atleticovsrealmadrid1a",
+      "name": "Atlético vs Real Madrid 2023 (1)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "2023atleticovsrealmadrid1b",
+      "name": "Atlético vs Real Madrid 2023 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
       "identifier": "atalanta2023",
       "name": "Atalanta 2023",
       "animated_sticker_pack": false,
