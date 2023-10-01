@@ -1,876 +1,888 @@
 {
-  "android_play_store_link": "https://play.google.com/store/apps/details?id\u003dcom.astromobile.stickers.soccer",
-  "ios_app_store_link": "",
-  "sticker_packs": [
-     {
-      "identifier": "riverplate2023",
-      "name": "River Plate 2023",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "bocajuniors2023",
-      "name": "Boca Juniors 2023",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "racingclub2023",
-      "name": "Racing Club 2023",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "independiente2023",
-      "name": "Independiente 2023",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "sanlorenzo2023",
-      "name": "San Lorenzo 2023",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "eliminatorias2026f1a",
-      "name": "Argentina vs Ecuador",
-      "animated_sticker_pack": false,
-      "stickers": "24"
-    },
-    {
-      "identifier": "libertadores2022w1",
-      "name": "Champion Libertadores 2022 (1)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "libertadores2022wa1",
-      "name": "Champion Libertadores 2022 (2)",
-      "animated_sticker_pack": true,
-      "stickers": "16"
-    },
-    {
-      "identifier": "libertadoresw2022w1",
-      "name": "Champion Libertadores W 2022",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "sudamericana2022w1",
-      "name": "IdV Campeón Sudamericana 2022",
-      "animated_sticker_pack": false,
-      "stickers": "26"
-    },
-    {
-      "identifier": "libertadores2022s4",
-      "name": "Flamengo vs Velez",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "libertadores2022s3",
-      "name": "Paranaense vs Palmeiras",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "libertadores2022c7",
-      "name": "Estudiantes vs Paranaense",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "libertadores2022c6",
-      "name": "Palmeiras vs Mineiro",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "libertadores2022c5",
-      "name": "Talleres vs Velez",
-      "animated_sticker_pack": false,
-      "stickers": "16"
-    },
-    {
-      "identifier": "libertadores2022c4",
-      "name": "Flamengo vs Corinthians (2)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "libertadores2022c4a1",
-      "name": "Flamengo vs Corinthians (1)",
-      "animated_sticker_pack": true,
-      "stickers": "8"
-    },
-    {
-      "identifier": "libertadores2022c3",
-      "name": "Velez vs Talleres",
-      "animated_sticker_pack": false,
-      "stickers": "16"
-    },
-    {
-      "identifier": "libertadores2022c2",
-      "name": "Atletico MG vs Palmeiras",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "libertadores2022c1",
-      "name": "Corinthians vs Flamengo",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "libertadores2022o4",
-      "name": "Libertadores F8 (4)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "libertadores2022o3",
-      "name": "Libertadores F8 (3)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "libertadores2022o2",
-      "name": "Libertadores F8 (2)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "libertadores2022o1",
-      "name": "Libertadores F8 (1)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "libertadores2022fg18",
-      "name": "Libertadores 2022 (18)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "libertadores2022fg17",
-      "name": "Libertadores 2022 (17)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "libertadores2022fg16",
-      "name": "Libertadores 2022 (16)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "copaligaprofesional2022w1",
-      "name": "Boca Champion 2021 (2)",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "copaligaprofesional2022f1",
-      "name": "Boca Champion 2021 (1)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "libertadores2022fg15",
-      "name": "Libertadores 2022 (15)",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "libertadores2022fg14",
-      "name": "Libertadores 2022 (14)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "libertadores2022fg13",
-      "name": "Libertadores 2022 (13)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "libertadores2022fg12",
-      "name": "Libertadores 2022 (12)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "libertadores2022fg11",
-      "name": "Libertadores 2022 (11)",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "libertadores2022fg10",
-      "name": "Libertadores 2022 (10)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "libertadores2022fg9",
-      "name": "Libertadores 2022 (9)",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "libertadores2022fg8",
-      "name": "Libertadores 2022 (8)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "libertadores2022fg7",
-      "name": "Libertadores 2022 (7)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "libertadores2022fg6",
-      "name": "Libertadores 2022 (6)",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "libertadores2022fg5",
-      "name": "Libertadores 2022 (5)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "libertadores2022fg4",
-      "name": "Libertadores 2022 (4)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "libertadores2022fg3",
-      "name": "Libertadores 2022 (3)",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "libertadores2022fg2",
-      "name": "Libertadores 2022 (2)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "libertadores2022fg1",
-      "name": "Libertadores 2022 (1)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "universitario2022",
-      "name": "Universitario 2022",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "conmebolqatarf17b",
-      "name": "Conmebol F17 (2)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "conmebolqatarf17a",
-      "name": "Conmebol F17 (1)",
-      "animated_sticker_pack": false,
-      "stickers": "26"
-    },
-    {
-      "identifier": "america2022",
-      "name": "America Mex 2022",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "atlas2022",
-      "name": "Atlas 2022",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "atleticomineiro2022",
-      "name": "Atl. Mineiro 2022",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "corinthians2022",
-      "name": "Corinthians 2022",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "gremio2022",
-      "name": "Gremio 2022",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "palmeiras2022",
-      "name": "Palmeiras 2022",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "aldosivi2021",
-      "name": "Aldosivi 2021",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "atleticotucuman2021",
-      "name": "Atletico Tucuman 2021",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "banfield2021",
-      "name": "Banfield 2021",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "bocajuniors2021",
-      "name": "Boca Juniors 2021",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "defensayjusticia2021",
-      "name": "Defensa y Justicia 2021",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "estudianteslp2021",
-      "name": "Estudiantes LP 2021",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "gimnasialp2021",
-      "name": "Gimnasia LP 2021",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "godoycruz2021",
-      "name": "Godoy Cruz 2021",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "platense2021",
-      "name": "Platense 2021",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "riverplate2021",
-      "name": "River Plate 2021",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "talleres2021",
-      "name": "Talleres 2021",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "velez2021",
-      "name": "Velez Sarsfield 2021",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "conmebolqatarf13",
-      "name": "Conmebol F13",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "conmebolqatarf12",
-      "name": "Conmebol F12",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "conmebolqatarf11",
-      "name": "Conmebol F11",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "chivas2021",
-      "name": "Chivas 2021",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "america2021",
-      "name": "America Mex 2021",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "nacional2021",
-      "name": "Nacional 2021",
-      "animated_sticker_pack": false,
-      "stickers": "29"
-    },
-    {
-      "identifier": "penarol2021",
-      "name": "Penarol 2021",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "fenix2021",
-      "name": "Fenix 2021",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "montevideocitytorque2021",
-      "name": "City Torque 2021",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "alianzalima2021",
-      "name": "Alianza 2021",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "cienciano2021",
-      "name": "Cienciano 2021",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "sportingcristal2021",
-      "name": "Sporting Cristal 2021",
-      "animated_sticker_pack": false,
-      "stickers": "26"
-    },
-    {
-      "identifier": "libertad2021",
-      "name": "Libertad 2021",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "olimpia2021",
-      "name": "Olimpia 2021",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "caracas2021",
-      "name": "Caracas 2021",
-      "animated_sticker_pack": false,
-      "stickers": "24"
-    },
-    {
-      "identifier": "deportivolaguaira2021",
-      "name": "Dep. La Guaira 2021",
-      "animated_sticker_pack": false,
-      "stickers": "14"
-    },
-    {
-      "identifier": "deportivolara2021",
-      "name": "Deportivo Lara 2021",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "deportivotachira2021",
-      "name": "Deportivo Tachira 2021",
-      "animated_sticker_pack": false,
-      "stickers": "29"
-    },
-    {
-      "identifier": "sanlorenzo2021",
-      "name": "San Lorenzo 2021",
-      "animated_sticker_pack": false,
-      "stickers": "29"
-    },
-    {
-      "identifier": "racingclub2021",
-      "name": "Racing Club 2021",
-      "animated_sticker_pack": false,
-      "stickers": "29"
-    },
-    {
-      "identifier": "rosariocentral2021",
-      "name": "Rosario Central 2021",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "newells2021",
-      "name": "Newells Old Boys 2021",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "universidadchile2021",
-      "name": "Universidad de Chile 2021",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "colocolo2021",
-      "name": "Colo Colo 2021",
-      "animated_sticker_pack": false,
-      "stickers": "29"
-    },
-    {
-      "identifier": "universidadcatolica2021",
-      "name": "Universidad Catolica 2021",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "independientedelvalle2021",
-      "name": "Indep. del Valle 2021",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "lduquito2021",
-      "name": "LDU Quito 2021",
-      "animated_sticker_pack": false,
-      "stickers": "26"
-    },
-    {
-      "identifier": "emelec2021",
-      "name": "Emelec 2021",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "bolivar2021",
-      "name": "Bolivar 2021",
-      "animated_sticker_pack": false,
-      "stickers": "29"
-    },
-    {
-      "identifier": "thestrongest2021",
-      "name": "The Strongest 2021",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "corinthians2021",
-      "name": "Corinthians 2021",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "flamengo2021",
-      "name": "Flamengo 2021",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "fluminense2021",
-      "name": "Fluminense 2021",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "gremio2021",
-      "name": "Gremio 2021",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "palmeiras2021",
-      "name": "Palmeiras 2021",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "paranaense2021",
-      "name": "Ath Paranaense 2021",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "saopaulo2021",
-      "name": "Sao Paulo 2021",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "atleticonacional2021",
-      "name": "Atl Nacional 2021",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "deportivocali2021",
-      "name": "Deportivo Cali 2021",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "independientemedellin2021",
-      "name": "Independiente Medellin 2021",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "millonarios2021",
-      "name": "Millonarios 2021",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "independientesantafe2021",
-      "name": "Independiente Sta Fe 2021",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "barcelonaecu2021",
-      "name": "Barcelona Ecuador 2021",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "atleticomineiro2021a",
-      "name": "Atl. Mineiro 2021 (1)",
-      "animated_sticker_pack": false,
-      "stickers": "29"
-    },
-    {
-      "identifier": "atleticomineiro2021b",
-      "name": "Atl. Mineiro 2021 (2)",
-      "animated_sticker_pack": false,
-      "stickers": "19"
-    },
-    {
-      "identifier": "independiente2021",
-      "name": "Independiente",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "santos2020",
-      "name": "Santos",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "racing2020",
-      "name": "Racing",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "independientemedellin2020",
-      "name": "Independiente Medellin",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "estudiantesmerida2020",
-      "name": "Estudiantes Merida",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "delfin2020",
-      "name": "Delfin",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "defensayjusticia2020",
-      "name": "Defensa y Justicia",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "caracas2020",
-      "name": "Caracas",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "americacali2020",
-      "name": "America Cali",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "saopaulo2020",
-      "name": "Sao Paulo",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "ligaquito2020",
-      "name": "Liga de Quito",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "binacional2020",
-      "name": "Binacional",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "paranaense2020",
-      "name": "Ath Paranaense",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "bolivar2020",
-      "name": "Bolivar",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "tigre2020",
-      "name": "Tigre",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "guarani2020",
-      "name": "Guarani",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "flamengo2020",
-      "name": "Flamengo",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "independientedelvalle2020",
-      "name": "Independiente Valle",
-      "animated_sticker_pack": false,
-      "stickers": "13"
-    },
-    {
-      "identifier": "barcelonaecu2020",
-      "name": "Barcelona Ecuador 2020",
-      "animated_sticker_pack": false,
-      "stickers": "13"
-    },
-    {
-      "identifier": "junior2020",
-      "name": "Junior Barranquilla",
-      "animated_sticker_pack": false,
-      "stickers": "16"
-    },
-    {
-      "identifier": "palmeiras2020",
-      "name": "Palmeiras",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "alianza2020",
-      "name": "Alianza Lima",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "wilstermann2020",
-      "name": "Jorge Wilstermann",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "libertad2020",
-      "name": "Libertad",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "olimpia2020",
-      "name": "Olimpia",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "colocolo2020",
-      "name": "Colo Colo",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "catolica2020",
-      "name": "Universidad Catolica",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "gremio2020",
-      "name": "Gremio Players",
-      "animated_sticker_pack": false,
-      "stickers": "14"
-    },
-    {
-      "identifier": "interpa2020",
-      "name": "Inter Porto Alegre",
-      "animated_sticker_pack": false,
-      "stickers": "14"
-    },
-    {
-      "identifier": "nacional2020",
-      "name": "Nacional",
-      "animated_sticker_pack": false,
-      "stickers": "14"
-    },
-    {
-      "identifier": "penarol2020",
-      "name": "Penarol",
-      "animated_sticker_pack": false,
-      "stickers": "14"
-    },
-    {
-      "identifier": "riverplate2020",
-      "name": "River Plate",
-      "animated_sticker_pack": false,
-      "stickers": "14"
-    },
-    {
-      "identifier": "bocajuniors2020",
-      "name": "Boca Juniors",
-      "animated_sticker_pack": false,
-      "stickers": "14"
-    },
-    {
-      "identifier": "america2019",
-      "name": "America",
-      "animated_sticker_pack": false,
-      "stickers": "16"
-    },
-    {
-      "identifier": "chivas2019",
-      "name": "Chivas",
-      "animated_sticker_pack": false,
-      "stickers": "16"
-    }
-  ]
+   "android_play_store_link":"https://play.google.com/store/apps/details?id\u003dcom.astromobile.stickers.soccer",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"2023bocajrsvsriverplate1",
+         "name":"River Plate vs Boca Jrs (1)",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"2023bocajrsvsriverplate2",
+         "name":"River Plate vs Boca Jrs (2)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"riverplate2023",
+         "name":"River Plate 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"bocajuniors2023",
+         "name":"Boca Juniors 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"racingclub2023",
+         "name":"Racing Club 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"independiente2023",
+         "name":"Independiente 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"sanlorenzo2023",
+         "name":"San Lorenzo 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"eliminatorias2026f1a",
+         "name":"Argentina vs Ecuador",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"libertadores2022w1",
+         "name":"Champion Libertadores 2022 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"libertadores2022wa1",
+         "name":"Champion Libertadores 2022 (2)",
+         "animated_sticker_pack":true,
+         "stickers":"16"
+      },
+      {
+         "identifier":"libertadoresw2022w1",
+         "name":"Champion Libertadores W 2022",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"sudamericana2022w1",
+         "name":"IdV Campeón Sudamericana 2022",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"libertadores2022s4",
+         "name":"Flamengo vs Velez",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"libertadores2022s3",
+         "name":"Paranaense vs Palmeiras",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"libertadores2022c7",
+         "name":"Estudiantes vs Paranaense",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"libertadores2022c6",
+         "name":"Palmeiras vs Mineiro",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"libertadores2022c5",
+         "name":"Talleres vs Velez",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"libertadores2022c4",
+         "name":"Flamengo vs Corinthians (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"libertadores2022c4a1",
+         "name":"Flamengo vs Corinthians (1)",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
+         "identifier":"libertadores2022c3",
+         "name":"Velez vs Talleres",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"libertadores2022c2",
+         "name":"Atletico MG vs Palmeiras",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"libertadores2022c1",
+         "name":"Corinthians vs Flamengo",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"libertadores2022o4",
+         "name":"Libertadores F8 (4)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"libertadores2022o3",
+         "name":"Libertadores F8 (3)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"libertadores2022o2",
+         "name":"Libertadores F8 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"libertadores2022o1",
+         "name":"Libertadores F8 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"libertadores2022fg18",
+         "name":"Libertadores 2022 (18)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"libertadores2022fg17",
+         "name":"Libertadores 2022 (17)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"libertadores2022fg16",
+         "name":"Libertadores 2022 (16)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaligaprofesional2022w1",
+         "name":"Boca Champion 2021 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"copaligaprofesional2022f1",
+         "name":"Boca Champion 2021 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"libertadores2022fg15",
+         "name":"Libertadores 2022 (15)",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"libertadores2022fg14",
+         "name":"Libertadores 2022 (14)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"libertadores2022fg13",
+         "name":"Libertadores 2022 (13)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"libertadores2022fg12",
+         "name":"Libertadores 2022 (12)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"libertadores2022fg11",
+         "name":"Libertadores 2022 (11)",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"libertadores2022fg10",
+         "name":"Libertadores 2022 (10)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"libertadores2022fg9",
+         "name":"Libertadores 2022 (9)",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"libertadores2022fg8",
+         "name":"Libertadores 2022 (8)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"libertadores2022fg7",
+         "name":"Libertadores 2022 (7)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"libertadores2022fg6",
+         "name":"Libertadores 2022 (6)",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"libertadores2022fg5",
+         "name":"Libertadores 2022 (5)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"libertadores2022fg4",
+         "name":"Libertadores 2022 (4)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"libertadores2022fg3",
+         "name":"Libertadores 2022 (3)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"libertadores2022fg2",
+         "name":"Libertadores 2022 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"libertadores2022fg1",
+         "name":"Libertadores 2022 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"universitario2022",
+         "name":"Universitario 2022",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"conmebolqatarf17b",
+         "name":"Conmebol F17 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"conmebolqatarf17a",
+         "name":"Conmebol F17 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"america2022",
+         "name":"America Mex 2022",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"atlas2022",
+         "name":"Atlas 2022",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"atleticomineiro2022",
+         "name":"Atl. Mineiro 2022",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"corinthians2022",
+         "name":"Corinthians 2022",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"gremio2022",
+         "name":"Gremio 2022",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"palmeiras2022",
+         "name":"Palmeiras 2022",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"aldosivi2021",
+         "name":"Aldosivi 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"atleticotucuman2021",
+         "name":"Atletico Tucuman 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"banfield2021",
+         "name":"Banfield 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"bocajuniors2021",
+         "name":"Boca Juniors 2021",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"defensayjusticia2021",
+         "name":"Defensa y Justicia 2021",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"estudianteslp2021",
+         "name":"Estudiantes LP 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"gimnasialp2021",
+         "name":"Gimnasia LP 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"godoycruz2021",
+         "name":"Godoy Cruz 2021",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"platense2021",
+         "name":"Platense 2021",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"riverplate2021",
+         "name":"River Plate 2021",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"talleres2021",
+         "name":"Talleres 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"velez2021",
+         "name":"Velez Sarsfield 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"conmebolqatarf13",
+         "name":"Conmebol F13",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"conmebolqatarf12",
+         "name":"Conmebol F12",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"conmebolqatarf11",
+         "name":"Conmebol F11",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"chivas2021",
+         "name":"Chivas 2021",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"america2021",
+         "name":"America Mex 2021",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"nacional2021",
+         "name":"Nacional 2021",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"penarol2021",
+         "name":"Penarol 2021",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"fenix2021",
+         "name":"Fenix 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"montevideocitytorque2021",
+         "name":"City Torque 2021",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"alianzalima2021",
+         "name":"Alianza 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"cienciano2021",
+         "name":"Cienciano 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"sportingcristal2021",
+         "name":"Sporting Cristal 2021",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"libertad2021",
+         "name":"Libertad 2021",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"olimpia2021",
+         "name":"Olimpia 2021",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"caracas2021",
+         "name":"Caracas 2021",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"deportivolaguaira2021",
+         "name":"Dep. La Guaira 2021",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"deportivolara2021",
+         "name":"Deportivo Lara 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"deportivotachira2021",
+         "name":"Deportivo Tachira 2021",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"sanlorenzo2021",
+         "name":"San Lorenzo 2021",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"racingclub2021",
+         "name":"Racing Club 2021",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"rosariocentral2021",
+         "name":"Rosario Central 2021",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"newells2021",
+         "name":"Newells Old Boys 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"universidadchile2021",
+         "name":"Universidad de Chile 2021",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"colocolo2021",
+         "name":"Colo Colo 2021",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"universidadcatolica2021",
+         "name":"Universidad Catolica 2021",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"independientedelvalle2021",
+         "name":"Indep. del Valle 2021",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"lduquito2021",
+         "name":"LDU Quito 2021",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"emelec2021",
+         "name":"Emelec 2021",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"bolivar2021",
+         "name":"Bolivar 2021",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"thestrongest2021",
+         "name":"The Strongest 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"corinthians2021",
+         "name":"Corinthians 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"flamengo2021",
+         "name":"Flamengo 2021",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"fluminense2021",
+         "name":"Fluminense 2021",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"gremio2021",
+         "name":"Gremio 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"palmeiras2021",
+         "name":"Palmeiras 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"paranaense2021",
+         "name":"Ath Paranaense 2021",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"saopaulo2021",
+         "name":"Sao Paulo 2021",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"atleticonacional2021",
+         "name":"Atl Nacional 2021",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"deportivocali2021",
+         "name":"Deportivo Cali 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"independientemedellin2021",
+         "name":"Independiente Medellin 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"millonarios2021",
+         "name":"Millonarios 2021",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"independientesantafe2021",
+         "name":"Independiente Sta Fe 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"barcelonaecu2021",
+         "name":"Barcelona Ecuador 2021",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"atleticomineiro2021a",
+         "name":"Atl. Mineiro 2021 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"atleticomineiro2021b",
+         "name":"Atl. Mineiro 2021 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"independiente2021",
+         "name":"Independiente",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"santos2020",
+         "name":"Santos",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"racing2020",
+         "name":"Racing",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"independientemedellin2020",
+         "name":"Independiente Medellin",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"estudiantesmerida2020",
+         "name":"Estudiantes Merida",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"delfin2020",
+         "name":"Delfin",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"defensayjusticia2020",
+         "name":"Defensa y Justicia",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"caracas2020",
+         "name":"Caracas",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"americacali2020",
+         "name":"America Cali",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"saopaulo2020",
+         "name":"Sao Paulo",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"ligaquito2020",
+         "name":"Liga de Quito",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"binacional2020",
+         "name":"Binacional",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"paranaense2020",
+         "name":"Ath Paranaense",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"bolivar2020",
+         "name":"Bolivar",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"tigre2020",
+         "name":"Tigre",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"guarani2020",
+         "name":"Guarani",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"flamengo2020",
+         "name":"Flamengo",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"independientedelvalle2020",
+         "name":"Independiente Valle",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"barcelonaecu2020",
+         "name":"Barcelona Ecuador 2020",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"junior2020",
+         "name":"Junior Barranquilla",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"palmeiras2020",
+         "name":"Palmeiras",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"alianza2020",
+         "name":"Alianza Lima",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"wilstermann2020",
+         "name":"Jorge Wilstermann",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"libertad2020",
+         "name":"Libertad",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"olimpia2020",
+         "name":"Olimpia",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"colocolo2020",
+         "name":"Colo Colo",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"catolica2020",
+         "name":"Universidad Catolica",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"gremio2020",
+         "name":"Gremio Players",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"interpa2020",
+         "name":"Inter Porto Alegre",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"nacional2020",
+         "name":"Nacional",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"penarol2020",
+         "name":"Penarol",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"riverplate2020",
+         "name":"River Plate",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"bocajuniors2020",
+         "name":"Boca Juniors",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"america2019",
+         "name":"America",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"chivas2019",
+         "name":"Chivas",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      }
+   ]
 }
