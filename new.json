@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ufcl2324gp3a",
+         "name":"UCL 23-24 Day 3 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"ufcl2324gp3b",
+         "name":"UCL 23-24 Day 3 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"2023bocajrsvsriverplate1",
          "name":"River Plate vs Boca Jrs (1)",
          "animated_sticker_pack":false,
