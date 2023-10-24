@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ufcl2324gp5a",
+         "name":"UCL 23-24 Day 5 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"ufcl2324gp5b",
+         "name":"UCL 23-24 Day 5 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"ufcl2324gp4a",
          "name":"UCL 23-24 Day 4 (1)",
          "animated_sticker_pack":false,
