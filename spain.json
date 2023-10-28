@@ -1,504 +1,510 @@
 {
-  "android_play_store_link": "https://play.google.com/store/apps/details?id\u003dcom.astromobile.stickers.soccer",
-  "ios_app_store_link": "",
-  "sticker_packs": [
-    {
-      "identifier": "2023atleticovsrealmadrid1a",
-      "name": "Atlético vs Real Madrid 2023 (1)",
-      "animated_sticker_pack": false,
-      "stickers": "18"
-    },
-    {
-      "identifier": "2023atleticovsrealmadrid1b",
-      "name": "Atlético vs Real Madrid 2023 (2)",
-      "animated_sticker_pack": false,
-      "stickers": "18"
-    },
-    {
-      "identifier": "worldcup2023w1",
-      "name": "Spain WC Champion 2023",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "uel2223f3",
-      "name": "Sevilla Campeón UEL (3)",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "uel2223f1",
-      "name": "Sevilla Campeón UEL (1)",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "uel2223f2",
-      "name": "Sevilla Campeón UEL (2)",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "2023barcelonacampeonlaliga1",
-      "name": "Barcelona Campeon (1)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "2023barcelonacampeonlaliga2",
-      "name": "Barcelona Campeon (2)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "copadelrey2223w1",
-      "name": "Real Madrid Campeón",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "2023barsavsreal2",
-      "name": "Barcelona vs Real Madrid (2)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "2023barsavsreal1",
-      "name": "Barcelona vs Real Madrid (1)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "2023realvsbarsa1",
-      "name": "Real Madrid vs Barcelona (1)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "2023realvsatletico1",
-      "name": "Real vs Atlético 2023",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "supercup23f1",
-      "name": "Supercopa España 2023",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022spain2",
-      "name": "World Cup Spain 1",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "worldcup2022spain3",
-      "name": "World Cup Spain 2",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "2022betisvssevilla",
-      "name": "Betis vs Sevilla 2022",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "barcelonaw2022",
-      "name": "Barcelona W 2022",
-      "animated_sticker_pack": false,
-      "stickers": "26"
-    },
-    {
-      "identifier": "realmadridw2022",
-      "name": "Real Madrid W 2022",
-      "animated_sticker_pack": false,
-      "stickers": "24"
-    },
-    {
-      "identifier": "2022realvsbarsa1",
-      "name": "Real Madrid vs Barcelona 1",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "2022realvsbarsa2",
-      "name": "Real Madrid vs Barcelona 2",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "almeria2022",
-      "name": "Almeria 2022",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "atleticomadrid2022",
-      "name": "Atletico Madrid 2022",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "barcelona2022b",
-      "name": "Barcelona 2022 (2)",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "bilbao2022",
-      "name": "Ath Bilbao 2022",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "cadiz2022",
-      "name": "Cadiz 2022",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "celta2022",
-      "name": "Celta Vigo 2022",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "elche2022",
-      "name": "Elche 2022",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "espanyol2022",
-      "name": "Espanyol 2022",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "getafe2022",
-      "name": "Getafe 2022",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "girona2022",
-      "name": "Girona 2022",
-      "animated_sticker_pack": false,
-      "stickers": "26"
-    },
-    {
-      "identifier": "mallorca2022",
-      "name": "Mallorca 2022",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "osasuna2022",
-      "name": "Osasuna 2022",
-      "animated_sticker_pack": false,
-      "stickers": "26"
-    },
-    {
-      "identifier": "rayovallecano2022",
-      "name": "Rayo Vallecano 2022",
-      "animated_sticker_pack": false,
-      "stickers": "26"
-    },
-    {
-      "identifier": "realbetis2022",
-      "name": "Real Betis 2022",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "realmadrid2022b",
-      "name": "Real Madrid 2022 (2)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "realsociedad2022",
-      "name": "Real Sociedad 2022",
-      "animated_sticker_pack": false,
-      "stickers": "26"
-    },
-    {
-      "identifier": "realvalladolid2022",
-      "name": "Real Valladolid 2022",
-      "animated_sticker_pack": false,
-      "stickers": "24"
-    },
-    {
-      "identifier": "sevilla2022b",
-      "name": "Sevilla 2022 (2)",
-      "animated_sticker_pack": false,
-      "stickers": "26"
-    },
-    {
-      "identifier": "valencia2022",
-      "name": "Valencia 2022",
-      "animated_sticker_pack": false,
-      "stickers": "24"
-    },
-    {
-      "identifier": "villarreal2022",
-      "name": "Villarreal 2022",
-      "animated_sticker_pack": false,
-      "stickers": "26"
-    },
-    {
-      "identifier": "uefasupercup2022w1",
-      "name": "Super Cup Champ 22",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "lewandowskibarsa",
-      "name": "Lewandowski Barça",
-      "animated_sticker_pack": false,
-      "stickers": "10"
-    },
-    {
-      "identifier": "realmadrid2022c1",
-      "name": "Real Madrid Campeón",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "copadelrey2122w1",
-      "name": "Betis Campeón",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "realmadrid2022",
-      "name": "Real Madrid 2022",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "barcelona2022",
-      "name": "Barcelona 2022",
-      "animated_sticker_pack": false,
-      "stickers": "26"
-    },
-    {
-      "identifier": "sevilla2022",
-      "name": "Sevilla 2022",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "realmadrid120",
-      "name": "Real Madrid 120",
-      "animated_sticker_pack": false,
-      "stickers": "26"
-    },
-    {
-      "identifier": "atleticomadrida1",
-      "name": "Atletico Madrid (1)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "atleticomadrida2",
-      "name": "Atletico Madrid (2)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "alaves2021",
-      "name": "Alaves 2021",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "atletico2021",
-      "name": "Atletico Madrid 2021",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "barcelona2021a1",
-      "name": "Barcelona 2021 (3)",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "barcelona2021b",
-      "name": "Barcelona 2021 (2)",
-      "animated_sticker_pack": false,
-      "stickers": "24"
-    },
-    {
-      "identifier": "betis2021",
-      "name": "Real Betis 2021",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "bilbao2021",
-      "name": "Ath. Bilbao 2021",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "cadiz2021",
-      "name": "Cadiz 2021",
-      "animated_sticker_pack": false,
-      "stickers": "26"
-    },
-    {
-      "identifier": "celta2021",
-      "name": "Celta de Vigo 2021",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "elche2021",
-      "name": "Elche 2021",
-      "animated_sticker_pack": false,
-      "stickers": "24"
-    },
-    {
-      "identifier": "espanyol2021",
-      "name": "Espanyol 2021",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "getafe2021",
-      "name": "Getafe 2021",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "granada2021",
-      "name": "Granada 2021",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "levante2021",
-      "name": "Levante 2021",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "mallorca2021",
-      "name": "Mallorca 2021",
-      "animated_sticker_pack": false,
-      "stickers": "26"
-    },
-    {
-      "identifier": "osasuna2021",
-      "name": "Osasuna 2021",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "rayovallecano2021",
-      "name": "Rayo Vallecano 2021",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "realmadrid2021b",
-      "name": "Real Madrid 2021 (2)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "realsociedad2021",
-      "name": "Real Sociedad 2021",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "sevilla2021",
-      "name": "Sevilla 2021",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "valencia2021",
-      "name": "Valencia 2021",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "villarreal2021",
-      "name": "Villarreal 2021",
-      "animated_sticker_pack": false,
-      "stickers": "26"
-    },
-    {
-      "identifier": "barcelona2021",
-      "name": "Barcelona 2021 (1)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "realmadrid2021",
-      "name": "Real Madrid 2021 (1)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "atleticoc2021",
-      "name": "Atletico Campeon",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "barcelona2020",
-      "name": "Barcelona 2020",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "atletico2020",
-      "name": "Atletico de Madrid",
-      "animated_sticker_pack": false,
-      "stickers": "29"
-    },
-    {
-      "identifier": "realmadrid2020",
-      "name": "Real Madrid 2020",
-      "animated_sticker_pack": false,
-      "stickers": "29"
-    },
-    {
-      "identifier": "valencia2020",
-      "name": "Valencia",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "betis2019",
-      "name": "Real Betis",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "realmadrid2019",
-      "name": "Real Madrid 2019",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "barcelona2019",
-      "name": "Barcelona 2019",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "sevilla2019",
-      "name": "Sevilla",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    }
-  ]
+   "android_play_store_link":"https://play.google.com/store/apps/details?id\u003dcom.astromobile.stickers.soccer",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"2023barcelonarealmadrid1",
+         "name":"Barcelona vs Real Madrid 2023 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"2023atleticovsrealmadrid1a",
+         "name":"Atlético vs Real Madrid 2023 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"2023atleticovsrealmadrid1b",
+         "name":"Atlético vs Real Madrid 2023 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"worldcup2023w1",
+         "name":"Spain WC Champion 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"uel2223f3",
+         "name":"Sevilla Campeón UEL (3)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"uel2223f1",
+         "name":"Sevilla Campeón UEL (1)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"uel2223f2",
+         "name":"Sevilla Campeón UEL (2)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"2023barcelonacampeonlaliga1",
+         "name":"Barcelona Campeon (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"2023barcelonacampeonlaliga2",
+         "name":"Barcelona Campeon (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"copadelrey2223w1",
+         "name":"Real Madrid Campeón",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"2023barsavsreal2",
+         "name":"Barcelona vs Real Madrid (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"2023barsavsreal1",
+         "name":"Barcelona vs Real Madrid (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"2023realvsbarsa1",
+         "name":"Real Madrid vs Barcelona (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"2023realvsatletico1",
+         "name":"Real vs Atlético 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"supercup23f1",
+         "name":"Supercopa España 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022spain2",
+         "name":"World Cup Spain 1",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"worldcup2022spain3",
+         "name":"World Cup Spain 2",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"2022betisvssevilla",
+         "name":"Betis vs Sevilla 2022",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"barcelonaw2022",
+         "name":"Barcelona W 2022",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"realmadridw2022",
+         "name":"Real Madrid W 2022",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"2022realvsbarsa1",
+         "name":"Real Madrid vs Barcelona 1",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"2022realvsbarsa2",
+         "name":"Real Madrid vs Barcelona 2",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"almeria2022",
+         "name":"Almeria 2022",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"atleticomadrid2022",
+         "name":"Atletico Madrid 2022",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"barcelona2022b",
+         "name":"Barcelona 2022 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"bilbao2022",
+         "name":"Ath Bilbao 2022",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"cadiz2022",
+         "name":"Cadiz 2022",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"celta2022",
+         "name":"Celta Vigo 2022",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"elche2022",
+         "name":"Elche 2022",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"espanyol2022",
+         "name":"Espanyol 2022",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"getafe2022",
+         "name":"Getafe 2022",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"girona2022",
+         "name":"Girona 2022",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"mallorca2022",
+         "name":"Mallorca 2022",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"osasuna2022",
+         "name":"Osasuna 2022",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"rayovallecano2022",
+         "name":"Rayo Vallecano 2022",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"realbetis2022",
+         "name":"Real Betis 2022",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"realmadrid2022b",
+         "name":"Real Madrid 2022 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"realsociedad2022",
+         "name":"Real Sociedad 2022",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"realvalladolid2022",
+         "name":"Real Valladolid 2022",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"sevilla2022b",
+         "name":"Sevilla 2022 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"valencia2022",
+         "name":"Valencia 2022",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"villarreal2022",
+         "name":"Villarreal 2022",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"uefasupercup2022w1",
+         "name":"Super Cup Champ 22",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lewandowskibarsa",
+         "name":"Lewandowski Barça",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"realmadrid2022c1",
+         "name":"Real Madrid Campeón",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copadelrey2122w1",
+         "name":"Betis Campeón",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"realmadrid2022",
+         "name":"Real Madrid 2022",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"barcelona2022",
+         "name":"Barcelona 2022",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"sevilla2022",
+         "name":"Sevilla 2022",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"realmadrid120",
+         "name":"Real Madrid 120",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"atleticomadrida1",
+         "name":"Atletico Madrid (1)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"atleticomadrida2",
+         "name":"Atletico Madrid (2)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"alaves2021",
+         "name":"Alaves 2021",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"atletico2021",
+         "name":"Atletico Madrid 2021",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"barcelona2021a1",
+         "name":"Barcelona 2021 (3)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"barcelona2021b",
+         "name":"Barcelona 2021 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"betis2021",
+         "name":"Real Betis 2021",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"bilbao2021",
+         "name":"Ath. Bilbao 2021",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"cadiz2021",
+         "name":"Cadiz 2021",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"celta2021",
+         "name":"Celta de Vigo 2021",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"elche2021",
+         "name":"Elche 2021",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"espanyol2021",
+         "name":"Espanyol 2021",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"getafe2021",
+         "name":"Getafe 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"granada2021",
+         "name":"Granada 2021",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"levante2021",
+         "name":"Levante 2021",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"mallorca2021",
+         "name":"Mallorca 2021",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"osasuna2021",
+         "name":"Osasuna 2021",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"rayovallecano2021",
+         "name":"Rayo Vallecano 2021",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"realmadrid2021b",
+         "name":"Real Madrid 2021 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"realsociedad2021",
+         "name":"Real Sociedad 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"sevilla2021",
+         "name":"Sevilla 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"valencia2021",
+         "name":"Valencia 2021",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"villarreal2021",
+         "name":"Villarreal 2021",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"barcelona2021",
+         "name":"Barcelona 2021 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"realmadrid2021",
+         "name":"Real Madrid 2021 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"atleticoc2021",
+         "name":"Atletico Campeon",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"barcelona2020",
+         "name":"Barcelona 2020",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"atletico2020",
+         "name":"Atletico de Madrid",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"realmadrid2020",
+         "name":"Real Madrid 2020",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"valencia2020",
+         "name":"Valencia",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"betis2019",
+         "name":"Real Betis",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"realmadrid2019",
+         "name":"Real Madrid 2019",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"barcelona2019",
+         "name":"Barcelona 2019",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"sevilla2019",
+         "name":"Sevilla",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      }
+   ]
 }
