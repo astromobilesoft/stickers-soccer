@@ -1,852 +1,858 @@
 {
-  "android_play_store_link": "https://play.google.com/store/apps/details?id\u003dcom.astromobile.stickers.soccer",
-  "ios_app_store_link": "",
-  "sticker_packs": [
-    {
-      "identifier":"sergioramos2",
-      "name":"Sergio Ramos (2)",
-      "animated_sticker_pack":false,
-      "stickers":"20"
-    },
-    {
-      "identifier":"harrykane2",
-      "name":"Harry Kane (2)",
-      "animated_sticker_pack":false,
-      "stickers":"17"
-    },
-    {
-      "identifier": "zlatanibrahimovic",
-      "name": "Zlatan Ibrahimovic (1)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "zlatanibrahimovic2",
-      "name": "Zlatan Ibrahimovic (2)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "zlatanibrahimovic3",
-      "name": "Zlatan Ibrahimovic (3)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "erlinghaaland1",
-      "name": "Erling Haaland (1)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "erlinghaaland2",
-      "name": "Erling Haaland (2)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "victorosimhen1",
-      "name": "Victor Osimhen",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "lucianospalletti1",
-      "name": "Luciano Spalletti",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "khvichakvaratskhelia1",
-      "name": "Khvicha Kvaratskhelia",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "hirvinglozano1",
-      "name": "Hirving Lozano",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "giovannisimeone1",
-      "name": "Giovanni Simeone",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "eljifelmas1",
-      "name": "Eljif Elmas",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "alexmeret1",
-      "name": "Alex Meret",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "tatycastellanos1",
-      "name": "Taty Castellanos",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "cristianoalnassr1",
-      "name": "Cristiano Al-Nassr",
-      "animated_sticker_pack": false,
-      "stickers": "13"
-    },
-    {
-      "identifier": "worldcup2022angelcorrea",
-      "name": "Angel Correa",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022enzofernandez",
-      "name": "Enzo Fernandez",
-      "animated_sticker_pack": false,
-      "stickers": "26"
-    },
-    {
-      "identifier": "worldcup2022exequielpalacios",
-      "name": "Exequiel Palacios",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "worldcup2022francoarmani",
-      "name": "Franco Armani",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "worldcup2022geronimorulli",
-      "name": "Geronimo Rulli",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "worldcup2022guidorodriguez",
-      "name": "Guido Rodriguez",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "worldcup2022juanfoyth",
-      "name": "Juan Foyth",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "worldcup2022julianalvarez",
-      "name": "Julian Alvarez",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022thiagoalmada",
-      "name": "Thiago Almada",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "worldcup2022brazil2",
-      "name": "World Cup Brazil 1",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "worldcup2022brazil3",
-      "name": "World Cup Brazil 2",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "worldcup2022alissonbecker",
-      "name": "Alisson Becker",
-      "animated_sticker_pack": false,
-      "stickers": "10"
-    },
-    {
-      "identifier": "worldcup2022antony1",
-      "name": "Antony (1)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022antony2",
-      "name": "Antony (2)",
-      "animated_sticker_pack": false,
-      "stickers": "24"
-    },
-    {
-      "identifier": "worldcup2022casemiro",
-      "name": "Casemiro",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "worldcup2022danialves1",
-      "name": "Dani Alves (1)",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "worldcup2022danialves2",
-      "name": "Dani Alves (2)",
-      "animated_sticker_pack": false,
-      "stickers": "12"
-    },
-    {
-      "identifier": "worldcup2022evertonribeiro",
-      "name": "Everton Ribeiro",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "worldcup2022fred",
-      "name": "Fred",
-      "animated_sticker_pack": false,
-      "stickers": "14"
-    },
-    {
-      "identifier": "worldcup2022gabrieljesus1",
-      "name": "Gabriel Jesus (1)",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "worldcup2022gabrieljesus2",
-      "name": "Gabriel Jesus (2)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022gabrielmartinelli",
-      "name": "Gabriel Martinelli",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "worldcup2022neymarjr1",
-      "name": "Neymar Jr (1)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022neymarjr2",
-      "name": "Neymar Jr (2)",
-      "animated_sticker_pack": false,
-      "stickers": "19"
-    },
-    {
-      "identifier": "worldcup2022neymarjr3",
-      "name": "Neymar Jr (3)",
-      "animated_sticker_pack": false,
-      "stickers": "14"
-    },
-    {
-      "identifier": "worldcup2022pedro",
-      "name": "Pedro",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "worldcup2022richarlison1",
-      "name": "Richarlison (1)",
-      "animated_sticker_pack": false,
-      "stickers": "16"
-    },
-    {
-      "identifier": "worldcup2022richarlison2",
-      "name": "Richarlison (2)",
-      "animated_sticker_pack": false,
-      "stickers": "19"
-    },
-    {
-      "identifier": "worldcup2022thiagosilva",
-      "name": "Thiago Silva",
-      "animated_sticker_pack": false,
-      "stickers": "18"
-    },
-    {
-      "identifier": "worldcup2022viniciusjr1",
-      "name": "Vinicius Jr (1)",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "worldcup2022viniciusjr2",
-      "name": "Vinicius Jr (2)",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "worldcup2022weverton",
-      "name": "Weverton",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "worldcup2022alexismacallister",
-      "name": "Alexis Mac Allister",
-      "animated_sticker_pack": false,
-      "stickers": "18"
-    },
-    {
-      "identifier": "worldcup2022angeldimaria",
-      "name": "Angel Di Maria",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "worldcup2022cutiromero",
-      "name": "Cuti Romero",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "worldcup2022dibumartinez",
-      "name": "Dibu Martinez",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "worldcup2022germanpezzella",
-      "name": "German Pezzella",
-      "animated_sticker_pack": false,
-      "stickers": "19"
-    },
-    {
-      "identifier": "worldcup2022gonzalomontiel",
-      "name": "Gonzalo Montiel",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "worldcup2022lautaromartinez",
-      "name": "Lautaro Martinez",
-      "animated_sticker_pack": false,
-      "stickers": "24"
-    },
-    {
-      "identifier": "worldcup2022leandroparedes",
-      "name": "Leandro Paredes",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "worldcup2022leomessi3",
-      "name": "Leo Messi",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022lionelscaloni",
-      "name": "Lionel Scaloni",
-      "animated_sticker_pack": false,
-      "stickers": "14"
-    },
-    {
-      "identifier": "worldcup2022marcosacuna",
-      "name": "Marcos Acuña",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "worldcup2022nahuelmolina",
-      "name": "Nahuel Molina",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "worldcup2022nicolasotamendi",
-      "name": "Nicolas Otamendi",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "worldcup2022nicolastagliafico",
-      "name": "Nicolas Tagliafico",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "worldcup2022papugomez",
-      "name": "Papu Gomez",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "worldcup2022paulodybala",
-      "name": "Paulo Dybala",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "worldcup2022rodrigodepaul",
-      "name": "Rodrigo De Paul",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "worldcup2022alexisvega",
-      "name": "Alexis Vega",
-      "animated_sticker_pack": false,
-      "stickers": "13"
-    },
-    {
-      "identifier": "worldcup2022hirvinglozano",
-      "name": "Hirving Lozano",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "worldcup2022andresguardado",
-      "name": "Andres Guardado",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022carlosrodriguez",
-      "name": "Carlos Rodriguez",
-      "animated_sticker_pack": false,
-      "stickers": "14"
-    },
-    {
-      "identifier": "worldcup2022guilleromoochoa",
-      "name": "Guillermo Ochoa",
-      "animated_sticker_pack": false,
-      "stickers": "14"
-    },
-    {
-      "identifier": "worldcup2022henrymartin",
-      "name": "Henry Martin",
-      "animated_sticker_pack": false,
-      "stickers": "16"
-    },
-    {
-      "identifier": "worldcup2022nestoraraujo",
-      "name": "Nestor Araujo",
-      "animated_sticker_pack": false,
-      "stickers": "19"
-    },
-    {
-      "identifier": "worldcup2022rauljimenez",
-      "name": "Raul Jimenez",
-      "animated_sticker_pack": false,
-      "stickers": "12"
-    },
-    {
-      "identifier": "worldcup2022robertoalvarado",
-      "name": "Roberto Alvarado",
-      "animated_sticker_pack": false,
-      "stickers": "14"
-    },
-    {
-      "identifier": "worldcup2022urielantuna",
-      "name": "Uriel Antuna",
-      "animated_sticker_pack": false,
-      "stickers": "24"
-    },
-    {
-      "identifier": "worldcup2022leomessi2",
-      "name": "Leo Messi",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "worldcup2022youssoufamoukoko",
-      "name": "Youssoufa Moukoko",
-      "animated_sticker_pack": false,
-      "stickers": "9"
-    },
-    {
-      "identifier": "worldcup2022julianbrandt",
-      "name": "Julian Brandt",
-      "animated_sticker_pack": false,
-      "stickers": "19"
-    },
-    {
-      "identifier": "worldcup2022davidraum",
-      "name": "David Raum",
-      "animated_sticker_pack": false,
-      "stickers": "16"
-    },
-    {
-      "identifier": "worldcup2022jamalmusiala",
-      "name": "Jamal Musiala",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "worldcup2022joshuakimmich",
-      "name": "Joshua Kimmich",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "worldcup2022karimadeyemi",
-      "name": "Karim Adeyemi",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "worldcup2022leongoretzka",
-      "name": "Leon Goretzka",
-      "animated_sticker_pack": false,
-      "stickers": "13"
-    },
-    {
-      "identifier": "worldcup2022leroysane",
-      "name": "Leroy Sane",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "worldcup2022lukasklostermann",
-      "name": "Lukas Klostermann",
-      "animated_sticker_pack": false,
-      "stickers": "12"
-    },
-    {
-      "identifier": "worldcup2022manuelneuer",
-      "name": "Manuel Neuer",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "worldcup2022nicoschlotterbeck",
-      "name": "Nico Schlotterbeck",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "worldcup2022niklassule",
-      "name": "Niklas Sule",
-      "animated_sticker_pack": false,
-      "stickers": "12"
-    },
-    {
-      "identifier": "worldcup2022sergegnabry",
-      "name": "Serge Gnabry",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "worldcup2022thomasmuller2",
-      "name": "Thomas Muller",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "worldcup2022callumwilson",
-      "name": "Callum Wilson",
-      "animated_sticker_pack": false,
-      "stickers": "13"
-    },
-    {
-      "identifier": "worldcup2022jackggrealish",
-      "name": "Jackg Grealish",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "worldcup2022johnstones",
-      "name": "John Stones",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "worldcup2022jordanhenderson",
-      "name": "Jordan Henderson",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "worldcup2022kalvinphillips",
-      "name": "Kalvin Phillips",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "worldcup2022kierantrippier",
-      "name": "Kieran Trippier",
-      "animated_sticker_pack": false,
-      "stickers": "12"
-    },
-    {
-      "identifier": "worldcup2022kylewalker",
-      "name": "Kyle Walker",
-      "animated_sticker_pack": false,
-      "stickers": "13"
-    },
-    {
-      "identifier": "worldcup2022philfoden",
-      "name": "Phil Foden",
-      "animated_sticker_pack": false,
-      "stickers": "16"
-    },
-    {
-      "identifier": "worldcup2022raheemsterling",
-      "name": "Raheem Sterling",
-      "animated_sticker_pack": false,
-      "stickers": "19"
-    },
-    {
-      "identifier": "worldcup2022trentalexanderarnold",
-      "name": "Trent Alexander Arnold",
-      "animated_sticker_pack": false,
-      "stickers": "19"
-    },
-    {
-      "identifier": "worldcup2022aaronramsdale",
-      "name": "Aaron Ramsdale",
-      "animated_sticker_pack": false,
-      "stickers": "18"
-    },
-    {
-      "identifier": "worldcup2022benwhite",
-      "name": "Ben White",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "worldcup2022bukayosaka",
-      "name": "Bukayo Saka",
-      "animated_sticker_pack": false,
-      "stickers": "19"
-    },
-    {
-      "identifier": "worldcup2022conorgallagher",
-      "name": "Conor Gallagher",
-      "animated_sticker_pack": false,
-      "stickers": "17"
-    },
-    {
-      "identifier": "worldcup2022ericdier",
-      "name": "Eric Dier",
-      "animated_sticker_pack": false,
-      "stickers": "18"
-    },
-    {
-      "identifier": "worldcup2022harrykane",
-      "name": "Harry Kane",
-      "animated_sticker_pack": false,
-      "stickers": "20"
-    },
-    {
-      "identifier": "worldcup2022jamesmaddison",
-      "name": "James Maddison",
-      "animated_sticker_pack": false,
-      "stickers": "29"
-    },
-    {
-      "identifier": "worldcup2022masonmount",
-      "name": "Mason Mount",
-      "animated_sticker_pack": false,
-      "stickers": "22"
-    },
-    {
-      "identifier": "worldcup2022nickpope",
-      "name": "Nick Pope",
-      "animated_sticker_pack": false,
-      "stickers": "14"
-    },
-    {
-      "identifier": "worldcup2022thomasmuller",
-      "name": "Thomas Muller",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "worldcup2022gundogan",
-      "name": "Ilkay Gundogan",
-      "animated_sticker_pack": false,
-      "stickers": "21"
-    },
-    {
-      "identifier": "karimbenzema2",
-      "name": "Karim Benzema (2)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "karimbenzema1",
-      "name": "Karim Benzema (1)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "gonzalohiguain1",
-      "name": "Thank you Pipita",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "joaofelix1",
-      "name": "João Felix",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "alexiaputellas1",
-      "name": "Alexia Putellas",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "cutiromero1",
-      "name": "Cuti Romero 1",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "enzofernandez1",
-      "name": "Enzo Fernandez 1",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "sergioramos1",
-      "name": "Sergio Ramos 1",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "julianalvarez3",
-      "name": "Julian Alvarez 3",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "suareznacional",
-      "name": "Suarez Nacional",
-      "animated_sticker_pack": false,
-      "stickers": "8"
-    },
-    {
-      "identifier": "lewandowskibarsa",
-      "name": "Lewandowski Barça",
-      "animated_sticker_pack": false,
-      "stickers": "10"
-    },
-    {
-      "identifier": "marcelo1",
-      "name": "Marcelo 1",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "sadiomane2025",
-      "name": "Sadio Mané 2025",
-      "animated_sticker_pack": false,
-      "stickers": "8"
-    },
-    {
-      "identifier": "andrewredmayne1",
-      "name": "Andrew Redmayne",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "marcelo1",
-      "name": "Marcelo 1",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "julianalvarez2",
-      "name": "Julian Alvarez 2",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "julianalvarez1",
-      "name": "Julian Alvarez",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "mbappe2025",
-      "name": "Mbappe 2025",
-      "animated_sticker_pack": false,
-      "stickers": "16"
-    },
-    {
-      "identifier": "paulodybala1",
-      "name": "Paulo Dybala 1",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "mohamedsalah3",
-      "name": "Mohamed Salah 2",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "luisdiaz2",
-      "name": "Luis Díaz",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "thomasmuller2",
-      "name": "Thomas Muller (2)",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "messi",
-      "name": "Lionel Messi 1",
-      "animated_sticker_pack": false,
-      "stickers": "24"
-    },
-    {
-      "identifier": "lionelmessi2",
-      "name": "Lionel Messi 2",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "cristianoronaldo",
-      "name": "Cristiano Ronaldo 1",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "cristianoronaldo2",
-      "name": "Cristiano Ronaldo 2",
-      "animated_sticker_pack": true,
-      "stickers": "13"
-    },
-    {
-      "identifier": "cristianoronaldo3",
-      "name": "Cristiano Ronaldo 3",
-      "animated_sticker_pack": false,
-      "stickers": "18"
-    },
-    {
-      "identifier": "thomasmuller1",
-      "name": "Thomas Muller (1)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "maradona4",
-      "name": "Pack Maradona (2)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "ad10s",
-      "name": "Pack Maradona (1)",
-      "animated_sticker_pack": false,
-      "stickers": "29"
-    }
-  ]
+   "android_play_store_link":"https://play.google.com/store/apps/details?id\u003dcom.astromobile.stickers.soccer",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"emilianomartinez1",
+         "name":"Dibu Martinez",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"sergioramos2",
+         "name":"Sergio Ramos (2)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"harrykane2",
+         "name":"Harry Kane (2)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"zlatanibrahimovic",
+         "name":"Zlatan Ibrahimovic (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"zlatanibrahimovic2",
+         "name":"Zlatan Ibrahimovic (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"zlatanibrahimovic3",
+         "name":"Zlatan Ibrahimovic (3)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"erlinghaaland1",
+         "name":"Erling Haaland (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"erlinghaaland2",
+         "name":"Erling Haaland (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"victorosimhen1",
+         "name":"Victor Osimhen",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lucianospalletti1",
+         "name":"Luciano Spalletti",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"khvichakvaratskhelia1",
+         "name":"Khvicha Kvaratskhelia",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"hirvinglozano1",
+         "name":"Hirving Lozano",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"giovannisimeone1",
+         "name":"Giovanni Simeone",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"eljifelmas1",
+         "name":"Eljif Elmas",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"alexmeret1",
+         "name":"Alex Meret",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"tatycastellanos1",
+         "name":"Taty Castellanos",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"cristianoalnassr1",
+         "name":"Cristiano Al-Nassr",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"worldcup2022angelcorrea",
+         "name":"Angel Correa",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022enzofernandez",
+         "name":"Enzo Fernandez",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"worldcup2022exequielpalacios",
+         "name":"Exequiel Palacios",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"worldcup2022francoarmani",
+         "name":"Franco Armani",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"worldcup2022geronimorulli",
+         "name":"Geronimo Rulli",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"worldcup2022guidorodriguez",
+         "name":"Guido Rodriguez",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"worldcup2022juanfoyth",
+         "name":"Juan Foyth",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"worldcup2022julianalvarez",
+         "name":"Julian Alvarez",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022thiagoalmada",
+         "name":"Thiago Almada",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"worldcup2022brazil2",
+         "name":"World Cup Brazil 1",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"worldcup2022brazil3",
+         "name":"World Cup Brazil 2",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"worldcup2022alissonbecker",
+         "name":"Alisson Becker",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"worldcup2022antony1",
+         "name":"Antony (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022antony2",
+         "name":"Antony (2)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"worldcup2022casemiro",
+         "name":"Casemiro",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"worldcup2022danialves1",
+         "name":"Dani Alves (1)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"worldcup2022danialves2",
+         "name":"Dani Alves (2)",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"worldcup2022evertonribeiro",
+         "name":"Everton Ribeiro",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"worldcup2022fred",
+         "name":"Fred",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"worldcup2022gabrieljesus1",
+         "name":"Gabriel Jesus (1)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022gabrieljesus2",
+         "name":"Gabriel Jesus (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022gabrielmartinelli",
+         "name":"Gabriel Martinelli",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"worldcup2022neymarjr1",
+         "name":"Neymar Jr (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022neymarjr2",
+         "name":"Neymar Jr (2)",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"worldcup2022neymarjr3",
+         "name":"Neymar Jr (3)",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"worldcup2022pedro",
+         "name":"Pedro",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"worldcup2022richarlison1",
+         "name":"Richarlison (1)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"worldcup2022richarlison2",
+         "name":"Richarlison (2)",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"worldcup2022thiagosilva",
+         "name":"Thiago Silva",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"worldcup2022viniciusjr1",
+         "name":"Vinicius Jr (1)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"worldcup2022viniciusjr2",
+         "name":"Vinicius Jr (2)",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"worldcup2022weverton",
+         "name":"Weverton",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"worldcup2022alexismacallister",
+         "name":"Alexis Mac Allister",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"worldcup2022angeldimaria",
+         "name":"Angel Di Maria",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"worldcup2022cutiromero",
+         "name":"Cuti Romero",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"worldcup2022dibumartinez",
+         "name":"Dibu Martinez",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"worldcup2022germanpezzella",
+         "name":"German Pezzella",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"worldcup2022gonzalomontiel",
+         "name":"Gonzalo Montiel",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"worldcup2022lautaromartinez",
+         "name":"Lautaro Martinez",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"worldcup2022leandroparedes",
+         "name":"Leandro Paredes",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"worldcup2022leomessi3",
+         "name":"Leo Messi",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022lionelscaloni",
+         "name":"Lionel Scaloni",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"worldcup2022marcosacuna",
+         "name":"Marcos Acuña",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"worldcup2022nahuelmolina",
+         "name":"Nahuel Molina",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"worldcup2022nicolasotamendi",
+         "name":"Nicolas Otamendi",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"worldcup2022nicolastagliafico",
+         "name":"Nicolas Tagliafico",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"worldcup2022papugomez",
+         "name":"Papu Gomez",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022paulodybala",
+         "name":"Paulo Dybala",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"worldcup2022rodrigodepaul",
+         "name":"Rodrigo De Paul",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"worldcup2022alexisvega",
+         "name":"Alexis Vega",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"worldcup2022hirvinglozano",
+         "name":"Hirving Lozano",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022andresguardado",
+         "name":"Andres Guardado",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022carlosrodriguez",
+         "name":"Carlos Rodriguez",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"worldcup2022guilleromoochoa",
+         "name":"Guillermo Ochoa",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"worldcup2022henrymartin",
+         "name":"Henry Martin",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"worldcup2022nestoraraujo",
+         "name":"Nestor Araujo",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"worldcup2022rauljimenez",
+         "name":"Raul Jimenez",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"worldcup2022robertoalvarado",
+         "name":"Roberto Alvarado",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"worldcup2022urielantuna",
+         "name":"Uriel Antuna",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"worldcup2022leomessi2",
+         "name":"Leo Messi",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022youssoufamoukoko",
+         "name":"Youssoufa Moukoko",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
+         "identifier":"worldcup2022julianbrandt",
+         "name":"Julian Brandt",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"worldcup2022davidraum",
+         "name":"David Raum",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"worldcup2022jamalmusiala",
+         "name":"Jamal Musiala",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"worldcup2022joshuakimmich",
+         "name":"Joshua Kimmich",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022karimadeyemi",
+         "name":"Karim Adeyemi",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"worldcup2022leongoretzka",
+         "name":"Leon Goretzka",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"worldcup2022leroysane",
+         "name":"Leroy Sane",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"worldcup2022lukasklostermann",
+         "name":"Lukas Klostermann",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"worldcup2022manuelneuer",
+         "name":"Manuel Neuer",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"worldcup2022nicoschlotterbeck",
+         "name":"Nico Schlotterbeck",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"worldcup2022niklassule",
+         "name":"Niklas Sule",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"worldcup2022sergegnabry",
+         "name":"Serge Gnabry",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"worldcup2022thomasmuller2",
+         "name":"Thomas Muller",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"worldcup2022callumwilson",
+         "name":"Callum Wilson",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"worldcup2022jackggrealish",
+         "name":"Jackg Grealish",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"worldcup2022johnstones",
+         "name":"John Stones",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"worldcup2022jordanhenderson",
+         "name":"Jordan Henderson",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022kalvinphillips",
+         "name":"Kalvin Phillips",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"worldcup2022kierantrippier",
+         "name":"Kieran Trippier",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"worldcup2022kylewalker",
+         "name":"Kyle Walker",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"worldcup2022philfoden",
+         "name":"Phil Foden",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"worldcup2022raheemsterling",
+         "name":"Raheem Sterling",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"worldcup2022trentalexanderarnold",
+         "name":"Trent Alexander Arnold",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"worldcup2022aaronramsdale",
+         "name":"Aaron Ramsdale",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"worldcup2022benwhite",
+         "name":"Ben White",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"worldcup2022bukayosaka",
+         "name":"Bukayo Saka",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"worldcup2022conorgallagher",
+         "name":"Conor Gallagher",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"worldcup2022ericdier",
+         "name":"Eric Dier",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"worldcup2022harrykane",
+         "name":"Harry Kane",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022jamesmaddison",
+         "name":"James Maddison",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"worldcup2022masonmount",
+         "name":"Mason Mount",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"worldcup2022nickpope",
+         "name":"Nick Pope",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"worldcup2022thomasmuller",
+         "name":"Thomas Muller",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"worldcup2022gundogan",
+         "name":"Ilkay Gundogan",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"karimbenzema2",
+         "name":"Karim Benzema (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"karimbenzema1",
+         "name":"Karim Benzema (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"gonzalohiguain1",
+         "name":"Thank you Pipita",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"joaofelix1",
+         "name":"João Felix",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"alexiaputellas1",
+         "name":"Alexia Putellas",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"cutiromero1",
+         "name":"Cuti Romero 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"enzofernandez1",
+         "name":"Enzo Fernandez 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"sergioramos1",
+         "name":"Sergio Ramos 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"julianalvarez3",
+         "name":"Julian Alvarez 3",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"suareznacional",
+         "name":"Suarez Nacional",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"lewandowskibarsa",
+         "name":"Lewandowski Barça",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"marcelo1",
+         "name":"Marcelo 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"sadiomane2025",
+         "name":"Sadio Mané 2025",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"andrewredmayne1",
+         "name":"Andrew Redmayne",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"marcelo1",
+         "name":"Marcelo 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"julianalvarez2",
+         "name":"Julian Alvarez 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"julianalvarez1",
+         "name":"Julian Alvarez",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"mbappe2025",
+         "name":"Mbappe 2025",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"paulodybala1",
+         "name":"Paulo Dybala 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"mohamedsalah3",
+         "name":"Mohamed Salah 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"luisdiaz2",
+         "name":"Luis Díaz",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"thomasmuller2",
+         "name":"Thomas Muller (2)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"messi",
+         "name":"Lionel Messi 1",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"lionelmessi2",
+         "name":"Lionel Messi 2",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"cristianoronaldo",
+         "name":"Cristiano Ronaldo 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"cristianoronaldo2",
+         "name":"Cristiano Ronaldo 2",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"cristianoronaldo3",
+         "name":"Cristiano Ronaldo 3",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"thomasmuller1",
+         "name":"Thomas Muller (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"maradona4",
+         "name":"Pack Maradona (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"ad10s",
+         "name":"Pack Maradona (1)",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      }
+   ]
 }
