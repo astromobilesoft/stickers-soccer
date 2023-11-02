@@ -3,6 +3,126 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"alaves2023",
+         "name":"Alaves 2023",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"almeria2023",
+         "name":"Almeria 2023",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"atleticomadrid2023",
+         "name":"Atletico Madrid 2023",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"barcelona2023",
+         "name":"Barcelona 2023",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"bilbao2023",
+         "name":"Ath Bilbao 2023",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"cadiz2023",
+         "name":"Cadiz 2023",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"celta2023",
+         "name":"Celta Vigo 2023",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"getafe2023",
+         "name":"Getafe 2023",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"girona2023",
+         "name":"Girona 2023",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"granada2023",
+         "name":"Granada 2023",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"laspalmas2023",
+         "name":"Las Palmas 2023",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"mallorca2023",
+         "name":"Mallorca 2023",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"osasuna2023",
+         "name":"Osasuna 2023",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"rayovallecano2023",
+         "name":"Rayo Vallecano 2023",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"realbetis2023",
+         "name":"Real Betis 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"realmadrid2023",
+         "name":"Real Madrid 2023",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"realsociedad2023",
+         "name":"Real Sociedad 2023",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"sevilla2023",
+         "name":"Sevilla 2023",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"valencia2023",
+         "name":"Valencia 2023",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"villarreal2023",
+         "name":"Villarreal 2023",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
          "identifier":"2023barcelonarealmadrid1",
          "name":"Barcelona vs Real Madrid 2023 (1)",
          "animated_sticker_pack":false,
