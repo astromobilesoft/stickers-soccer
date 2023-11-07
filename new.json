@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ufcl2324gp7a",
+         "name":"UCL 23-24 Day 7 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"ufcl2324gp7b",
+         "name":"UCL 23-24 Day 7 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"libertadores2023w1",
          "name":"Fluminense Champion Libertadores",
          "animated_sticker_pack":false,
