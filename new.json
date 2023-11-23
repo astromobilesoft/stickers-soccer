@@ -1,7 +1,181 @@
 {
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.soccer",
    "ios_app_store_link":"",
-   "sticker_packs":[
+   "sticker_packs":[      
+      {
+         "identifier":"alianzalima2023",
+         "name":"Alianza 2023",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"atleticonacional2023",
+         "name":"Atl Nacional 2023",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"barcelonaecu2023",
+         "name":"Barcelona Ecuador 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"bocajuniors2023",
+         "name":"Boca Juniors 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"bolivar2023",
+         "name":"Bolivar 2023",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"caracas2023",
+         "name":"Caracas 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"clubnacional2023",
+         "name":"Club Nacional 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"colocolo2023",
+         "name":"Colo Colo 2023",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"corinthians2023",
+         "name":"Corinthians 2023",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"flamengo2023",
+         "name":"Flamengo 2023",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"fluminense2023",
+         "name":"Fluminense 2023",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"gremio2023",
+         "name":"Gremio 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"huracan2023",
+         "name":"Huracan 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"independiente2023",
+         "name":"Independiente 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"independientemedellin2023",
+         "name":"Independiente Medellin 2023",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"interpa2023",
+         "name":"Inter Porto Alegre 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"ligaquito2023",
+         "name":"Liga de Quito 2023",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"millonarios2023",
+         "name":"Millonarios 2023",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"nacional2023",
+         "name":"Nacional 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"palmeiras2023",
+         "name":"Palmeiras 2023",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"penarol2023",
+         "name":"Penarol 2023",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"racingclub2023",
+         "name":"Racing Club 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"riverplate2023",
+         "name":"River Plate 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"sanlorenzo2023",
+         "name":"San Lorenzo 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"sportingcristal2023",
+         "name":"Sporting Cristal 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"universidadcatolica2023",
+         "name":"Universidad Catolica 2023",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"universidadchile2023",
+         "name":"Universidad de Chile 2023",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"universitario2023",
+         "name":"Universitario 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"velez2023",
+         "name":"Velez Sarsfield 2023",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
       {
          "identifier":"2023brasilargentina1",
          "name":"Brasil vs Argentina 2023",
@@ -553,36 +727,6 @@
          "name":"Inter vs Milan (3)",
          "animated_sticker_pack":false,
          "stickers":"23"
-      },
-      {
-         "identifier":"riverplate2023",
-         "name":"River Plate 2023",
-         "animated_sticker_pack":false,
-         "stickers":"30"
-      },
-      {
-         "identifier":"bocajuniors2023",
-         "name":"Boca Juniors 2023",
-         "animated_sticker_pack":false,
-         "stickers":"30"
-      },
-      {
-         "identifier":"racingclub2023",
-         "name":"Racing Club 2023",
-         "animated_sticker_pack":false,
-         "stickers":"30"
-      },
-      {
-         "identifier":"independiente2023",
-         "name":"Independiente 2023",
-         "animated_sticker_pack":false,
-         "stickers":"30"
-      },
-      {
-         "identifier":"sanlorenzo2023",
-         "name":"San Lorenzo 2023",
-         "animated_sticker_pack":false,
-         "stickers":"30"
       },
       {
          "identifier":"eliminatorias2026f1a",
