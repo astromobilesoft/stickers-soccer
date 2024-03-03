@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"2024cityvsunited1",
+         "name":"City vs United",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"fifaclubwc2023b",
          "name":"City Champion WC (2)",
          "animated_sticker_pack":false,
