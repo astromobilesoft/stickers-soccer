@@ -3,6 +3,54 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kitalaves2324a",
+         "name":"Kit Alaves 23-24",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"kitatleticomadrid2324a",
+         "name":"Kit Atl Madrid 23-24",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"kitbarcelona2324a",
+         "name":"Kit Barcelona 23-24",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"kitrealbetis2324a",
+         "name":"Kit Betis 23-24",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"kitrealmadrid2324a",
+         "name":"Kit Real Madrid 23-24",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"kitrealsociedad2324a",
+         "name":"Kit Real Sociedad 23-24",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"kitsevilla2324a",
+         "name":"Kit Sevilla 23-24",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"kitvalencia2324a",
+         "name":"Kit Valencia 23-24",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
          "identifier":"ufcl2324o8",
          "name":"UCL 23-24 1/8 (8)",
          "animated_sticker_pack":false,
@@ -127,7 +175,7 @@
          "name":"UCL 23-24 Day 10 (2)",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },     
+      },
       {
          "identifier":"ufcl2324gp9a",
          "name":"UCL 23-24 Day 9 (1)",
@@ -139,7 +187,7 @@
          "name":"UCL 23-24 Day 9 (2)",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },  
+      },
       {
          "identifier":"alianzalima2023",
          "name":"Alianza 2023",
