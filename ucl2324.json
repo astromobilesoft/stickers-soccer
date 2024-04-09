@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ufcl2324c1",
+         "name":"UCL 23-24 1/4 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"ufcl2324o8",
          "name":"UCL 23-24 1/8 (8)",
          "animated_sticker_pack":false,
