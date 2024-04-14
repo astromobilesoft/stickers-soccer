@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"2024bundesligaw1",
+         "name":"Leverkusen Champion 23-24 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"2024bundesligaw2",
+         "name":"Leverkusen Champion 23-24 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"2023dortmundvsbayern1",
+         "name":"Dortmund vs Bayern Munich",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
          "identifier":"2023dortmundvsbayern1",
          "name":"Dortmund vs Bayern Munich",
          "animated_sticker_pack":false,
