@@ -3,6 +3,60 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kitarsenal2324a",
+         "name":"Kit Arsenal 23-24",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"kitastonvilla2324a",
+         "name":"Kit Aston Villa 23-24",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"kitchelsea2324",
+         "name":"Kit Chelsea 23-24",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"kitliverpool2324a",
+         "name":"Kit Liverpool 23-24",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"kitmanchestercity2324a",
+         "name":"Kit City 23-24",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"kitmanchesterunited2324a",
+         "name":"Kit United 23-24",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"kittottenham2324a",
+         "name":"Kit Tottenham 23-24",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
+         "identifier":"kitwestham2324a",
+         "name":"Kit West Ham 23-24",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"kitwolves2324a",
+         "name":"Kit Wolves 23-24",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
          "identifier":"ufcl2324c4",
          "name":"UCL 23-24 1/4 (4)",
          "animated_sticker_pack":false,
