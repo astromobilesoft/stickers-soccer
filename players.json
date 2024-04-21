@@ -3,6 +3,30 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"judebellingham1",
+         "name":"Jude Bellingham",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"rodrygo1",
+         "name":"Rodrygo",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"robertlewandowski3",
+         "name":"Robert Lewandowski",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"raphinha1",
+         "name":"Raphinha",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"messiballondor2023",
          "name":"Messi Ballon Oro 2023",
          "animated_sticker_pack":false,
