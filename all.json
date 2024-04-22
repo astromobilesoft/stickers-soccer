@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"2024milanvsinter3",
+         "name":"Inter Campioni 2024 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"2024milanvsinter2",
+         "name":"Inter Campioni 2024 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
          "identifier":"2024milanvsinter1",
          "name":"Milan vs Inter 2024",
          "animated_sticker_pack":false,
