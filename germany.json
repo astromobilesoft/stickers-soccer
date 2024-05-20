@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"2024bundesligaw3",
+         "name":"Meister 2023-2024",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
          "identifier":"2024bundesligaw1",
          "name":"Leverkusen Champion 23-24 (1)",
          "animated_sticker_pack":false,

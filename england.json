@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"2024premierw1",
+         "name":"Champions 23-24",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
          "identifier":"kitarsenal2324a",
          "name":"Kit Arsenal 23-24",
          "animated_sticker_pack":false,
