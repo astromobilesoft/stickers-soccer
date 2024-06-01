@@ -3,6 +3,30 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ufcl2324pf1",
+         "name":"Dortmund Final UCL (1)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"ufcl2324pf2",
+         "name":"Dortmund Final UCL (2)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"ufcl2324pf3",
+         "name":"Real Madrid Final UCL (1)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"ufcl2324pf4",
+         "name":"Real Madrid Final UCL (2)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
          "identifier":"kitrealmadrid2324a",
          "name":"Kit Real Madrid 23-24",
          "animated_sticker_pack":false,
