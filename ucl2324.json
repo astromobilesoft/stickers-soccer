@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ufcl2324f1",
+         "name":"Real Madrid Campeón (1)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"ufcl2324f2",
+         "name":"Real Madrid Campeón (2)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"ufcl2324f3",
+         "name":"Real Madrid Campeón (3)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
          "identifier":"ufcl2324pf1",
          "name":"Dortmund Final UCL (1)",
          "animated_sticker_pack":false,
