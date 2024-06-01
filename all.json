@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kitdortmund2425a",
+         "name":"Kit Dortmund 24-25",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
          "identifier":"conferenceleague2324w1",
          "name":"Olympiacos Champion UCL (1)",
          "animated_sticker_pack":false,
