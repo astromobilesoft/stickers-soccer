@@ -2,7 +2,13 @@
   "android_play_store_link": "https://play.google.com/store/apps/details?id\u003dcom.astromobile.stickers.soccer",
   "ios_app_store_link": "",
   "sticker_packs": [
-   {
+      {
+         "identifier":"euro2024d8b",
+         "name":"Day 8 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"euro2024d8a",
          "name":"Day 8 (1)",
          "animated_sticker_pack":false,
