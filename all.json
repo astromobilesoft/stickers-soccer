@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"euro2024d12a",
+         "name":"Day 12 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"euro2024d12b",
+         "name":"Day 12 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"copaamerica2024d5b",
          "name":"Day 5 (2)",
          "animated_sticker_pack":false,
