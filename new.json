@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"copaamerica2024d5b",
+         "name":"Day 5 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaamerica2024d5a",
+         "name":"Day 5 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"copaamerica2024brasil1",
          "name":"Brasil 2024 (2)",
          "animated_sticker_pack":false,
