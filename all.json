@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"euro2024o6",
+         "name":"Portugal vs Slovenia",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"euro2024o5",
          "name":"France vs Belgium",
          "animated_sticker_pack":false,
