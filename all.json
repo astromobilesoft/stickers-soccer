@@ -4,6 +4,12 @@
    "sticker_packs":[
       {
          "identifier":"euro2024c3",
+         "name":"Netherlands vs Turkey",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"euro2024c3",
          "name":"England vs Switzerland",
          "animated_sticker_pack":false,
          "stickers":"30"
