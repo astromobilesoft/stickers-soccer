@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"euro2024w2",
+         "name":"España Campeón (2)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"euro2024w3",
+         "name":"España Campeón (3)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
          "identifier":"copaamerica2024w1",
          "name":"Argentina Campeón (2)",
          "animated_sticker_pack":false,
@@ -22,7 +34,7 @@
       },
       {
          "identifier":"euro2024w1",
-         "name":"España Campeón",
+         "name":"España Campeón (1)",
          "animated_sticker_pack":false,
          "stickers":"17"
       },
