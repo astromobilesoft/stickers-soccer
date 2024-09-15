@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"leverkusen2425",
+         "name":"Leverkusen 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"dortmund2425",
+         "name":"B. Dortmund 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"bayernmunich2425",
+         "name":"Bayern Munich 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
          "identifier":"kitdortmund2425a",
          "name":"Kit Dortmund 24-25",
          "animated_sticker_pack":false,

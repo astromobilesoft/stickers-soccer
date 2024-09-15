@@ -3,6 +3,66 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"riverplate2425",
+         "name":"River Plate 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"palmeiras2425",
+         "name":"Palmeiras 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"interportoalegre2425",
+         "name":"Inter Porto Alegre 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"flamengo2425",
+         "name":"Flamengo 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"gremio2425",
+         "name":"Gremio 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"cruzazul2425",
+         "name":"Cruz Azul 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"corinthians2425",
+         "name":"Corinthians 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"chivas2425",
+         "name":"Chivas 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"atleticomineiro2425",
+         "name":"A. Mineiro 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"atlas2425",
+         "name":"Atlas 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
          "identifier":"2024rivervsboca1",
          "name":"River Plate vs Boca Jrs 2024",
          "animated_sticker_pack":false,

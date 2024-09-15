@@ -3,6 +3,168 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ajax2425",
+         "name":"Ajax 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"arsenal2425",
+         "name":"Arsenal 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"astonvilla2425",
+         "name":"Aston Villa 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"atlas2425",
+         "name":"Atlas 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"atleticomadrid2425",
+         "name":"A. Madrid 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"atleticomineiro2425",
+         "name":"A. Mineiro 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"barcelona2425",
+         "name":"Barcelona 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"bayernmunich2425",
+         "name":"Bayern Munich 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"chelsea2425",
+         "name":"Chelsea 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"chivas2425",
+         "name":"Chivas 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"corinthians2425",
+         "name":"Corinthians 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"cruzazul2425",
+         "name":"Cruz Azul 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"dortmund2425",
+         "name":"B. Dortmund 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"flamengo2425",
+         "name":"Flamengo 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"gremio2425",
+         "name":"Gremio 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"inter2425",
+         "name":"Inter 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"interportoalegre2425",
+         "name":"Inter Porto Alegre 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"leverkusen2425",
+         "name":"Leverkusen 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"liverpool2425",
+         "name":"Liverpool 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"manchestercity2425",
+         "name":"Manchester City 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"milan2425",
+         "name":"AC Milan 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"newcastle2425",
+         "name":"Newcastle 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"palmeiras2425",
+         "name":"Palmeiras 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"porto2425",
+         "name":"Porto 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"psg2425",
+         "name":"PSG 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"riverplate2425",
+         "name":"River Plate 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"sevilla2425",
+         "name":"Sevilla 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
          "identifier":"mbappemadrid1",
          "name":"Mbappé Real Madrid",
          "animated_sticker_pack":false,

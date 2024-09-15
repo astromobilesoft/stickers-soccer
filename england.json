@@ -3,6 +3,42 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"newcastle2425",
+         "name":"Newcastle 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"liverpool2425",
+         "name":"Liverpool 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"manchestercity2425",
+         "name":"Manchester City 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"chelsea2425",
+         "name":"Chelsea 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"astonvilla2425",
+         "name":"Aston Villa 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"arsenal2425",
+         "name":"Arsenal 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
          "identifier":"2024facupw1",
          "name":"United Champion FACUP",
          "animated_sticker_pack":false,
