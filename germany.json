@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"leipzig2425",
+         "name":"Leipzig 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"vfbstuttgart2425",
+         "name":"VFB Stuttgart 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"leverkusen2425",
          "name":"Leverkusen 2024-25",
          "animated_sticker_pack":false,

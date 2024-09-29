@@ -3,6 +3,66 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"clubbrugge2425",
+         "name":"Club Brugge 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"crvenazvezda2425",
+         "name":"Crvena Zvezda 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"gnkdinamo2425",
+         "name":"GNK Dinamo 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"psv2425",
+         "name":"PSV 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"salzburg2425",
+         "name":"Salzburg 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"shakhtardonetsk2425",
+         "name":"Shakhtar Donetsk 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"slovanbratislava2425",
+         "name":"Slovan Bratislava 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"spartapraha2425",
+         "name":"Sparta Praha 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"sturmgraz2425",
+         "name":"Sturmgraz 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"youngboys2425",
+         "name":"Young Boys 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"conferenceleague2324w1",
          "name":"Olympiacos Champion UCL (1)",
          "animated_sticker_pack":false,

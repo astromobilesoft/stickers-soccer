@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"bologna2425",
+         "name":"Bologna 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"juventus2425",
+         "name":"Juventus 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
          "identifier":"milan2425",
          "name":"AC Milan 2024-25",
          "animated_sticker_pack":false,
