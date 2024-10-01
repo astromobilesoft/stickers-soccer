@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"feyenoord2425",
+         "name":"Feyenoord 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"celtic2425",
+         "name":"Celtic 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"brest2425",
+         "name":"Brest 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
          "identifier":"benfica2425",
          "name":"Benfica 2024-25",
          "animated_sticker_pack":false,
