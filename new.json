@@ -135,6 +135,12 @@
          "stickers": "22"
       },
       {
+         "identifier": "alanpatrick1",
+         "name": "Alan Patrick",
+         "animated_sticker_pack": false,
+         "stickers": "15"
+      },
+      {
          "identifier":"2024realvsbarcelona2",
          "name":"Real Madrid vs Barcelona",
          "animated_sticker_pack":false,

@@ -135,6 +135,12 @@
          "stickers": "22"
       },
       {
+         "identifier": "alanpatrick1",
+         "name": "Alan Patrick",
+         "animated_sticker_pack": false,
+         "stickers": "15"
+      },
+      {
          "identifier":"mbappemadrid1",
          "name":"Mbappé Real Madrid",
          "animated_sticker_pack":false,
