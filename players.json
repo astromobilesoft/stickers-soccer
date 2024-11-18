@@ -3,6 +3,138 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"christianpulisic1",
+         "name":"Christian Pulisic",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"hakancalhanoglu1",
+         "name":"Hakan Calhanoglu",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"ousmanedembele1",
+         "name":"Ousmane Dembele",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"philfoden2",
+         "name":"Phil Foden",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"dodilukebakio1",
+         "name":"Dodi Lukebakio",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"joselozano1",
+         "name":"Jose Lozano",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"jamesmaddison1",
+         "name":"James Maddison",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"samu1",
+         "name":"Samu",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"memphisdepay1",
+         "name":"Memphis Depay",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"josemariagimenez1",
+         "name":"Jose Maria Gimenez",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"marcosllorente1",
+         "name":"Marcos Llorente",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"antoinegriezmann1",
+         "name":"Antoine Griezmann",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"donyellmalen1",
+         "name":"Donyell Malen",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"deyverson1",
+         "name":"Deyverson",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"gerson1",
+         "name":"Gerson Santos da Silva",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"gabrielmagalhaes1",
+         "name":"Gabriel Magalhaes",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"henrymartin1",
+         "name":"Henry Martin (1)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"robertoalvarado1",
+         "name":"Roberto Alvarado",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier": "luisdiaz4",
+         "name": "Luis Diaz (2)",
+         "animated_sticker_pack": false,
+         "stickers": "20"
+      },
+      {
+         "identifier": "flacolopez1",
+         "name": "Flaco Lopez",
+         "animated_sticker_pack": false,
+         "stickers": "23"
+      },
+      {
+         "identifier": "francocristaldo1",
+         "name": "Franco Cristaldo",
+         "animated_sticker_pack": false,
+         "stickers": "21"
+      },
+      {
+         "identifier": "martinbraithwaite1",
+         "name": "Martin Braithwaite",
+         "animated_sticker_pack": false,
+         "stickers": "22"
+      },
+      {
          "identifier":"mbappemadrid1",
          "name":"Mbappé Real Madrid",
          "animated_sticker_pack":false,
