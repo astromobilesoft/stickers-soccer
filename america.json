@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"2024racingcampeon1",
+         "name":"Racing Campeón (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"2024racingcampeon2",
+         "name":"Racing Campeón (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"2024bocavsriver1",
          "name":"Boca Jrs vs River Plate 2024",
          "animated_sticker_pack":false,
