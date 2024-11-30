@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"botafogo2425",
+         "name":"Botafogo 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"atleticomineiro2425",
+         "name":"Atletico Mineiro 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"2024racingcampeon1",
          "name":"Racing Campeón (1)",
          "animated_sticker_pack":false,
@@ -67,12 +79,6 @@
          "name":"Chivas 2024-25",
          "animated_sticker_pack":false,
          "stickers":"28"
-      },
-      {
-         "identifier":"atleticomineiro2425",
-         "name":"A. Mineiro 2024-25",
-         "animated_sticker_pack":false,
-         "stickers":"30"
       },
       {
          "identifier":"atlas2425",
