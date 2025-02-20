@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"lamineyamal1",
+         "name":"Lamine Yamal",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"pedri1",
+         "name":"Pedri",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"2025realmadridvsatletico1",
          "name":"Real Madrid vs Atlético Madrid",
          "animated_sticker_pack":false,
