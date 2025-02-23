@@ -3,6 +3,90 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"bournemouth2425",
+         "name":"Bournemouth 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"brentford2425",
+         "name":"Brentford 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },     
+      {
+         "identifier":"brighton2425",
+         "name":"Brighton 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"crystalpalace2425",
+         "name":"Crystal Palace 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"everton2425",
+         "name":"Everton 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"fulham2425",
+         "name":"Fulham 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },     
+      {
+         "identifier":"ipswich2425",
+         "name":"Ipswich 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"leicester2425",
+         "name":"Leicester 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"manchesterunited2425",
+         "name":"Manchester United 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"nottinghamforest2425",
+         "name":"Nottingham Forest 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"southampton2425",
+         "name":"Southampton 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"tottenham2425",
+         "name":"Tottenham 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },     
+      {
+         "identifier":"westham2425",
+         "name":"West Ham 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"wolves2425",
+         "name":"Wolves 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"newcastle2425",
          "name":"Newcastle 2024-25",
          "animated_sticker_pack":false,
