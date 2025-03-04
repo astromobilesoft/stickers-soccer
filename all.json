@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"2025realmadridvsatletico2",
+         "name":"Real Madrid vs Atlético (UCL)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"ucl2425o1",
+         "name":"UCL 24-25 1/8 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"2025racingrecopa",
          "name":"Racing Campeón Recopa 2025",
          "animated_sticker_pack":false,
