@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2425o2",
+         "name":"UCL 24-25 1/8 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"2025realmadridvsatletico2",
          "name":"Real Madrid vs Atlético (UCL)",
          "animated_sticker_pack":false,
