@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2425c3",
+         "name":"Barcelona vs Dortmund",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"ucl2425c4",
+         "name":"PSG vs Aston Villa",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"ucl2425c1",
          "name":"Bayern Munich vs Inter Milan",
          "animated_sticker_pack":false,
