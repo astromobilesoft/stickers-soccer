@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2425s1",
+         "name":"Arsenal vs PSG",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"ucl2425c7",
          "name":"Inter Milan vs Bayern Munich",
          "animated_sticker_pack":false,
