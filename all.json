@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2425s3a",
+         "name":"Inter Milan vs Barcelona (1)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },      
+      {
+         "identifier":"ucl2425s3b",
+         "name":"Inter Milan vs Barcelona (2)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      }, 
+      {
          "identifier":"ucl2425s2",
          "name":"Barcelona vs Inter Milan",
          "animated_sticker_pack":false,
