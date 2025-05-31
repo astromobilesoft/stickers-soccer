@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2425w1",
+         "name":"PSG Champion (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"ucl2425w2",
+         "name":"PSG Champion (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"ucl2425s4",
          "name":"PSG vs Arsenal",
          "animated_sticker_pack":false,
