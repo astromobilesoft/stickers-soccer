@@ -3,6 +3,126 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"clubworldcup2025alahly1",
+         "name":"Al Ahly FCWC 25",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"clubworldcup2025alain1",
+         "name":"Al Ain FCWC 25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"clubworldcup2025atleticodemadrid1",
+         "name":"Atlético Madrid FCWC 25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"clubworldcup2025aucklandcity1",
+         "name":"Auckland City FCWC 25",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"clubworldcup2025bayernmunchen1",
+         "name":"Bayern Munchen FCWC 25",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"clubworldcup2025benfica1",
+         "name":"Benfica FCWC 25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"clubworldcup2025bocajuniors1",
+         "name":"Boca Jrs. FCWC 25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"clubworldcup2025botafogo1",
+         "name":"Botafogo FCWC 25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"clubworldcup2025city1",
+         "name":"Manchester City FCWC 25",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"clubworldcup2025esperance1",
+         "name":"Esperance Sportive FCWC 25",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"clubworldcup2025flamengo1",
+         "name":"Flamengo FCWC 25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"clubworldcup2025fluminense1",
+         "name":"Fluminense FCWC 25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"clubworldcup2025intermiami1",
+         "name":"Inter Miami FCWC 25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"clubworldcup2025mamelodisundowns1",
+         "name":"Mamelodi Sundowns FCWC 25",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"clubworldcup2025palmeiras1",
+         "name":"Palmeiras FCWC 25",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"clubworldcup2025porto1",
+         "name":"Porto FCWC 25",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"clubworldcup2025psg1",
+         "name":"Paris Saint-Germain FCWC 25",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"clubworldcup2025riverplate1",
+         "name":"River Plate FCWC 25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"clubworldcup2025seattlesounders1",
+         "name":"Seattle Sounders FCWC 25",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"clubworldcup2025urawareddiamonds1",
+         "name":"Urawa Red Diamonds FCWC 25",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"uefanationsleague2425w1",
          "name":"Portugal Champion UNL 24-25",
          "animated_sticker_pack":false,
