@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kitligamx2025a",
+         "name":"Kits Liga Mx 2025",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },             
+      {
          "identifier":"premierleague2526",
          "name":"Premier League 25-26",
          "animated_sticker_pack":false,
