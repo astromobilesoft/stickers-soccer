@@ -3,6 +3,36 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kiteurope2025a",
+         "name":"Kits Europe 2025 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"kiteurope2025b",
+         "name":"Kits Europe 2025 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"kiteurope2025c",
+         "name":"Kits Europe 2025 (3)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"kiteurope2025d",
+         "name":"Kits Europe 2025 (4)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"kiteurope2025e",
+         "name":"Kits Europe 2025 (5)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },          
+      {
          "identifier":"kitligamx2025a",
          "name":"Kits Liga Mx 2025",
          "animated_sticker_pack":false,
