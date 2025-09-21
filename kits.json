@@ -3,6 +3,252 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kitseriea2526a",
+         "name":"Kits Serie A 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"kitatalanta2526a",
+         "name":"Atalanta Home 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"kitatalanta2526b",
+         "name":"Atalanta Away 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      }, 
+      {
+         "identifier":"kitatalanta2526c",
+         "name":"Atalanta Third 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },     
+      {
+         "identifier":"kitbologna2526a",
+         "name":"Bologna Home 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"kitbologna2526b",
+         "name":"Bologna Away 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      }, 
+      {
+         "identifier":"kitfiorentina2526a",
+         "name":"Fiorentina Home 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"kitfiorentina2526b",
+         "name":"Fiorentina Away 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      }, 
+      {
+         "identifier":"kitfiorentina2526c",
+         "name":"Fiorentina Third 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },   
+      {
+         "identifier":"kitgenoa2526a",
+         "name":"Genoa Home 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"kitgenoa2526b",
+         "name":"Genoa Away 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      }, 
+      {
+         "identifier":"kitgenoa2526c",
+         "name":"Genoa Third 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },   
+      {
+         "identifier":"kitintermilan2526a",
+         "name":"Inter Home 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"kitintermilan2526b",
+         "name":"Inter Away 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      }, 
+      {
+         "identifier":"kitintermilan2526c",
+         "name":"Inter Third 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },   
+      {
+         "identifier":"kitjuventus2526a",
+         "name":"Juventus Home 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"kitjuventus2526b",
+         "name":"Juventus Away 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      }, 
+      {
+         "identifier":"kitjuventus2526c",
+         "name":"Juventus Third 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },   
+      {
+         "identifier":"kitlazio2526a",
+         "name":"Lazio Home 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"kitlazio2526b",
+         "name":"Lazio Away 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      }, 
+      {
+         "identifier":"kitlazio2526c",
+         "name":"Lazio Third 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },   
+      {
+         "identifier":"kitlecce2526a",
+         "name":"Lecce Home 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"kitlecce2526b",
+         "name":"Lecce Away 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      }, 
+      {
+         "identifier":"kitlecce2526c",
+         "name":"Lecce Third 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },   
+      {
+         "identifier":"kitmilan2526a",
+         "name":"Milan Home 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"kitmilan2526b",
+         "name":"Milan Away 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      }, 
+      {
+         "identifier":"kitmilan2526c",
+         "name":"Milan Third 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },   
+      {
+         "identifier":"kitnapoli2526a",
+         "name":"Napoli Home 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"kitnapoli2526b",
+         "name":"Napoli Away 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      }, 
+      {
+         "identifier":"kitnapoli2526c",
+         "name":"Napoli Third 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },  
+      {
+         "identifier":"kitparma2526a",
+         "name":"Parma Home 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"kitparma2526b",
+         "name":"Parma Away 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      }, 
+      {
+         "identifier":"kitparma2526c",
+         "name":"Parma Third 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },  
+      {
+         "identifier":"kitparma2526d",
+         "name":"Parma Fourth 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },  
+      {
+         "identifier":"kitroma2526a",
+         "name":"Roma Home 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"kitroma2526b",
+         "name":"Roma Away 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      }, 
+      {
+         "identifier":"kitroma2526c",
+         "name":"Roma Third 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },  
+      {
+         "identifier":"kittorino2526a",
+         "name":"Torino Home 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"kittorino2526b",
+         "name":"Torino Away 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      }, 
+      {
+         "identifier":"kitvenezia2526a",
+         "name":"Venezia Home 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"kitvenezia2526b",
+         "name":"Venezia Away 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      }, 
+      {
          "identifier":"kitlaliga2526a",
          "name":"Kits La Liga 25-26",
          "animated_sticker_pack":false,
