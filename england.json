@@ -3,6 +3,126 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"arsenal2526",
+         "name":"Arsenal 2025-26",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"astonvilla2526",
+         "name":"Aston Villa 2025-26",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"bournemouth2526",
+         "name":"Bournemouth 2025-26",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"brentford2526",
+         "name":"Brentford 2025-26",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"brighton2526",
+         "name":"Brighton 2025-26",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"burnley2526",
+         "name":"Burnley 2025-26",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },                        
+      {
+         "identifier":"chelsea2526",
+         "name":"Chelsea 2025-26",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"crystalpalace2526",
+         "name":"Crystal Palace 2025-26",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"everton2526",
+         "name":"Everton 2025-26",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"fulham2526",
+         "name":"Fulham 2025-26",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },     
+      {
+         "identifier":"leeds2526",
+         "name":"Leeds 2025-26",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },     
+      {
+         "identifier":"liverpool2526",
+         "name":"Liverpool 2025-26",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },           
+      {
+         "identifier":"manchestercity2526",
+         "name":"Manchester City 2024-25",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"manchesterunited2526",
+         "name":"Manchester United 2025-26",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"newcastle2526",
+         "name":"Newcastle 2025-26",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },      
+      {
+         "identifier":"nottinghamforest2526",
+         "name":"Nottingham Forest 2025-26",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"sunderland2526",
+         "name":"Sunderland 2025-26",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"tottenham2526",
+         "name":"Tottenham 2025-26",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },     
+      {
+         "identifier":"westham2526",
+         "name":"West Ham 2025-26",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"wolves2526",
+         "name":"Wolves 2025-26",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
          "identifier":"2025liverpoolvseverton1",
          "name":"Liverpool vs Everton",
          "animated_sticker_pack":false,
