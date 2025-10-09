@@ -3,6 +3,42 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"goalenglanda1",
+         "name":"Goal England",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"goalfrancea1",
+         "name":"Goal France",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"goalgermanya1",
+         "name":"Goal Germany",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
+         "identifier":"goalitalya1",
+         "name":"Goal Italy",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"goalnetherlandsa1",
+         "name":"Goal Netherlands",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
+         "identifier":"goalspaina1",
+         "name":"Goal Spain",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },            
+      {
          "identifier":"arsenal2526",
          "name":"Arsenal 2025-26",
          "animated_sticker_pack":false,
