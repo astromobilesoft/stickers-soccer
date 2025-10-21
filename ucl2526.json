@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2526gp6",
+         "name":"UCL 25-26 Day 6",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },           
+      {
          "identifier":"ucl2526gp5",
          "name":"UCL 25-26 Day 5",
          "animated_sticker_pack":false,
