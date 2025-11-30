@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"libertadores2025w1",
+         "name":"Flamengo Campeão 2025",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },  
+      {
          "identifier":"2025bocavsriver1",
          "name":"Boca Jrs vs River Plate",
          "animated_sticker_pack":false,
