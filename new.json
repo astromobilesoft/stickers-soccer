@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kitsevilla2526b",
+         "name":"Sevilla Away 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"kitsevilla2526c",
+         "name":"Sevilla Third 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },         
+      {
          "identifier":"libertadores2025w1",
          "name":"Flamengo Campeão 2025 (1)",
          "animated_sticker_pack":false,
@@ -738,7 +750,7 @@
          "identifier":"kitsevilla2526a",
          "name":"Sevilla Home 25-26",
          "animated_sticker_pack":false,
-         "stickers":"25"
+         "stickers":"26"
       },
       {
          "identifier":"kitvalencia2526a",

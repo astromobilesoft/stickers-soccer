@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kitsevilla2526b",
+         "name":"Sevilla Away 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"kitsevilla2526c",
+         "name":"Sevilla Third 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },         
+      {
          "identifier":"kitpsg2526d",
          "name":"PSG Fourth 25-26",
          "animated_sticker_pack":false,
