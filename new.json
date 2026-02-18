@@ -3,23 +3,29 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2526d1",
+         "name":"UCL 25-26 1/16 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"kitintermilan2526d",
          "name":"Inter Fourth 25-26",
          "animated_sticker_pack":false,
          "stickers":"23"
-      },         
+      },
       {
          "identifier":"ucl2526gp15",
          "name":"UCL 25-26 Day 15",
          "animated_sticker_pack":false,
          "stickers":"30"
-      }, 
+      },
       {
          "identifier":"ucl2526gp14",
          "name":"UCL 25-26 Day 14",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },      
+      },
       {
          "identifier":"2026unitedvscity1",
          "name":"United vs City 2026",
@@ -31,43 +37,43 @@
          "name":"Barcelona Supercopa 2026",
          "animated_sticker_pack":false,
          "stickers":"24"
-      },      
+      },
       {
          "identifier":"2025intercontinentalw1",
          "name":"PSG Intercontinental 2025",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },      
+      },
       {
          "identifier":"ucl2526gp13",
          "name":"UCL 25-26 Day 13",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },      
+      },
       {
          "identifier":"ucl2526gp12",
          "name":"UCL 25-26 Day 12",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },      
+      },
       {
          "identifier":"worldcup2026draw",
          "name":"World Cup Draw",
          "animated_sticker_pack":false,
          "stickers":"11"
-      },      
+      },
       {
          "identifier":"worldcup2026logo2",
          "name":"World Cup Logos",
          "animated_sticker_pack":false,
          "stickers":"16"
-      },      
+      },
       {
          "identifier":"worldcup2026logo1",
          "name":"We Are 26",
          "animated_sticker_pack":false,
          "stickers":"19"
-      },      
+      },
       {
          "identifier":"kitsevilla2526b",
          "name":"Sevilla Away 25-26",
@@ -79,31 +85,31 @@
          "name":"Sevilla Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"26"
-      },         
+      },
       {
          "identifier":"libertadores2025w1",
          "name":"Flamengo Campeão 2025 (1)",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },        
+      },
       {
          "identifier":"libertadores2025w2",
          "name":"Flamengo Campeão 2025 (2)",
          "animated_sticker_pack":false,
          "stickers":"14"
-      },        
+      },
       {
          "identifier":"ucl2526gp11",
          "name":"UCL 25-26 Day 11",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },       
+      },
       {
          "identifier":"ucl2526gp10",
          "name":"UCL 25-26 Day 10",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },       
+      },
       {
          "identifier":"kitpsg2526d",
          "name":"PSG Fourth 25-26",
@@ -115,7 +121,7 @@
          "name":"PSG Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"21"
-      },      
+      },
       {
          "identifier":"kitpsg2526a",
          "name":"PSG Home 25-26",
@@ -127,67 +133,67 @@
          "name":"PSG Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"21"
-      },            
+      },
       {
          "identifier":"2025intervsmilan1",
          "name":"Inter vs Milan",
          "animated_sticker_pack":false,
          "stickers":"22"
-      },        
+      },
       {
          "identifier":"2025bocavsriver1",
          "name":"Boca Jrs vs River Plate",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },       
+      },
       {
          "identifier":"ucl2526gp9",
          "name":"UCL 25-26 Day 9",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },        
+      },
       {
          "identifier":"ucl2526gp8",
          "name":"UCL 25-26 Day 8",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },           
+      },
       {
          "identifier":"kitnapoli2526d",
          "name":"Napoli Halloween 25-26",
          "animated_sticker_pack":false,
          "stickers":"26"
-      },       
+      },
       {
          "identifier":"2025realmadridvsbarcelona1",
          "name":"Real Madrid vs Barcelona",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },      
+      },
       {
          "identifier":"ucl2526gp7",
          "name":"UCL 25-26 Day 7",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },          
+      },
       {
          "identifier":"desiredoue1",
          "name":"Désiré Doué",
          "animated_sticker_pack":false,
          "stickers":"23"
-      },      
+      },
       {
          "identifier":"ucl2526gp6",
          "name":"UCL 25-26 Day 6",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },        
+      },
       {
          "identifier":"2025bayernmunichvsdortmund2",
          "name":"Bayern Munich vs Dortmund",
          "animated_sticker_pack":false,
          "stickers":"26"
-      },       
+      },
       {
          "identifier":"kitligaarg2025a",
          "name":"Kit Liga Arg 2025 (1)",
@@ -211,7 +217,7 @@
          "name":"Kit Liga Arg 2025 (4)",
          "animated_sticker_pack":false,
          "stickers":"20"
-      },       
+      },
       {
          "identifier":"goalenglanda1",
          "name":"Goal England",
@@ -247,7 +253,7 @@
          "name":"Goal Spain",
          "animated_sticker_pack":true,
          "stickers":"10"
-      },      
+      },
       {
          "identifier":"arsenal2526",
          "name":"Arsenal 2025-26",
@@ -283,7 +289,7 @@
          "name":"Burnley 2025-26",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },                        
+      },
       {
          "identifier":"chelsea2526",
          "name":"Chelsea 2025-26",
@@ -307,19 +313,19 @@
          "name":"Fulham 2025-26",
          "animated_sticker_pack":false,
          "stickers":"25"
-      },     
+      },
       {
          "identifier":"leeds2526",
          "name":"Leeds 2025-26",
          "animated_sticker_pack":false,
          "stickers":"28"
-      },     
+      },
       {
          "identifier":"liverpool2526",
          "name":"Liverpool 2025-26",
          "animated_sticker_pack":false,
          "stickers":"24"
-      },           
+      },
       {
          "identifier":"manchestercity2526",
          "name":"Manchester City 2024-25",
@@ -337,7 +343,7 @@
          "name":"Newcastle 2025-26",
          "animated_sticker_pack":false,
          "stickers":"26"
-      },      
+      },
       {
          "identifier":"nottinghamforest2526",
          "name":"Nottingham Forest 2025-26",
@@ -355,7 +361,7 @@
          "name":"Tottenham 2025-26",
          "animated_sticker_pack":false,
          "stickers":"29"
-      },     
+      },
       {
          "identifier":"westham2526",
          "name":"West Ham 2025-26",
@@ -367,19 +373,19 @@
          "name":"Wolves 2025-26",
          "animated_sticker_pack":false,
          "stickers":"26"
-      },      
+      },
       {
          "identifier":"ucl2526gp5",
          "name":"UCL 25-26 Day 5",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },              
+      },
       {
          "identifier":"ucl2526gp4",
          "name":"UCL 25-26 Day 4",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },      
+      },
       {
          "identifier":"2025atleticovsrealmadrid1",
          "name":"Atlético Madrid vs Real Madrid",
@@ -403,13 +409,13 @@
          "name":"Atalanta Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"25"
-      }, 
+      },
       {
          "identifier":"kitatalanta2526c",
          "name":"Atalanta Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"25"
-      },     
+      },
       {
          "identifier":"kitbologna2526a",
          "name":"Bologna Home 25-26",
@@ -421,7 +427,7 @@
          "name":"Bologna Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"26"
-      }, 
+      },
       {
          "identifier":"kitfiorentina2526a",
          "name":"Fiorentina Home 25-26",
@@ -433,13 +439,13 @@
          "name":"Fiorentina Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"27"
-      }, 
+      },
       {
          "identifier":"kitfiorentina2526c",
          "name":"Fiorentina Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"27"
-      },   
+      },
       {
          "identifier":"kitgenoa2526a",
          "name":"Genoa Home 25-26",
@@ -451,13 +457,13 @@
          "name":"Genoa Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"25"
-      }, 
+      },
       {
          "identifier":"kitgenoa2526c",
          "name":"Genoa Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"25"
-      },   
+      },
       {
          "identifier":"kitintermilan2526a",
          "name":"Inter Home 25-26",
@@ -469,13 +475,13 @@
          "name":"Inter Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"25"
-      }, 
+      },
       {
          "identifier":"kitintermilan2526c",
          "name":"Inter Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"24"
-      },   
+      },
       {
          "identifier":"kitjuventus2526a",
          "name":"Juventus Home 25-26",
@@ -487,13 +493,13 @@
          "name":"Juventus Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"25"
-      }, 
+      },
       {
          "identifier":"kitjuventus2526c",
          "name":"Juventus Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"25"
-      },   
+      },
       {
          "identifier":"kitlazio2526a",
          "name":"Lazio Home 25-26",
@@ -505,13 +511,13 @@
          "name":"Lazio Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"26"
-      }, 
+      },
       {
          "identifier":"kitlazio2526c",
          "name":"Lazio Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"26"
-      },   
+      },
       {
          "identifier":"kitlecce2526a",
          "name":"Lecce Home 25-26",
@@ -523,13 +529,13 @@
          "name":"Lecce Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"26"
-      }, 
+      },
       {
          "identifier":"kitlecce2526c",
          "name":"Lecce Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"26"
-      },   
+      },
       {
          "identifier":"kitmilan2526a",
          "name":"Milan Home 25-26",
@@ -541,13 +547,13 @@
          "name":"Milan Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"23"
-      }, 
+      },
       {
          "identifier":"kitmilan2526c",
          "name":"Milan Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"23"
-      },   
+      },
       {
          "identifier":"kitnapoli2526a",
          "name":"Napoli Home 25-26",
@@ -559,13 +565,13 @@
          "name":"Napoli Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"25"
-      }, 
+      },
       {
          "identifier":"kitnapoli2526c",
          "name":"Napoli Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"25"
-      },  
+      },
       {
          "identifier":"kitparma2526a",
          "name":"Parma Home 25-26",
@@ -577,19 +583,19 @@
          "name":"Parma Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"30"
-      }, 
+      },
       {
          "identifier":"kitparma2526c",
          "name":"Parma Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },  
+      },
       {
          "identifier":"kitparma2526d",
          "name":"Parma Fourth 25-26",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },  
+      },
       {
          "identifier":"kitroma2526a",
          "name":"Roma Home 25-26",
@@ -601,13 +607,13 @@
          "name":"Roma Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"24"
-      }, 
+      },
       {
          "identifier":"kitroma2526c",
          "name":"Roma Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"24"
-      },  
+      },
       {
          "identifier":"kittorino2526a",
          "name":"Torino Home 25-26",
@@ -619,7 +625,7 @@
          "name":"Torino Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"21"
-      }, 
+      },
       {
          "identifier":"kitvenezia2526a",
          "name":"Venezia Home 25-26",
@@ -631,37 +637,37 @@
          "name":"Venezia Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"25"
-      },           
+      },
       {
          "identifier":"2025laziovsroma1",
          "name":"Lazio vs Roma",
          "animated_sticker_pack":false,
          "stickers":"22"
-      },        
+      },
       {
          "identifier":"2025liverpoolvseverton1",
          "name":"Liverpool vs Everton",
          "animated_sticker_pack":false,
          "stickers":"24"
-      },        
+      },
       {
          "identifier":"ucl2526gp3",
          "name":"UCL 25-26 Day 3",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },            
+      },
       {
          "identifier":"ucl2526gp2",
          "name":"UCL 25-26 Day 2",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },      
+      },
       {
          "identifier":"ucl2526gp1",
          "name":"UCL 25-26 Day 1",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },   
+      },
       {
          "identifier":"2025cityvsunited1",
          "name":"City vs United 2025",
@@ -685,13 +691,13 @@
          "name":"Alaves Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"23"
-      }, 
+      },
       {
          "identifier":"kitalaves2526c",
          "name":"Alaves Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"23"
-      },     
+      },
       {
          "identifier":"kitathleticbilbao2526a",
          "name":"Ath. Bilbao Home 25-26",
@@ -703,13 +709,13 @@
          "name":"Ath. Bilbao Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"30"
-      }, 
+      },
       {
          "identifier":"kitathleticbilbao2526c",
          "name":"Ath. Bilbao Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },       
+      },
       {
          "identifier":"kitatleticomadrid2526a",
          "name":"Atlético Madrid Home 25-26",
@@ -721,13 +727,13 @@
          "name":"Atlético Madrid Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"22"
-      }, 
+      },
       {
          "identifier":"kitatleticomadrid2526c",
          "name":"Atlético Madrid Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"22"
-      },       
+      },
       {
          "identifier":"kitbarcelona2526a",
          "name":"Barcelona Home 25-26",
@@ -739,13 +745,13 @@
          "name":"Barcelona Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"22"
-      }, 
+      },
       {
          "identifier":"kitbarcelona2526c",
          "name":"Barcelona Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"22"
-      },       
+      },
       {
          "identifier":"kitbetis2526a",
          "name":"Betis Home 25-26",
@@ -757,13 +763,13 @@
          "name":"Betis Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"23"
-      }, 
+      },
       {
          "identifier":"kitbetis2526c",
          "name":"Betis Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"23"
-      },   
+      },
       {
          "identifier":"kitceltavigo2526a",
          "name":"Celta Vigo Home 25-26",
@@ -775,13 +781,13 @@
          "name":"Celta Vigo Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"26"
-      }, 
+      },
       {
          "identifier":"kitceltavigo2526c",
          "name":"Celta Vigo Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"26"
-      },   
+      },
       {
          "identifier":"kitrealmadrid2526a",
          "name":"Real Madrid Home 25-26",
@@ -793,13 +799,13 @@
          "name":"Real Madrid Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"25"
-      }, 
+      },
       {
          "identifier":"kitrealmadrid2526c",
          "name":"Real Madrid Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"25"
-      },   
+      },
       {
          "identifier":"kitrealsociedad2526a",
          "name":"Real Sociedad Home 25-26",
@@ -811,7 +817,7 @@
          "name":"Real Sociedad Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"24"
-      }, 
+      },
       {
          "identifier":"kitsevilla2526a",
          "name":"Sevilla Home 25-26",
@@ -829,13 +835,13 @@
          "name":"Valencia Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"18"
-      }, 
+      },
       {
          "identifier":"kitvalencia2526c",
          "name":"Valencia Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"17"
-      },   
+      },
       {
          "identifier":"kitvillareal2526a",
          "name":"Villareal Home 25-26",
@@ -847,13 +853,13 @@
          "name":"Villareal Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"27"
-      }, 
+      },
       {
          "identifier":"kitvillareal2526c",
          "name":"Villareal Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"27"
-      },      
+      },
       {
          "identifier":"kiteurope2025a",
          "name":"Kits Europe 2025 (1)",
@@ -883,13 +889,13 @@
          "name":"Kits Europe 2025 (5)",
          "animated_sticker_pack":false,
          "stickers":"21"
-      },          
+      },
       {
          "identifier":"kitligamx2025a",
          "name":"Kits Liga Mx 2025",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },       
+      },
       {
          "identifier":"premierleague2526",
          "name":"Premier League 25-26",
@@ -985,7 +991,7 @@
          "name":"Brighton Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },            
+      },
       {
          "identifier":"kitburnley2526a",
          "name":"Burnley Home 25-26",
@@ -1003,7 +1009,7 @@
          "name":"Burnley Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"30"
-      }, 
+      },
       {
          "identifier":"kitchelsea2526a",
          "name":"Chelsea Home 25-26",
@@ -1021,7 +1027,7 @@
          "name":"Chelsea Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"23"
-      }, 
+      },
       {
          "identifier":"kitcrystalpalace2526a",
          "name":"Crystal Palace Home 25-26",
@@ -1039,7 +1045,7 @@
          "name":"Crystal Palace Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },       
+      },
       {
          "identifier":"kiteverton2526a",
          "name":"Everton Home 25-26",
@@ -1057,7 +1063,7 @@
          "name":"Everton Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"19"
-      },      
+      },
       {
          "identifier":"kitfulham2526a",
          "name":"Fulham Home 25-26",
@@ -1075,7 +1081,7 @@
          "name":"Fulham Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"24"
-      },        
+      },
       {
          "identifier":"kitleeds2526a",
          "name":"Leeds Home 25-26",
@@ -1093,7 +1099,7 @@
          "name":"Leeds Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"15"
-      },      
+      },
       {
          "identifier":"kitliverpool2526a",
          "name":"Liverpool Home 25-26",
@@ -1111,7 +1117,7 @@
          "name":"Liverpool Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"27"
-      },            
+      },
       {
          "identifier":"kitmanchestercity2526a",
          "name":"Man. City Home 25-26",
@@ -1129,7 +1135,7 @@
          "name":"Man. City Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"24"
-      },      
+      },
       {
          "identifier":"kitmanchesterunited2526a",
          "name":"Man. United Home 25-26",
@@ -1147,7 +1153,7 @@
          "name":"Man. United Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"29"
-      },      
+      },
       {
          "identifier":"kitnewcastle2526a",
          "name":"Newcastle Home 25-26",
@@ -1165,7 +1171,7 @@
          "name":"Newcastle Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"24"
-      },       
+      },
       {
          "identifier":"kitnottinghamforest2526a",
          "name":"Nottingham Forest Home 25-26",
@@ -1183,7 +1189,7 @@
          "name":"Nottingham Forest Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"26"
-      },             
+      },
       {
          "identifier":"kitsunderland2526a",
          "name":"Sunderland Home 25-26",
@@ -1201,7 +1207,7 @@
          "name":"Sunderland Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },      
+      },
       {
          "identifier":"kittottenham2526a",
          "name":"Tottenham Home 25-26",
@@ -1225,7 +1231,7 @@
          "name":"West Ham Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"29"
-      },          
+      },
       {
          "identifier":"kitwolves2526a",
          "name":"Wolves Home 25-26",
@@ -1243,7 +1249,7 @@
          "name":"Wolves Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"23"
-      },      
+      },
       {
          "identifier":"clubworldcup2025w2",
          "name":"Chelsea Champion FCWC25 (2)",
@@ -1861,13 +1867,13 @@
          "name":"Inter Milan vs Barcelona (1)",
          "animated_sticker_pack":false,
          "stickers":"23"
-      },      
+      },
       {
          "identifier":"ucl2425s3b",
          "name":"Inter Milan vs Barcelona (2)",
          "animated_sticker_pack":false,
          "stickers":"23"
-      }, 
+      },
       {
          "identifier":"ucl2425s2",
          "name":"Barcelona vs Inter Milan",
@@ -1999,7 +2005,7 @@
          "name":"Brentford 2024-25",
          "animated_sticker_pack":false,
          "stickers":"27"
-      },     
+      },
       {
          "identifier":"brighton2425",
          "name":"Brighton 2024-25",
@@ -2023,7 +2029,7 @@
          "name":"Fulham 2024-25",
          "animated_sticker_pack":false,
          "stickers":"26"
-      },     
+      },
       {
          "identifier":"ipswich2425",
          "name":"Ipswich 2024-25",
@@ -2059,7 +2065,7 @@
          "name":"Tottenham 2024-25",
          "animated_sticker_pack":false,
          "stickers":"28"
-      },     
+      },
       {
          "identifier":"westham2425",
          "name":"West Ham 2024-25",
