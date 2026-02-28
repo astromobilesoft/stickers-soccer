@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"2026dortmundvsbayern1",
+         "name":"Dortmund vs Bayern Munich",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
          "identifier":"ucl2526d4",
          "name":"UCL 25-26 1/16 (4)",
          "animated_sticker_pack":false,
