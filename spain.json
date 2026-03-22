@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+        "identifier":"2026realmadridvsatletico1",
+         "name":"Real Madrid vs Atlético Madrid",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"2026supercup1",
          "name":"Barcelona Supercopa 2026",
          "animated_sticker_pack":false,
@@ -19,7 +25,7 @@
          "name":"Sevilla Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"26"
-      },      
+      },
       {
          "identifier":"2025realmadridvsbarcelona1",
          "name":"Real Madrid vs Barcelona",
@@ -31,7 +37,7 @@
          "name":"Atlético Madrid vs Real Madrid",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },      
+      },
       {
          "identifier":"kitlaliga2526a",
          "name":"Kits La Liga 25-26",
@@ -49,13 +55,13 @@
          "name":"Alaves Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"23"
-      }, 
+      },
       {
          "identifier":"kitalaves2526c",
          "name":"Alaves Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"23"
-      },     
+      },
       {
          "identifier":"kitathleticbilbao2526a",
          "name":"Ath. Bilbao Home 25-26",
@@ -67,13 +73,13 @@
          "name":"Ath. Bilbao Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"30"
-      }, 
+      },
       {
          "identifier":"kitathleticbilbao2526c",
          "name":"Ath. Bilbao Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },       
+      },
       {
          "identifier":"kitatleticomadrid2526a",
          "name":"Atlético Madrid Home 25-26",
@@ -85,13 +91,13 @@
          "name":"Atlético Madrid Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"22"
-      }, 
+      },
       {
          "identifier":"kitatleticomadrid2526c",
          "name":"Atlético Madrid Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"22"
-      },       
+      },
       {
          "identifier":"kitbarcelona2526a",
          "name":"Barcelona Home 25-26",
@@ -103,13 +109,13 @@
          "name":"Barcelona Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"22"
-      }, 
+      },
       {
          "identifier":"kitbarcelona2526c",
          "name":"Barcelona Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"22"
-      },       
+      },
       {
          "identifier":"kitbetis2526a",
          "name":"Betis Home 25-26",
@@ -121,13 +127,13 @@
          "name":"Betis Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"23"
-      }, 
+      },
       {
          "identifier":"kitbetis2526c",
          "name":"Betis Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"23"
-      },   
+      },
       {
          "identifier":"kitceltavigo2526a",
          "name":"Celta Vigo Home 25-26",
@@ -139,13 +145,13 @@
          "name":"Celta Vigo Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"26"
-      }, 
+      },
       {
          "identifier":"kitceltavigo2526c",
          "name":"Celta Vigo Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"26"
-      },   
+      },
       {
          "identifier":"kitrealmadrid2526a",
          "name":"Real Madrid Home 25-26",
@@ -157,13 +163,13 @@
          "name":"Real Madrid Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"25"
-      }, 
+      },
       {
          "identifier":"kitrealmadrid2526c",
          "name":"Real Madrid Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"25"
-      },   
+      },
       {
          "identifier":"kitrealsociedad2526a",
          "name":"Real Sociedad Home 25-26",
@@ -175,7 +181,7 @@
          "name":"Real Sociedad Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"24"
-      }, 
+      },
       {
          "identifier":"kitsevilla2526a",
          "name":"Sevilla Home 25-26",
@@ -193,13 +199,13 @@
          "name":"Valencia Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"18"
-      }, 
+      },
       {
          "identifier":"kitvalencia2526c",
          "name":"Valencia Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"17"
-      },   
+      },
       {
          "identifier":"kitvillareal2526a",
          "name":"Villareal Home 25-26",
@@ -211,13 +217,13 @@
          "name":"Villareal Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"27"
-      }, 
+      },
       {
          "identifier":"kitvillareal2526c",
          "name":"Villareal Third 25-26",
          "animated_sticker_pack":false,
          "stickers":"27"
-      },      
+      },
       {
          "identifier":"2025barcelonarealmadrid1",
          "name":"Barcelona vs Real Madrid (1)",
