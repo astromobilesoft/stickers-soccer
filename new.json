@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"2026laligaw1",
+         "name":"Barcelona Campeón 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },      
+      {
          "identifier":"worldcup2026kit1",
          "name":"WC 2026 Kit 1",
          "animated_sticker_pack":false,
