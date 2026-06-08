@@ -3,6 +3,295 @@
   "ios_app_store_link": "",
   "sticker_packs": [
       {
+         "identifier":"worldcup2026paninialgeria1",
+         "name":"Algeria Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paniniargentina1",
+         "name":"Argentina Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paniniaustralia1",
+         "name":"Australia Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paniniaustria1",
+         "name":"Austria Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paninibelgium1",
+         "name":"Belgium Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paninibosniaherzegovina1",
+         "name":"Bosnia Herzegovina Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      }
+      {
+         "identifier":"worldcup2026paninibrazil1",
+         "name":"Brazil Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paninicanada1",
+         "name":"Canada Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paninicapeverde1",
+         "name":"Cape Verde Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paninicolombia1",
+         "name":"Colombia Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paninicongo1",
+         "name":"Congo Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paninicroatia1",
+         "name":"Croatia Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      }
+
+      {
+         "identifier":"worldcup2026paninicuracao1",
+         "name":"Curacao Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paniniczechrepublic1",
+         "name":"Czech Republic Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paniniecuador1",
+         "name":"Ecuador Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paniniegypt1",
+         "name":"Egypt Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paniniengland1",
+         "name":"England Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paninifrance1",
+         "name":"France Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      }
+      {
+         "identifier":"worldcup2026paninigermany1",
+         "name":"Germany Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paninighana1",
+         "name":"Ghana Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paninihaiti1",
+         "name":"Haiti Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paniniiran1",
+         "name":"Iran Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paniniiraq1",
+         "name":"Iraq Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paniniivorycoast1",
+         "name":"Ivory Coast Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      }
+      {
+         "identifier":"worldcup2026paninijapan1",
+         "name":"Japan Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paninijordan1",
+         "name":"Jordan Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paninimexico1",
+         "name":"Mexico Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paninimorocco1",
+         "name":"Morocco Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026panininetherlands1",
+         "name":"Netherlands Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026panininewzealand1",
+         "name":"New Zealands Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      }
+      {
+         "identifier":"worldcup2026panininorway1",
+         "name":"Norway Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paninipanama1",
+         "name":"Panama Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paniniparaguay1",
+         "name":"Paraguay Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paniniportugal1",
+         "name":"Portugal Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paniniqatar1",
+         "name":"Qatar Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paninisaudiarabia1",
+         "name":"Saudi Arabia Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      }
+      {
+         "identifier":"worldcup2026paniniscotland1",
+         "name":"Scotland Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paninisenegal1",
+         "name":"Senegal Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paninisouthafrica1",
+         "name":"South Africa Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paninisouthkorea1",
+         "name":"South Korea Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paninispain1",
+         "name":"Spain Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paninisweden1",
+         "name":"Sweden Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      }
+      {
+         "identifier":"worldcup2026paniniswitzerland1",
+         "name":"Switzerland Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paninitunisia1",
+         "name":"Tunisia Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paniniturkey1",
+         "name":"Turkey Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paniniuruguay1",
+         "name":"Uruguay Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paniniusa1",
+         "name":"USA Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"worldcup2026paniniuzbekistan1",
+         "name":"Uzbekistan Panini",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      }                                          
+      {
          "identifier":"worldcup2026kit1",
          "name":"WC 2026 Kit 1",
          "animated_sticker_pack":false,
