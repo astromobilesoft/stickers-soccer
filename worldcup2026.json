@@ -2,7 +2,25 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.soccer",
    "ios_app_store_link":"",
    "sticker_packs":[
-       {
+      {
+         "identifier":"worldcup2026france1",
+         "name":"France Portraits(1)",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"worldcup2026france2",
+         "name":"France Portraits(2)",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"worldcup2026france3",
+         "name":"France Portraits(3)",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
          "identifier":"worldcup2026germany4",
          "name":"Germany vs Curacao",
          "animated_sticker_pack":false,
