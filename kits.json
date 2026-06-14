@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2026kitspain1",
+         "name":"WC Spain Kit 1",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },       
+      {
+         "identifier":"worldcup2026kitargentina1",
+         "name":"WC Argentina Kit 1",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },        
+      {
+         "identifier":"worldcup2026kitargentina2",
+         "name":"WC Argentina Kit 2",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },              
+      {
          "identifier":"worldcup2026kit1",
          "name":"WC 2026 Kit 1",
          "animated_sticker_pack":false,
