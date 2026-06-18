@@ -1,19 +1,7 @@
 {
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.soccer",
    "ios_app_store_link":"",
-   "sticker_packs":[
-      {
-         "identifier":"worldcup2026flags1",
-         "name":"World Cup Flags 1",
-         "animated_sticker_pack":true,
-         "stickers":"24"
-      },  
-      {
-         "identifier":"worldcup2026flags2",
-         "name":"World Cup Flags 2",
-         "animated_sticker_pack":true,
-         "stickers":"24"
-      },        
+   "sticker_packs":[    
       {
          "identifier":"worldcup2026kitmexico2",
          "name":"WC Mexico Kit 2",
