@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2026flags1",
+         "name":"WC Flags (1) ",
+         "animated_sticker_pack":true,
+         "stickers":"24"
+      },
+      {
+         "identifier":"worldcup2026flags2",
+         "name":"WC Flags (2) ",
+         "animated_sticker_pack":true,
+         "stickers":"24"
+      },
+      {
          "identifier":"goalenglanda1",
          "name":"Goal England",
          "animated_sticker_pack":true,
