@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[ 
       {
+         "identifier":"worldcup2026d14",
+         "name":"World Cup 26 Day 14",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"worldcup2026mexicof3",
          "name":"Mexico Vs Czech Republic",
          "animated_sticker_pack":false,
