@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2026mexicof16a",
+         "name":"vs Ecuador (1)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"worldcup2026mexicof16b",
+         "name":"vs Ecuador (2)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },      
+      {
          "identifier":"worldcup2026francef16",
          "name":"France vs Sweden",
          "animated_sticker_pack":false,
