@@ -3,11 +3,17 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"worldcup2026argentinao1a",
-         "name":"Argentina vs Egipt",
+         "identifier":"worldcup2026argentinao1b",
+         "name":"Argentina vs Egipt (2)",
          "animated_sticker_pack":false,
          "stickers":"26"
       },      
+      {
+         "identifier":"worldcup2026argentinao1a",
+         "name":"Argentina vs Egipt (1)",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },       
       {
          "identifier":"worldcup2026belgiumo1",
          "name":"Belgium vs USA",
