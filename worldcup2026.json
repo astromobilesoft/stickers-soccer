@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2026spain4",
+         "name":"Spain World Cup 2026",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
          "identifier":"worldcup2026france4",
          "name":"France World Cup 2026",
          "animated_sticker_pack":true,
