@@ -3,6 +3,30 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kitrealmadrid2627a",
+         "name":"Real Madrid Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"kitrealmadrid2627b",
+         "name":"Real Madrid Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      }, 
+      {
+         "identifier":"kitliverpool2627a",
+         "name":"Liverpool Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"kitliverpool2627b",
+         "name":"Liverpool Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },         
+      {
          "identifier":"kitintermilan2627a",
          "name":"Inter Home 26-27 (1)",
          "animated_sticker_pack":false,
