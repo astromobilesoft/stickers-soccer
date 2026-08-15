@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kitdortmund2627b",
+         "name":"Borussia D. Kit Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },        
+      {
          "identifier":"2026uefasupercupw1",
          "name":"PSG Super Cup Champions 2026",
          "animated_sticker_pack":false,
