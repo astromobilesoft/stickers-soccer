@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kitmilan2627a",
+         "name":"AC Milan Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },  
+      {
+         "identifier":"kitmilan2627b",
+         "name":"AC Milan Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },  
+      {
+         "identifier":"kitmilan2627c",
+         "name":"AC Milan Third 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },        
+      {
          "identifier":"2026facommunityshieldw1",
          "name":"Arsenal Champion FA Community Shield 26",
          "animated_sticker_pack":false,
