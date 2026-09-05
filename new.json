@@ -3,11 +3,239 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kitarsenal2627a",
+         "name":"Arsenal Kit Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },         
+      {
+         "identifier":"kitarsenal2627b",
+         "name":"Arsenal Kit Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      }, 
+      {
+         "identifier":"kitarsenal2627c",
+         "name":"Arsenal Kit Third 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },                    
+      {
+         "identifier":"kitastonvilla2627a",
+         "name":"Aston Villa Kit Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },         
+      {
+         "identifier":"kitastonvilla2627b",
+         "name":"Aston Villa Kit Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      }, 
+      {
+         "identifier":"kitastonvilla2627c",
+         "name":"Aston Villa Kit Third 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },          
+      {
+         "identifier":"kitbournemouth2627a",
+         "name":"Bournemouth Kit Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },         
+      {
+         "identifier":"kitbournemouth2627b",
+         "name":"Bournemouth Kit Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      }, 
+      {
+         "identifier":"kitbournemouth2627c",
+         "name":"Bournemouth Kit Third 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },      
+      {
+         "identifier":"kitbrentford2627a",
+         "name":"Brentford Kit Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },         
+      {
+         "identifier":"kitbrentford2627b",
+         "name":"Brentford Kit Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      }, 
+      {
+         "identifier":"kitbrentford2627c",
+         "name":"Brentford Kit Third 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      }, 
+      {
+         "identifier":"kitbrighton2627a",
+         "name":"Brighton Kit Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },         
+      {
+         "identifier":"kitbrighton2627b",
+         "name":"Brighton Kit Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      }, 
+      {
+         "identifier":"kitbrighton2627c",
+         "name":"Brighton Kit Third 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      }, 
+      {
+         "identifier":"kitchelsea2627a",
+         "name":"Chelsea Kit Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },         
+      {
+         "identifier":"kitchelsea2627b",
+         "name":"Chelsea Kit Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      }, 
+      {
+         "identifier":"kiteverton2627a",
+         "name":"Everton Kit Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },         
+      {
+         "identifier":"kiteverton2627b",
+         "name":"Everton Kit Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      }, 
+      {
+         "identifier":"kitfulham2627a",
+         "name":"Fulham Kit Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },         
+      {
+         "identifier":"kitfulham2627b",
+         "name":"Fulham Kit Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      }, 
+      {
+         "identifier":"kitfulham2627c",
+         "name":"Fulham Kit Third 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      }, 
+      {
+         "identifier":"kitipswich2627a",
+         "name":"Ipswich Kit Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },         
+      {
+         "identifier":"kitipswich2627b",
+         "name":"Ipswich Kit Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      }, 
+      {
+         "identifier":"kitleeds2627a",
+         "name":"Leeds Kit Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },         
+      {
+         "identifier":"kitleeds2627b",
+         "name":"Leeds Kit Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },       
+      {
+         "identifier":"kitliverpool2627a",
+         "name":"Liverpool Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"kitliverpool2627b",
+         "name":"Liverpool Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },      
+      {
          "identifier":"kitliverpool2627c",
          "name":"Liverpool Third 26-27",
          "animated_sticker_pack":false,
          "stickers":"21"
-      },       
+      },    
+      {
+         "identifier":"kitmanchestercity2627a",
+         "name":"Manchester City Kit Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },         
+      {
+         "identifier":"kitmanchestercity2627b",
+         "name":"Manchester City Kit Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },    
+      {
+         "identifier":"kitmanchestercity2627c",
+         "name":"Manchester City Kit Thrid 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },    
+      {
+         "identifier":"kitnottinghamforest2627a",
+         "name":"Nottingham Forest Kit Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },         
+      {
+         "identifier":"kitnottinghamforest2627b",
+         "name":"Nottingham Forest Kit Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },    
+      {
+         "identifier":"kitnottinghamforest2627c",
+         "name":"Nottingham Forest Kit Thrid 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },         
+      {
+         "identifier":"kitsunderland2627a",
+         "name":"Sunderland Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"kitsunderland2627b",
+         "name":"Sunderland Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },      
+      {
+         "identifier":"kitsunderland2627c",
+         "name":"Sunderland Third 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },   
+      {
+         "identifier":"kitpremierleague2627",
+         "name":"Others Premier Kit 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },   
       {
          "identifier":"kitmilan2627a",
          "name":"AC Milan Home 26-27",
@@ -49,31 +277,7 @@
          "name":"PSG Kit Away 26-27",
          "animated_sticker_pack":false,
          "stickers":"21"
-      },         
-      {
-         "identifier":"kitarsenal2627a",
-         "name":"Arsenal Kit Home 26-27",
-         "animated_sticker_pack":false,
-         "stickers":"23"
-      },         
-      {
-         "identifier":"kitarsenal2627b",
-         "name":"Arsenal Kit Away 26-27",
-         "animated_sticker_pack":false,
-         "stickers":"23"
-      },      
-      {
-         "identifier":"kitmanchestercity2627a",
-         "name":"Machester City Kit Home 26-27",
-         "animated_sticker_pack":false,
-         "stickers":"22"
-      },         
-      {
-         "identifier":"kitmanchestercity2627b",
-         "name":"Machester City Kit Away 26-27",
-         "animated_sticker_pack":false,
-         "stickers":"22"
-      },         
+      },              
       {
          "identifier":"kitbayern2627a",
          "name":"Bayern Munich Kit Home 26-27",
@@ -103,19 +307,7 @@
          "name":"Real Madrid Away 26-27",
          "animated_sticker_pack":false,
          "stickers":"23"
-      }, 
-      {
-         "identifier":"kitliverpool2627a",
-         "name":"Liverpool Home 26-27",
-         "animated_sticker_pack":false,
-         "stickers":"20"
-      },
-      {
-         "identifier":"kitliverpool2627b",
-         "name":"Liverpool Away 26-27",
-         "animated_sticker_pack":false,
-         "stickers":"20"
-      },         
+      },   
       {
          "identifier":"kitintermilan2627a",
          "name":"Inter Home 26-27 (1)",
