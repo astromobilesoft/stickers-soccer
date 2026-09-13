@@ -3,6 +3,186 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kitalaves2627a",
+         "name":"Alaves Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"kitalaves2627b",
+         "name":"Alaves Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"kitalaves2627c",
+         "name":"Alaves Third 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },      
+      {
+         "identifier":"kitatleticomadrid2627a",
+         "name":"Atlético Madrid Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"kitatleticomadrid2627b",
+         "name":"Atlético Madrid Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"kitatleticomadrid2627c",
+         "name":"Atlético Madrid Third 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"kitbarcelona2627a",
+         "name":"Barcelona Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"kitbarcelona2627b",
+         "name":"Barcelona Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"kitbarcelona2627c",
+         "name":"Barcelona Third 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"kitbetis2627a",
+         "name":"Betis Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"kitbetis2627b",
+         "name":"Betis Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"kitbetis2627c",
+         "name":"Betis Third 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"kitceltavigo2627a",
+         "name":"Celta Vigo Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"kitceltavigo2627b",
+         "name":"Celta Vigo Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"kitceltavigo2627c",
+         "name":"Celta Vigo Third 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"kitdeplacoruna2627a",
+         "name":"Dep La Coruña Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"kitdeplacoruna2627b",
+         "name":"Dep La Coruña Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"kitdeplacoruna2627c",
+         "name":"Dep La Coruña Third 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },      
+      {
+         "identifier":"kitracingsantander2627a",
+         "name":"Racing Santander Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"kitracingsantander2627b",
+         "name":"Racing Santander Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"kitrealmadrid2627a",
+         "name":"Real Madrid Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"kitrealmadrid2627b",
+         "name":"Real Madrid Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },  
+      {
+         "identifier":"kitrealmadrid2627c",
+         "name":"Real Madrid Third 26-27", 
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"kitvalencia2627a",
+         "name":"Valencia Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"kitvalencia2627b",
+         "name":"Valencia Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },  
+      {
+         "identifier":"kitvalencia2627c",
+         "name":"Valencia Third 26-27", 
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },      
+      {
+         "identifier":"kitvillareal2627a",
+         "name":"Villareal Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"kitvillareal2627b",
+         "name":"Villareal Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },  
+      {
+         "identifier":"kitvillareal2627c",
+         "name":"Villareal Third 26-27", 
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },          
+      {
+         "identifier":"kitlaliga2627a",
+         "name":"Others Kits La Liga 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },      
+      {
          "identifier":"2026laligaw1",
          "name":"Barcelona Campeón 25-26",
          "animated_sticker_pack":false,
