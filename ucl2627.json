@@ -2,6 +2,24 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.soccer",
    "ios_app_store_link":"",
    "sticker_packs":[
+       {
+         "identifier":"ucl2627polaroidnapoli1",
+         "name":"Napoli Portraits",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"ucl2627polaroidnapoli2",
+         "name":"Napoli Portraits (2)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"ucl2627polaroidnapoli3",
+         "name":"Napoli Portraits (3)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
       {
          "identifier":"ucl2627portraitsdortmund1",
          "name":"Borussia Dortmund Portraits",
