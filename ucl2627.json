@@ -2,20 +2,56 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.soccer",
    "ios_app_store_link":"",
    "sticker_packs":[
-       {
-         "identifier":"ucl2627polaroidnapoli1",
-         "name":"Napoli Portraits",
+      {
+         "identifier":"ucl2627liverpoolportraits1",
+         "name":"Liverpool Portraits (1)",
          "animated_sticker_pack":false,
          "stickers":"24"
       },
       {
-         "identifier":"ucl2627polaroidnapoli2",
+         "identifier":"ucl2627liverpoolportraits2",
+         "name":"Liverpool Portraits (2)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"ucl2627liverpoolportraits3",
+         "name":"Liverpool Portraits (3)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },      
+      {
+         "identifier":"ucl2627liverpoolportraits4",
+         "name":"Liverpool Portraits (4)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },   
+      {
+         "identifier":"ucl2627intermilanportraits2",
+         "name":"Inter Milan Portraits (2)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"ucl2627intermilanportraits3",
+         "name":"Inter Milan Portraits (3)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"ucl2627napoliportraits1",
+         "name":"Napoli Portraits (1)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"ucl2627napoliportraits2",
          "name":"Napoli Portraits (2)",
          "animated_sticker_pack":false,
          "stickers":"24"
       },
       {
-         "identifier":"ucl2627polaroidnapoli3",
+         "identifier":"ucl2627napoliportraits3",
          "name":"Napoli Portraits (3)",
          "animated_sticker_pack":false,
          "stickers":"24"
