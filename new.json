@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2627manchestercityportraits1",
+         "name":"Manchester CityPortraits (1)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"ucl2627manchestercityportraits2",
+         "name":"Manchester CityPortraits (2)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
          "identifier":"ucl2627barcelonaportraits1",
          "name":"Barcelona Portraits (1)",
          "animated_sticker_pack":false,
