@@ -3,6 +3,294 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kitaugsburg2627a",
+         "name":"Augsburg Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"kitaugsburg2627b",
+         "name":"Augsburg Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"kitbayerleverkusen2627a",
+         "name":"Bayern Leverkusen Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"kitbayerleverkusen2627b",
+         "name":"Bayern Leverkusen Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"kitbayerleverkusen2627c",
+         "name":"Bayern Leverkusen Third 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"kitbayerleverkusen2627d",
+         "name":"Bayern Leverkusen UCL 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },      
+      {
+         "identifier":"kitbayern2627a",
+         "name":"Bayern Munich Kit Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },       
+      {
+         "identifier":"kitbayern2627b",
+         "name":"Bayern Munich Kit Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },   
+      {
+         "identifier":"kitbayern2627d",
+         "name":"Bayern Munich Kit UCL 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },   
+      {
+         "identifier":"kitborussiamonchengladbach2627a",
+         "name":"Borussia Monchengladbach Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"kitborussiamonchengladbach2627b",
+         "name":"Borussia Monchengladbach Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"kitborussiamonchengladbach2627c",
+         "name":"Borussia Monchengladbach Third 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"kitdortmund2627a",
+         "name":"Borussia D. Kit Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },    
+      {
+         "identifier":"kitdortmund2627b",
+         "name":"Borussia D. Kit Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },    
+      {
+         "identifier":"kitdortmund2627c",
+         "name":"Borussia D. Kit Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },    
+      {
+         "identifier":"kitdortmund2627d",
+         "name":"Borussia D. Kit Special 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },             
+      {
+         "identifier":"kiteintrachtfrankfurt2627a",
+         "name":"Eintracht Frankfurt Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"kiteintrachtfrankfurt2627b",
+         "name":"Eintracht Frankfurt Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"kiteintrachtfrankfurt2627c",
+         "name":"Eintracht Frankfurt Third 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"kitfckoln2627a",
+         "name":"FC Koln Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"kitfckoln2627b",
+         "name":"FC Koln Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"kitfreiburg2627a",
+         "name":"Freiburg Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"kitfreiburg2627b",
+         "name":"Freiburg Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"kitfreiburg2627c",
+         "name":"Freiburg Third 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"kithamburger2627a",
+         "name":"Hamburger Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"kithamburger2627b",
+         "name":"Hamburger Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"kithamburger2627c",
+         "name":"Hamburger Third 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"kitheidenheim2627a",
+         "name":"Heidenheim Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"kitheidenheim2627b",
+         "name":"Heidenheim Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"kitheidenheim2627c",
+         "name":"Heidenheim Third 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"kitleipzig2627a",
+         "name":"Leipzig Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"kitleipzig2627b",
+         "name":"Leipzig Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"kitleipzig2627c",
+         "name":"Leipzig Third 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"kitmainz2627a",
+         "name":"Mainz Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"kitmainz2627b",
+         "name":"Mainz Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"kitmainz2627c",
+         "name":"Mainz Third 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"kitpaderborn2627a",
+         "name":"Paderborn Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"kitpaderborn2627b",
+         "name":"Paderborn Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"kitpaderborn2627c",
+         "name":"Paderborn Third 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"kitschalke2627a",
+         "name":"Schalke Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"kitschalke2627b",
+         "name":"Schalke Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"kitschalke2627c",
+         "name":"Schalke Third 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"kitunionberlin2627a",
+         "name":"Union Berlin Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"kitunionberlin2627b",
+         "name":"Union Berlin Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"kitunionberlin2627c",
+         "name":"Union Berlin Third 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"kitwerderbremen2627a",
+         "name":"Werder Bremen Home 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"kitwerderbremen2627b",
+         "name":"Werder Bremen Away 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"kitwerderbremen2627c",
+         "name":"Werder Bremen Third 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },      
+      {
          "identifier":"ucl2627bayernmunichportraits1",
          "name":"Bayern Portraits (1)",
          "animated_sticker_pack":false,
