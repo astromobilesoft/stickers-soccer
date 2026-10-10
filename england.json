@@ -3,6 +3,120 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"arsenal2627",
+         "name":"Arsenal 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"astonvilla2627",
+         "name":"Aston Villa 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },      
+      {
+         "identifier":"bournemouth2627",
+         "name":"Bournemouth 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"brentford2627",
+         "name":"Brentford 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },           
+      {
+         "identifier":"brighton2627",
+         "name":"Brighton 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"chelsea2627",
+         "name":"Chelsea 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },      
+      {
+         "identifier":"crystalpalace2627",
+         "name":"Crystal Palace 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"everton2627",
+         "name":"Everton 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },       
+      {
+         "identifier":"fulham2627",
+         "name":"Fulham 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"hullcity2627",
+         "name":"Hull city 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },      
+      {
+         "identifier":"ipswich2627",
+         "name":"Ipswich 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"leeds2627",
+         "name":"Leeds 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },       
+      {
+         "identifier":"liverpool2627",
+         "name":"Liverpool 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"manchestercity2627",
+         "name":"Manchester City 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },     
+      {
+         "identifier":"manchesterunited2627",
+         "name":"Manchester City 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },            
+      {
+         "identifier":"newcastle2627",
+         "name":"Newcastle 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"nottinghamforest2627",
+         "name":"Nottingham Forest 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },            
+      {
+         "identifier":"sunderland2627",
+         "name":"Sunderland 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"tottenham2627",
+         "name":"Tottenham 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },        
+      {
          "identifier":"ucl2627manchestercityportraits1",
          "name":"Manchester City Portraits (1)",
          "animated_sticker_pack":false,
