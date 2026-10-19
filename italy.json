@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"teamsseriea2627",
+         "name":"Serie A 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      }, 
+      {
+         "identifier":"teamsserieb2627",
+         "name":"Serie B 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },         
+      {
          "identifier":"ucl2627intermilanportraits1",
          "name":"Inter Milan Portraits (1)",
          "animated_sticker_pack":false,

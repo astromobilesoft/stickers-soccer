@@ -3,6 +3,54 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"teamsallsvenskan2627",
+         "name":"Allsvenskan 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      }, 
+      {
+         "identifier":"teamsekstraklasa2627",
+         "name":"Ekstraklasa 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },         
+      {
+         "identifier":"teamseredivisie2627",
+         "name":"Eredivisie 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      }, 
+      {
+         "identifier":"teamsj1league2627",
+         "name":"J1 League 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },  
+      {
+         "identifier":"teamspremierleaguerussian2627",
+         "name":"Premier Russian 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },   
+      {
+         "identifier":"teamsscottishpremiership2627",
+         "name":"Scottish Premiership 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },   
+      {
+         "identifier":"teamssuperliga2627",
+         "name":"Superliga 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      }, 
+      {
+         "identifier":"teamsveikkausliiga2627",
+         "name":"Sveikkausliiga 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },                          
+      {
          "identifier":"2026uefasupercupw1",
          "name":"PSG Super Cup Champions 2026",
          "animated_sticker_pack":false,

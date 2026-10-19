@@ -3,6 +3,48 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"teamsbrasileirao2627",
+         "name":"Brasileirão 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      }, 
+      {
+         "identifier":"teamsligadeprimera2627",
+         "name":"Liga de Primera 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },  
+      {
+         "identifier":"teamsligamx2627",
+         "name":"Liga Mx 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      }, 
+      {
+         "identifier":"teamsligaexpansion2627",
+         "name":"Liga Expansión 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      }, 
+      {
+         "identifier":"teamsligaprofesionalfutbol2627",
+         "name":"Liga Profesional 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"teamsmls2627",
+         "name":"MLS 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"teamsprimeradivision2627",
+         "name":"Primera División 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },                         
+      {
          "identifier":"seleccionamistosos2026e",
          "name":"Argentina vs Benin",
          "animated_sticker_pack":false,

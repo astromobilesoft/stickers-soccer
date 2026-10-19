@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"teamspremierleague2627",
+         "name":"Premier League 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },         
+      {
+         "identifier":"teamseflchampionship2627",
+         "name":"EFL Championship 2026-27",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },        
+      {
          "identifier":"arsenal2627",
          "name":"Arsenal 2026-27",
          "animated_sticker_pack":false,
