@@ -3,6 +3,120 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"alaves2627",
+         "name":"Alaves 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"atleticomadrid2627",
+         "name":"Atlético Madrid 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"barcelona2627",
+         "name":"Barcelona 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"betis2627",
+         "name":"Betis 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"bilbao2627",
+         "name":"Ath Bilbao 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"celta2627",
+         "name":"Celta de Vigo 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"deportivolacoruna2627",
+         "name":"Dep. La Coruña 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"elche2627",
+         "name":"Elche 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"espanyol2627",
+         "name":"Espanyol 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"getafe2627",
+         "name":"Getafe 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"levante2627",
+         "name":"Levante 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"malaga2627",
+         "name":"Málaga 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },                        
+      {
+         "identifier":"osasuna2627",
+         "name":"Osasuna 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"rayovallecano2627",
+         "name":"Rayo Vallecano 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"realmadrid2627",
+         "name":"Real Madrid 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"realsociedad2627",
+         "name":"Real Sociedad 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"sevilla2627",
+         "name":"Sevilla 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"valencia2627",
+         "name":"Valencia 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"villareal2627",
+         "name":"Villareal 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
          "identifier":"2026barcelonavsrealmadrid1",
          "name":"Barcelona vs Real Madrid",
          "animated_sticker_pack":false,
