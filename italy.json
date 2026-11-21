@@ -87,6 +87,12 @@
          "stickers":"21"
       }, 
       {
+         "identifier":"kitfiorentina2627c",
+         "name":"Fiorentina Third 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },         
+      {
          "identifier":"kitfrosinone2627a",
          "name":"Frosinone Home 26-27",
          "animated_sticker_pack":false,
@@ -134,6 +140,12 @@
          "animated_sticker_pack":false,
          "stickers":"24"
       }, 
+      {
+         "identifier":"kitintermilan2627c",
+         "name":"Inter Third 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },       
       {
          "identifier":"kitjuventus2627a",
          "name":"Juventus Home 26-27",
