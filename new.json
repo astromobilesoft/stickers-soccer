@@ -3,6 +3,126 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"atalanta2627",
+         "name":"Atalanta 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"bologna2627",
+         "name":"Bologna 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"cagliari2627",
+         "name":"Cagliari 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"como2627",
+         "name":"Como 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"fiorentina2627",
+         "name":"Fiorentina 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"frosinone2627",
+         "name":"Frosinone 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"genoa2627",
+         "name":"Genoa 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },                                    
+      {
+         "identifier":"intermilan2627",
+         "name":"Inter Milan 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"juventus2627",
+         "name":"Juventus 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lazio2627",
+         "name":"Lazio 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lecce2627",
+         "name":"Lecce 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"milan2627",
+         "name":"Milan 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"monza2627",
+         "name":"Monza 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"napoli2627",
+         "name":"Napoli 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"parma2627",
+         "name":"Parma 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },  
+      {
+         "identifier":"roma2627",
+         "name":"Roma 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"sassuolo2627",
+         "name":"Sassuolo 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"torino2627",
+         "name":"Torino 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"udinese2627",
+         "name":"Udinese 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"venezia2627",
+         "name":"Venezia 26-27",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },       
+      {
          "identifier":"2026bocasudamericana1",
          "name":"Boca Jrs Campeón Sudamericana 2026",
          "animated_sticker_pack":false,
